@@ -82,23 +82,23 @@
       },
       {
         "icon": "Home",
-        "title": "INDUSTRIA 2 Trailers",
-        "description": "Official videos and what each trailer shows"
+        "title": "INDUSTRIA 2 Trailers and Gameplay Videos",
+        "description": "Launch trailer, teaser, story trailer, and gameplay-focused footage"
       },
       {
         "icon": "Eye",
         "title": "INDUSTRIA 2 Beginner Guide",
-        "description": "Starting route, resources, and first-hour priorities"
+        "description": "Core genre setup, demo checks, exploration rhythm, and combat discipline"
       },
       {
         "icon": "AlertTriangle",
-        "title": "INDUSTRIA 2 Weapons",
-        "description": "Weapon list, attachments, and combat use cases"
+        "title": "INDUSTRIA 2 Weapons and Upgrades",
+        "description": "Weapon roles, upgrade focus, and practical encounter usage"
       },
       {
         "icon": "ArrowRight",
-        "title": "INDUSTRIA 2 Crafting",
-        "description": "Inventory flow, crafting loops, and material routing"
+        "title": "INDUSTRIA 2 Crafting and Inventory",
+        "description": "Resource search, diegetic inventory flow, recipes, and support tools"
       },
       {
         "icon": "TrendingUp",
@@ -273,137 +273,147 @@
     "lucidBlocksQualiaAndBaseBuilding": {
       "title": "INDUSTRIA 2 Trailers and Gameplay Videos",
       "displayType": "cards",
-      "intro": "These INDUSTRIA 2 trailers help players quickly evaluate visual tone, combat pacing, and story direction before purchase.",
+      "intro": "This module helps players quickly understand INDUSTRIA 2 tone with key official videos, including launch, release date, story, and gameplay trailers.",
       "cards": [
         {
-          "name": "INDUSTRIA 2 Official Launch Trailer",
-          "description": "The launch trailer delivers the clearest short-form snapshot of combat rhythm, set pieces, and story urgency."
+          "name": "INDUSTRIA 2 Launch Trailer",
+          "description": "The launch trailer presents INDUSTRIA 2 as a released narrative FPS and showcases exploration, firefights, AI-driven horror pressure, and Nora's push to return home."
         },
         {
-          "name": "INDUSTRIA 2 Release Date Trailer",
-          "description": "The release date trailer establishes launch timing and reinforces the visual identity of the sequel."
+          "name": "INDUSTRIA 2 Release Date Teaser",
+          "description": "The teaser delivers a compact pre-launch mood check built around bleak sci-fi spaces, lonely traversal, and the machine-built atmosphere of the sequel."
         },
         {
           "name": "INDUSTRIA 2 Story Trailer",
-          "description": "The story trailer focuses on Nora, ATLAS, and the emotional weight behind the machine-consumed world."
+          "description": "The story trailer centers on Nora, her connection to ATLAS, and the personal narrative stakes that drive the INDUSTRIA 2 campaign."
         },
         {
-          "name": "INDUSTRIA 2 Gameplay Trailer",
-          "description": "Gameplay footage highlights exploration speed, encounter spacing, and how the weapon loop feels in practice."
+          "name": "INDUSTRIA 2 Official Gameplay Trailer",
+          "description": "Gameplay footage highlights exploration flow, encounter spacing, survival-horror pacing, resource pressure, and physics-based interaction systems."
         }
       ],
       "highlights": [
-        "Watch INDUSTRIA 2 launch trailer first",
-        "Compare INDUSTRIA 2 story and gameplay cuts",
-        "Check INDUSTRIA 2 pacing before buying",
-        "Use trailer cues to pick your first guide path"
+        "Use INDUSTRIA 2 launch footage for a final release overview",
+        "Use INDUSTRIA 2 teaser footage for setting and mood checks",
+        "Use INDUSTRIA 2 story footage for Nora and ATLAS context",
+        "Use INDUSTRIA 2 gameplay footage for combat and exploration rhythm"
       ]
     },
     "lucidBlocksWorldRegions": {
       "title": "INDUSTRIA 2 Beginner Guide",
       "displayType": "regionCards",
-      "intro": "New players can use this INDUSTRIA 2 module to build a stable first-session route without wasting resources or early upgrades.",
+      "intro": "Start INDUSTRIA 2 with story-first expectations, then build a deliberate route around exploration, resource discipline, and controlled combat.",
       "regions": [
         {
-          "name": "INDUSTRIA 2 First-Hour Priorities",
-          "type": "Start Route",
-          "description": "Prioritize safe exploration, ammo awareness, and observation before forcing aggressive push routes."
+          "name": "INDUSTRIA 2 Core Genre Setup",
+          "type": "Step 1",
+          "description": "INDUSTRIA 2 is a single-player narrative FPS with survival-horror and immersive-sim elements, so treat each new area as both story space and resource space."
         },
         {
-          "name": "INDUSTRIA 2 Resource Discipline",
-          "type": "Resource Plan",
-          "description": "Collect utility materials consistently and avoid early overuse of rare combat resources."
+          "name": "INDUSTRIA 2 Demo System Check",
+          "type": "Step 2",
+          "description": "Use the demo to validate pacing, combat rhythm, atmosphere, and diegetic inventory handling before committing to a full-run plan."
         },
         {
-          "name": "INDUSTRIA 2 Combat Pacing",
-          "type": "Fight Approach",
-          "description": "Treat fights as controlled encounters and use map geometry to isolate pressure from multiple enemy angles."
+          "name": "INDUSTRIA 2 Full-Room Exploration Routine",
+          "type": "Step 3",
+          "description": "Search shelves, side rooms, corners, and interactive props before advancing, because notes, collectibles, recipes, and support items reward careful scanning."
         },
         {
-          "name": "INDUSTRIA 2 Upgrade Timing",
-          "type": "Progression Plan",
-          "description": "Delay non-essential upgrades and invest first in consistency upgrades that reduce encounter risk."
+          "name": "INDUSTRIA 2 Ammo and Encounter Discipline",
+          "type": "Step 4",
+          "description": "Conserve ammunition in high-pressure segments and reserve stronger weapons for tight rooms, high-threat enemies, and unavoidable pressure spikes."
+        },
+        {
+          "name": "INDUSTRIA 2 Physics Interaction Awareness",
+          "type": "Step 5",
+          "description": "When stuck, inspect physical objects and environmental cues first, because interaction design and progression clues are grounded in the world space."
+        },
+        {
+          "name": "INDUSTRIA 2 Upgrade-by-Playstyle Planning",
+          "type": "Step 6",
+          "description": "Prioritize upgrade paths around real usage patterns, with reload speed and ammo capacity often stabilizing early runs better than raw damage stacking."
         }
       ]
     },
     "lucidBlocksCreaturesAndEnemies": {
       "title": "INDUSTRIA 2 Weapons and Upgrades",
       "displayType": "creatureCards",
-      "intro": "This module outlines the INDUSTRIA 2 weapon set and the practical upgrade logic that supports steady combat performance.",
+      "intro": "INDUSTRIA 2 uses a compact six-weapon lineup where each slot has a clear combat role, and upgrade priorities should match encounter pacing and resource pressure.",
       "creatures": [
         {
           "name": "INDUSTRIA 2 Axe",
-          "role": "Melee Weapon",
-          "description": "The axe handles close-range pressure and conservative resource play when ammunition is limited."
+          "role": "Melee Fallback",
+          "description": "Use the axe for close-range cleanup and low-ammo situations where preserving firearm resources is the safest long-route choice."
         },
         {
           "name": "INDUSTRIA 2 Pistol",
-          "role": "Sidearm",
-          "description": "The pistol is a flexible baseline option for precise, low-cost engagements in early and mid chapters."
+          "role": "General Sidearm",
+          "description": "Use the pistol for efficient standard encounters, then scale consistency with balanced upgrade focus across damage, reload speed, capacity, and rate of fire."
         },
         {
           "name": "INDUSTRIA 2 Revolver",
-          "role": "High Impact Sidearm",
-          "description": "The revolver rewards accuracy with higher impact shots and serves as a strong medium-threat answer."
+          "role": "High-Impact Precision",
+          "description": "The revolver is best against high-health single targets where accuracy matters more than sustained output, with damage and reload speed as high-value upgrades."
         },
         {
           "name": "INDUSTRIA 2 SMG",
-          "role": "Close-Mid Pressure",
-          "description": "SMG fire helps control close waves where mobility and short burst stability matter most."
+          "role": "Sustained Pressure",
+          "description": "Use the SMG when multiple enemies compress space, and prioritize capacity, rate of fire, reload speed, and control-oriented attachments."
         },
         {
           "name": "INDUSTRIA 2 Rifle",
-          "role": "Range Control",
-          "description": "The rifle is strongest when spacing is available and encounter flow can be managed at range."
+          "role": "Mid-Range Control",
+          "description": "Use the rifle to create distance and remove threats before they close, then tune upgrades toward stable precision and capacity for longer rooms."
         },
         {
           "name": "INDUSTRIA 2 Shotgun",
-          "role": "Burst Damage",
-          "description": "Shotgun pressure is ideal for high-threat short-range windows and emergency room clears."
+          "role": "Close Burst Damage",
+          "description": "Save the shotgun for dangerous short-range windows, boss pressure, and panic clears; it is powerful but should remain tightly budgeted."
         }
       ]
     },
     "lucidBlocksMobilityGear": {
       "title": "INDUSTRIA 2 Crafting and Inventory",
       "displayType": "itemCards",
-      "intro": "INDUSTRIA 2 combines crafting choices with inventory pressure, so route planning and item prioritization are tightly connected.",
+      "intro": "Crafting and inventory in INDUSTRIA 2 are part of physical world interaction, so survival consistency comes from resource routes, diegetic management, and encounter-aware preparation.",
       "items": [
         {
-          "name": "INDUSTRIA 2 Crafting Recipes",
-          "type": "Progression Resource",
-          "description": "Collect crafting components consistently to unlock practical upgrades that support long fights and exploration loops."
+          "name": "INDUSTRIA 2 Resource Search Discipline",
+          "type": "Step 1",
+          "description": "Treat exploration and scavenging as the core loop, because side paths and environment details often hold materials, notes, collectibles, and recipe progression."
         },
         {
-          "name": "INDUSTRIA 2 Inventory Management",
-          "type": "Loadout Control",
-          "description": "Keep ammo, healing, and utility items balanced to avoid hard resets when pacing spikes mid-level."
+          "name": "INDUSTRIA 2 Diegetic Inventory Habits",
+          "type": "Step 2",
+          "description": "Use quiet windows to review supplies and balance combat tools, since inventory management is grounded in-world rather than detached from immersion."
         },
         {
-          "name": "INDUSTRIA 2 Material Routing",
-          "type": "Route Planning",
-          "description": "Use repeatable routes for key components rather than relying on random scavenging in every chapter."
+          "name": "INDUSTRIA 2 Crafting Recipe Tracking",
+          "type": "Step 3",
+          "description": "Track recipe pickups as progression assets, because recipe coverage directly improves long-route preparedness and completion efficiency."
         },
         {
-          "name": "INDUSTRIA 2 Utility Priorities",
-          "type": "Risk Reduction",
-          "description": "Prioritize upgrades that stabilize survival first, then invest in specialized combat improvements."
+          "name": "INDUSTRIA 2 Support Item Strategy",
+          "type": "Step 4",
+          "description": "Use support items proactively to prevent ammunition waste and stabilize difficult rooms instead of hoarding every utility option."
         },
         {
-          "name": "INDUSTRIA 2 Combat Sustain",
-          "type": "Ammo Economy",
-          "description": "Preserve core ammunition types for unavoidable pressure fights and use backup options whenever possible."
+          "name": "INDUSTRIA 2 Threat-Aware Crafting",
+          "type": "Step 5",
+          "description": "Before high-pressure segments, align available craft options with upcoming enemy pressure, boss readiness, and current ammo reserves."
         },
         {
-          "name": "INDUSTRIA 2 Recovery Items",
-          "type": "Stability Tools",
-          "description": "Track emergency recovery inventory before entering long objective rooms to avoid forced replay loops."
+          "name": "INDUSTRIA 2 Collectible-Integrated Routing",
+          "type": "Step 6",
+          "description": "Integrate notes and collectibles into your survival route so world comprehension and preparation quality scale together across the campaign."
         }
       ],
       "unlockMilestones": [
-        "Build INDUSTRIA 2 first crafting loop",
-        "Stabilize INDUSTRIA 2 inventory flow",
-        "Secure INDUSTRIA 2 core resources",
-        "Scale INDUSTRIA 2 upgrade consistency"
+        "Map INDUSTRIA 2 high-value resource rooms early",
+        "Stabilize INDUSTRIA 2 diegetic inventory flow",
+        "Track INDUSTRIA 2 recipe and support-item loops",
+        "Prepare INDUSTRIA 2 crafting before major threat zones"
       ]
     },
     "lucidBlocksFarmingAndGrowth": {

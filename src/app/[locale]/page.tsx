@@ -31,18 +31,18 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.industria2.wiki'
 
   return {
-    title: 'Industria 2 - Release Date, Trailer & Guide',
+    title: 'INDUSTRIA 2 - Release Date, Trailers & Guide',
     description:
-      'Find Industria 2 release date, Steam status, official trailer, system requirements, story length, achievements, weapons, levels and beginner guide.',
+      'Find INDUSTRIA 2 release date, Steam status, official trailers, beginner guide, weapons, crafting systems, and walkthrough-ready module coverage.',
     alternates: buildLanguageAlternates('/', locale as Locale, siteUrl),
     openGraph: {
       type: 'website',
       locale,
       url: locale === 'en' ? siteUrl : `${siteUrl}/${locale}`,
       siteName: 'INDUSTRIA 2',
-      title: 'Industria 2 - Release Date, Trailer & Guide',
+      title: 'INDUSTRIA 2 - Release Date, Trailers & Guide',
       description:
-        'Find Industria 2 release date, Steam status, official trailer, system requirements, story length, achievements, weapons, levels and beginner guide.',
+        'Find INDUSTRIA 2 release date, Steam status, official trailers, beginner guide, weapons, crafting systems, and walkthrough-ready module coverage.',
       images: [
         {
           url: `${siteUrl}/images/hero.webp`,
@@ -54,9 +54,9 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     },
     twitter: {
       card: 'summary_large_image',
-      title: 'Industria 2 - Release Date, Trailer & Guide',
+      title: 'INDUSTRIA 2 - Release Date, Trailers & Guide',
       description:
-        'Find Industria 2 release date, Steam status, official trailer, system requirements, story length, achievements, weapons, levels and beginner guide.',
+        'Find INDUSTRIA 2 release date, Steam status, official trailers, beginner guide, weapons, crafting systems, and walkthrough-ready module coverage.',
       images: [`${siteUrl}/images/hero.webp`],
       creator: '@INDUSTRIA_game',
     },

@@ -1,12 +1,26 @@
 {
-  "name": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-  "short_name": "Lucid Blocks",
-  "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
+  "id": "/",
+  "name": "INDUSTRIA 2 Wiki - Release Date, Trailer & Guide",
+  "short_name": "INDUSTRIA 2",
+  "description": "INDUSTRIA 2 Wiki with release date, trailer, system requirements, story details, achievements, weapons, enemies, and walkthrough guides.",
+  "lang": "en",
+  "dir": "ltr",
   "start_url": "/",
+  "scope": "/",
   "display": "standalone",
+  "display_override": [
+    "standalone",
+    "browser"
+  ],
   "orientation": "any",
-  "theme_color": "#1a7a7a",
-  "background_color": "#0a0a0a",
+  "theme_color": "#1488A3",
+  "background_color": "#05080D",
+  "categories": [
+    "games",
+    "entertainment",
+    "reference"
+  ],
+  "prefer_related_applications": false,
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
@@ -21,8 +35,8 @@
       "purpose": "any maskable"
     },
     {
-      "src": "/favicon-16x16.png",
-      "sizes": "16x16",
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
       "type": "image/png"
     },
     {
@@ -31,9 +45,14 @@
       "type": "image/png"
     },
     {
-      "src": "/apple-touch-icon.png",
-      "sizes": "180x180",
+      "src": "/favicon-16x16.png",
+      "sizes": "16x16",
       "type": "image/png"
+    },
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
     }
   ]
 }

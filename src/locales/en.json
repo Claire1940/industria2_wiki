@@ -102,23 +102,23 @@
       },
       {
         "icon": "TrendingUp",
-        "title": "INDUSTRIA 2 Enemies",
-        "description": "Enemy types, boss pressure, and encounter planning"
+        "title": "INDUSTRIA 2 Enemies and Bosses",
+        "description": "Enemy types, boss count, robot body horror tone, and combat mindset"
       },
       {
         "icon": "Star",
-        "title": "INDUSTRIA 2 Walkthrough",
-        "description": "Chapter progression, level route, and pacing"
+        "title": "INDUSTRIA 2 Walkthrough and Levels",
+        "description": "Campaign flow, Cannery onboarding, 20 levels, and 4-7 hour route planning"
       },
       {
         "icon": "ClipboardCheck",
-        "title": "INDUSTRIA 2 Story",
-        "description": "Nora, ATLAS, parallel world, and timeline context"
+        "title": "INDUSTRIA 2 Story and Lore",
+        "description": "Nora, ATLAS, parallel dimension, and 1989 East Berlin context"
       },
       {
         "icon": "MessageCircle",
-        "title": "INDUSTRIA 2 Endings FAQ",
-        "description": "Choice outcomes and spoiler-safe ending guidance"
+        "title": "INDUSTRIA 2 Endings and Choices",
+        "description": "Stay and Leave outcomes, spoiler-safe choices, and ending prep"
       },
       {
         "icon": "Gamepad2",
@@ -419,139 +419,151 @@
     "lucidBlocksFarmingAndGrowth": {
       "title": "INDUSTRIA 2 Enemies and Bosses",
       "displayType": "mixedCards",
-      "intro": "This module breaks down enemy pressure in INDUSTRIA 2, including core hostile patterns and boss preparation priorities.",
+      "intro": "Track enemy count, boss count, robot body horror style, and practical combat approach in INDUSTRIA 2 with spoiler-safe structure.",
       "sections": [
         {
-          "name": "INDUSTRIA 2 Standard Enemy Patterns",
-          "description": "Most encounters reward deliberate positioning and controlled pacing over constant rushing."
+          "name": "INDUSTRIA 2 Total Enemy Types: 9 Enemy Types",
+          "description": "The full launch overview lists 9 total enemy types, and encounters are tuned for slower FPS pacing, exploration pressure, and resource choices."
         },
         {
-          "name": "INDUSTRIA 2 Boss Readiness",
-          "description": "Enter boss rooms with a planned ammo split and at least one fallback weapon path."
+          "name": "INDUSTRIA 2 Boss Count: 2 Bosses",
+          "description": "Official launch notes state that the 9 enemy types include 2 bosses, so boss guidance should stay practical while preserving story discovery."
         },
         {
-          "name": "INDUSTRIA 2 Weak Point Discipline",
-          "description": "Observe attack cadence and expose weak windows before committing heavy ammunition."
+          "name": "INDUSTRIA 2 Combat Targets: Humans and Robots",
+          "description": "Action sequences in INDUSTRIA 2 include fights against humans and robots, with machine-driven hostility as the dominant combat identity."
         },
         {
-          "name": "INDUSTRIA 2 Encounter Recovery",
-          "description": "After high-intensity fights, rebuild inventory baseline before triggering the next objective chain."
+          "name": "INDUSTRIA 2 Robot Body Horror Tone",
+          "description": "Machine oil, dismemberment cues, and intense firefights are part of INDUSTRIA 2 atmosphere, so enemy presentation supports both combat and horror pressure."
+        },
+        {
+          "name": "INDUSTRIA 2 Demo Enemy Sample: 3 Enemy Types",
+          "description": "The INDUSTRIA 2 demo includes 3 enemy types and 2 weapons, giving players a compact preview before entering the full 9-type enemy roster."
+        },
+        {
+          "name": "INDUSTRIA 2 Recommended Combat Mindset",
+          "description": "Play INDUSTRIA 2 with slow scavenging, upgrade-aware planning, and deliberate room control instead of arena-style rushing."
         }
       ],
       "growthMilestones": [
-        "Read INDUSTRIA 2 enemy behavior early",
-        "Prepare INDUSTRIA 2 boss resources",
-        "Control INDUSTRIA 2 room pressure",
-        "Recover INDUSTRIA 2 route stability"
+        "Track INDUSTRIA 2 enemy and boss counts before deep strategy planning",
+        "Use INDUSTRIA 2 demo enemy behavior to calibrate pacing expectations",
+        "Treat INDUSTRIA 2 body-horror enemies as atmosphere and threat design together",
+        "Build INDUSTRIA 2 combat routes around scavenging and upgrade timing"
       ]
     },
     "lucidBlocksBestEarlyUnlocks": {
       "title": "INDUSTRIA 2 Walkthrough and Levels",
       "displayType": "priorityCards",
-      "intro": "Use this INDUSTRIA 2 walkthrough module to understand chapter flow, level pacing, and where progression risks usually appear.",
+      "intro": "Follow INDUSTRIA 2 campaign structure, early Cannery context, route length expectations, and level-by-level progression priorities.",
       "priorities": [
         {
-          "name": "INDUSTRIA 2 Chapter Flow",
+          "name": "INDUSTRIA 2 Nora Opening Setup",
           "priority": "Essential",
-          "description": "Follow chapter order carefully to avoid missing critical setup tools and narrative triggers."
+          "description": "Begin with Nora's post-INDUSTRIA situation and explain movement, interaction, inventory, crafting, and early survival-horror rhythm before heavier combat."
         },
         {
-          "name": "INDUSTRIA 2 Level Structure",
+          "name": "INDUSTRIA 2 Cannery Early-Game Reference",
           "priority": "Very High",
-          "description": "The campaign is organized around a compact level set, so each level benefits from full area checks before exit."
+          "description": "Use the Cannery as a spoiler-safe onboarding checkpoint that introduces exploration pressure, combat cadence, and core mystery setup."
         },
         {
-          "name": "INDUSTRIA 2 Objective Route",
+          "name": "INDUSTRIA 2 20-Level Campaign Structure",
+          "priority": "Essential",
+          "description": "Track all 20 levels as early-game, mid-game, late-game, and ending-route segments until full named-level coverage is finalized."
+        },
+        {
+          "name": "INDUSTRIA 2 4-7 Hour Route Planning",
           "priority": "Very High",
-          "description": "Track objective markers and locked-path dependencies to avoid unnecessary backtracking loops."
+          "description": "Support both fast objective-focused clears and slower scavenging runs, since INDUSTRIA 2 campaign duration is commonly framed in the 4-7 hour range."
         },
         {
-          "name": "INDUSTRIA 2 Demo-to-Full Transition",
+          "name": "INDUSTRIA 2 Scavenging and Crafting Route",
           "priority": "High",
-          "description": "Players from the demo should recalibrate pacing and resource use when entering full campaign pressure."
+          "description": "Mark where players should pause for notes, collectibles, recipes, and support tools, because progression quality depends on preparation, not only objective direction."
         },
         {
-          "name": "INDUSTRIA 2 Mid-Campaign Risk Rooms",
+          "name": "INDUSTRIA 2 Late-Game Choice Preparation",
           "priority": "High",
-          "description": "Reserve stronger loadout options for high-risk rooms that chain multiple enemy waves together."
-        },
-        {
-          "name": "INDUSTRIA 2 Final Stretch Control",
-          "priority": "High",
-          "description": "Approach late chapters with conservative resource spending to keep boss and finale options open."
+          "description": "Prepare spoiler-safe guidance for ending-related choices such as Stay and Leave, with separate detail layers for first-run and completion-focused players."
         }
       ]
     },
     "lucidBlocksAchievementTracker": {
       "title": "INDUSTRIA 2 Story and Lore",
       "displayType": "achievementGrid",
-      "intro": "This module explains the core INDUSTRIA 2 lore pillars, including Nora, ATLAS, the parallel world conflict, and timeline continuity with the first game.",
+      "intro": "Understand Nora, ATLAS, the parallel dimension, 1989 East Berlin, and how INDUSTRIA 2 extends the first game with spoiler-light lore coverage.",
       "groups": [
         {
-          "name": "INDUSTRIA 2 Main Characters",
+          "name": "INDUSTRIA 2 Character Pillars",
           "achievements": [
             {
-              "title": "INDUSTRIA 2 Nora Arc",
-              "description": "Nora remains the central perspective character as the story escalates around ATLAS."
+              "title": "INDUSTRIA 2 Nora",
+              "description": "Nora is the returning protagonist, still trapped in a parallel dimension years after the first game and searching for a route back to 1989 East Berlin."
             },
             {
-              "title": "INDUSTRIA 2 ATLAS Threat",
-              "description": "ATLAS represents the primary machine intelligence pressure driving the conflict."
+              "title": "INDUSTRIA 2 ATLAS",
+              "description": "ATLAS is the central artificial intelligence pressure in INDUSTRIA 2, framed as both a direct threat and a consequence of Nora's earlier involvement."
             }
           ]
         },
         {
-          "name": "INDUSTRIA 2 World Context",
+          "name": "INDUSTRIA 2 World Foundations",
           "achievements": [
             {
               "title": "INDUSTRIA 2 Parallel Dimension",
-              "description": "The game world blends industrial ruin and hostile machine life in a warped dimension."
+              "description": "The core setting combines machine-built walls, boreal spaces, and industrial decay to create a hostile world where exploration and story tension evolve together."
             },
             {
               "title": "INDUSTRIA 2 East Berlin Timeline",
-              "description": "Timeline context tied to 1989 framing remains a key identity thread for the series."
+              "description": "1989 East Berlin remains the historical anchor of the series and defines Nora's destination throughout INDUSTRIA 2."
             }
           ]
         },
         {
-          "name": "INDUSTRIA 2 Sequel Continuity",
+          "name": "INDUSTRIA 2 Sequel Context and Theme",
           "achievements": [
             {
               "title": "INDUSTRIA 2 Links to INDUSTRIA",
-              "description": "The sequel expands unresolved conflict from the first game while deepening Nora’s stakes."
+              "description": "INDUSTRIA 2 continues the second chapter of Nora's journey, expanding conflict seeds from the first INDUSTRIA and deepening sequel continuity."
             },
             {
-              "title": "INDUSTRIA 2 Narrative Scope",
-              "description": "Story beats are compact but focused on tension, consequence, and environmental storytelling."
+              "title": "INDUSTRIA 2 Responsibility and Return Theme",
+              "description": "The story theme centers on memory, responsibility, survival pressure, and Nora's determination to return home despite machine-world consequences."
             }
           ]
         }
       ]
     },
     "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "INDUSTRIA 2 Endings and Choices FAQ",
+      "title": "INDUSTRIA 2 Endings and Choices",
       "displayType": "accordion",
-      "intro": "This INDUSTRIA 2 FAQ explains ending-related choices in a spoiler-aware format so players can plan outcomes deliberately.",
+      "intro": "Track INDUSTRIA 2 ending achievements, major choice labels, and spoiler-layered completion notes with a clear endings FAQ structure.",
       "faqs": [
         {
-          "question": "How do INDUSTRIA 2 ending choices affect the finale?",
-          "answer": "INDUSTRIA 2 choices shape interpretation, pacing of the final stretch, and how players read Nora’s conclusion."
+          "question": "How many Steam achievements does INDUSTRIA 2 have?",
+          "answer": "INDUSTRIA 2 has 30 Steam achievements, covering story progression, combat actions, collectible tracking, and ending-related completion goals."
         },
         {
-          "question": "Does INDUSTRIA 2 have multiple ending outcomes?",
-          "answer": "INDUSTRIA 2 supports ending interpretation paths connected to decision points and campaign context."
+          "question": "Which INDUSTRIA 2 achievements matter most for ending guidance?",
+          "answer": "INDUSTRIA 2 ending planning is centered on Stay and Leave, with completion context also supported by Almost Home, Concentricity, Coup de Grâce, Nobody Blames You, Hoarder, and Bookworm."
         },
         {
-          "question": "Should I finish INDUSTRIA 2 once before reviewing ending guides?",
-          "answer": "A first blind run gives better narrative impact, then ending guides help with structured replay decisions."
+          "question": "What are INDUSTRIA 2 Stay and Leave achievements?",
+          "answer": "INDUSTRIA 2 lists Stay and Leave as separate achievement outcomes, so the endings section should keep each route isolated for deliberate decision tracking."
         },
         {
-          "question": "What is the best way to track INDUSTRIA 2 ending branches?",
-          "answer": "Keep separate save checkpoints before major decision windows to compare INDUSTRIA 2 outcomes efficiently."
+          "question": "Should INDUSTRIA 2 ending guides reveal final choices immediately?",
+          "answer": "INDUSTRIA 2 ending pages work best with spoiler-light summaries first, then expanded route panels so players choose when to view final-choice details."
         },
         {
-          "question": "Do INDUSTRIA 2 ending choices affect achievements?",
-          "answer": "Some INDUSTRIA 2 ending paths can align with different completion goals depending on your run strategy."
+          "question": "What should INDUSTRIA 2 completionists check before finishing?",
+          "answer": "Before locking an INDUSTRIA 2 ending route, confirm notes, collectibles, crafting recipes, tools, and low-completion achievements to avoid extra replay cleanup."
+        },
+        {
+          "question": "What is the safest INDUSTRIA 2 endings page structure?",
+          "answer": "Use a three-layer INDUSTRIA 2 format: spoiler-safe overview, named Stay and Leave accordion entries, then final interpretation notes in a deeper reveal block."
         }
       ]
     },

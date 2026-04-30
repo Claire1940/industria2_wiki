@@ -32,7 +32,11 @@
     "backToHome": "Back to Home",
     "relatedArticles": "Related Articles",
     "readMore": "Read More",
-    "articlesComingSoon": "Articles coming soon"
+    "articlesComingSoon": "Articles coming soon",
+    "quickTips": "Quick Tips",
+    "stillHavingIssues": "Still having issues?",
+    "reportBugsWithLogs": "Report bugs with your logs through the official channels:",
+    "advertisement": "Advertisement"
   },
   "hero": {
     "badge": "Narrative Sci-Fi FPS Adventure",

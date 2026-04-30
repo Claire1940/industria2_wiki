@@ -323,7 +323,7 @@ export default function HomePageClient({
               const sectionIds = [
                 'beginner-guide', 'apotheosis-crafting', 'tools-weapons', 'storage-inventory',
                 'qualia-base-building', 'world-regions', 'creatures-enemies', 'mobility-gear',
-                'enemies-and-bosses', 'walkthrough-and-levels', 'story-and-lore', 'endings-and-choices',
+                'farming-and-growth', 'walkthrough-and-levels', 'story-and-lore', 'endings-and-choices',
                 'steam-deck-controller', 'settings-accessibility', 'updates-patch-notes', 'crash-fix'
               ]
               const sectionId = sectionIds[index]
@@ -397,7 +397,7 @@ export default function HomePageClient({
           <div className="scroll-reveal p-6 bg-[hsl(var(--nav-theme)/0.05)] border border-[hsl(var(--nav-theme)/0.3)] rounded-xl">
             <div className="flex items-center gap-2 mb-4">
               <BookOpen className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
-              <h3 className="font-bold text-lg">Quick Tips</h3>
+              <h3 className="font-bold text-lg">{t.common.quickTips}</h3>
             </div>
             <ul className="space-y-2">
               {t.modules.lucidBlocksBeginnerGuide.quickTips.map((tip: string, index: number) => (
@@ -853,16 +853,16 @@ export default function HomePageClient({
             <div className="flex items-start gap-3">
               <AlertTriangle className="w-6 h-6 text-[hsl(var(--nav-theme-light))] flex-shrink-0 mt-1" />
               <div>
-                <h3 className="font-bold text-[hsl(var(--nav-theme-light))] mb-2">Still having issues?</h3>
-                <p className="text-sm text-muted-foreground mb-3">Report bugs with your logs through the official channels:</p>
+                <h3 className="font-bold text-[hsl(var(--nav-theme-light))] mb-2">{t.common.stillHavingIssues}</h3>
+                <p className="text-sm text-muted-foreground mb-3">{t.common.reportBugsWithLogs}</p>
                 <div className="flex flex-wrap gap-3">
                   <a href={officialLinks.discord} target="_blank" rel="noopener noreferrer"
                     className="inline-flex items-center gap-2 px-4 py-2 rounded-lg bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-sm hover:bg-[hsl(var(--nav-theme)/0.2)] transition-colors">
-                    <MessageCircle className="w-4 h-4" /> Discord <ExternalLink className="w-3 h-3" />
+                    <MessageCircle className="w-4 h-4" /> {t.footer.discord} <ExternalLink className="w-3 h-3" />
                   </a>
                   <a href={officialLinks.steamDiscussions} target="_blank" rel="noopener noreferrer"
                     className="inline-flex items-center gap-2 px-4 py-2 rounded-lg bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-sm hover:bg-[hsl(var(--nav-theme)/0.2)] transition-colors">
-                    Steam Community <ExternalLink className="w-3 h-3" />
+                    {t.footer.steamCommunity} <ExternalLink className="w-3 h-3" />
                   </a>
                 </div>
               </div>

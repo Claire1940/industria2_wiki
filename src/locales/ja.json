@@ -1,23 +1,23 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - クラフト、バイオーム、実績",
-      "description": "Lucid Blocks Wikiでは、Steamで展開される超現実的なボクセルサンドボックスアドベンチャーのクラフト、バイオーム、クリーチャー、アイテム、実績、エンディング、サバイバルのヒントについて解説しています。",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, クラフト, バイオーム, 実績, サバイバル, Steam",
-      "ogTitle": "Lucid Blocks Wiki - クラフト、バイオーム、実績",
-      "ogDescription": "Lucid Blocks Wikiでは、Steamで展開される超現実的なボクセルサンドボックスアドベンチャーのクラフト、バイオーム、クリーチャー、アイテム、実績、エンディング、サバイバルのヒントについて解説しています。",
-      "twitterTitle": "Lucid Blocks Wiki - クラフト、バイオーム、実績",
-      "twitterDescription": "Lucid Blocks Wikiでは、Steamの超現実的なボクセルサンドボックスにおけるクラフト、バイオーム、クリーチャー、アイテム、実績、サバイバルのヒントを網羅しています。"
+      "title": "INDUSTRIA 2 Wiki - リリース日、トレーラー、完全ガイド",
+      "description": "INDUSTRIA 2 Wikiでは、リリース状況、Steamのダウンロード方法、ゲームプレイ、ストーリー、攻略、武器、ボス、実績、パフォーマンス改善について紹介します。",
+      "keywords": "INDUSTRIA 2, INDUSTRIA 2 Wiki, INDUSTRIA 2 リリース日, INDUSTRIA 2 トレーラー, INDUSTRIA 2 ガイド, INDUSTRIA 2 攻略",
+      "ogTitle": "INDUSTRIA 2 Wiki - リリース日、トレーラー、完全ガイド",
+      "ogDescription": "INDUSTRIA 2 Wikiでは、リリース状況、Steamのダウンロード方法、ゲームプレイ、ストーリー、攻略、武器、ボス、実績、パフォーマンス改善について紹介します。",
+      "twitterTitle": "INDUSTRIA 2 Wiki - リリース日、トレーラー、完全ガイド",
+      "twitterDescription": "INDUSTRIA 2 Wikiでは、リリース状況、ゲームプレイガイド、実績、PCプレイヤー向けのプラットフォーム最適化について紹介します。"
     }
   },
   "nav": {
-    "release": "Release",
-    "platforms": "Platforms",
-    "guide": "Guide",
-    "trailers": "Trailers",
-    "performance": "Performance",
-    "reviews": "Reviews",
-    "story": "Story"
+    "release": "リリース",
+    "platforms": "プラットフォーム",
+    "guide": "ガイド",
+    "trailers": "トレーラー",
+    "performance": "パフォーマンス",
+    "reviews": "レビュー",
+    "story": "ストーリー"
   },
   "common": {
     "home": "ホーム",
@@ -32,902 +32,888 @@
     "backToHome": "ホームに戻る",
     "relatedArticles": "関連記事",
     "readMore": "続きを読む",
-    "articlesComingSoon": "記事は近日公開予定です"
+    "articlesComingSoon": "記事は近日公開予定です",
+    "quickTips": "クイックヒント",
+    "stillHavingIssues": "まだ問題が発生していますか？",
+    "reportBugsWithLogs": "公式チャンネルからログ付きで不具合を報告してください：",
+    "advertisement": "広告"
   },
   "hero": {
-    "badge": "__PROTECTED_c0b0161c__ ボクセル・サバイバル・サンドボックス",
-    "title": "Lucid Blocks Wiki",
-    "description": "夢のようなバイオームを探索し、Apotheosisでアイテムを融合、自由に建築を楽しみましょう。Steamで繰り広げられるこのシュールなオープンワールド・サンドボックスで、奇妙なクリーチャーから生き延びてください。",
-    "getFreeCodesCTA": "クラフトガイドを見る",
-    "playOnSteamCTA": "Steamでプレイ",
+    "badge": "物語重視のSF FPSアドベンチャー",
+    "title": "INDUSTRIA 2",
+    "description": "INDUSTRIA 2 は、飢え続ける人工知能に支配された敵対的な並行世界を Nora が探索する、シングルプレイの物語重視FPSアドベンチャーです。",
+    "getFreeCodesCTA": "ガイドを読む",
+    "playOnSteamCTA": "Steamで見る",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "オンラインプレイヤー"
+        "value": "2026年4月29日",
+        "label": "Steamリリース"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "最大同時接続数"
+        "value": "5～7時間",
+        "label": "ストーリーの長さ"
       },
       "stat3": {
-        "value": "97%",
-        "label": "好評"
+        "value": "30",
+        "label": "Steam実績"
       },
       "stat4": {
-        "value": "2026年3月12日",
-        "label": "リリース日"
+        "value": "20",
+        "label": "キャンペーンレベル"
       }
     }
   },
   "gameFeature": {
-    "title": "Lucid Blocks ゲームプレイ",
-    "description": "超現実的なバイオームを探索し、Apotheosis でアイテムを融合。Steam で、奇妙なクリーチャーから生き延びる夢のようなボクセルサンドボックスを体験しましょう。"
+    "title": "INDUSTRIA 2 ゲームプレイ",
+    "description": "INDUSTRIA 2 の物語重視のFPS戦闘、雰囲気のある世界観デザイン、武器強化、PC向けの集中的なシングルプレイキャンペーンを体験しましょう。"
   },
   "tools": {
-    "title": "Lucid Blocks",
-    "titleHighlight": "リソース",
-    "subtitle": "Lucid Blocksでの探索、クラフト、生存に必要なすべての情報",
+    "title": "INDUSTRIA 2",
+    "titleHighlight": "モジュールナビゲーション",
+    "subtitle": "INDUSTRIA 2 のホームページの各モジュールへ移動し、各トピックを素早く閲覧できます",
     "cards": [
       {
         "icon": "BookOpen",
-        "title": "初心者ガイド",
-        "description": "最初のステップ、探索、序盤の進め方"
+        "title": "INDUSTRIA 2 リリース状況",
+        "description": "発売日、延期の経緯、現在の Steam 状況"
       },
       {
         "icon": "Sparkles",
-        "title": "Apotheosis クラフト",
-        "description": "フリーフォーム・フュージョンシステムと序盤のレシピ"
+        "title": "INDUSTRIA 2 のダウンロードと価格",
+        "description": "Steamでの購入、デモへのアクセス、ストア比較"
       },
       {
         "icon": "Hammer",
-        "title": "ツールと武器",
-        "description": "フロストピック、アズラエル、__PROTECTED_6a765cb2__、その他"
+        "title": "INDUSTRIA 2 ゲームプレイ概要",
+        "description": "ゲームの種類、進行テンポ、コア体験の見どころ"
       },
       {
         "icon": "Package",
-        "title": "ストレージとインベントリ",
-        "description": "キャッシュキューブ、キャビネット、クオリアストレージ"
+        "title": "INDUSTRIA 2 システム要件",
+        "description": "PC向けの最小および推奨スペック"
       },
       {
         "icon": "Home",
-        "title": "クオリアと拠点建築",
-        "description": "パーソナルクオリアと拠点のセットアップ"
+        "title": "INDUSTRIA 2 トレーラーとゲームプレイ動画",
+        "description": "ローンチトレーラー、ティーザー、ストーリートレーラー、ゲームプレイ映像"
       },
       {
         "icon": "Eye",
-        "title": "ワールドエリア",
-        "description": "Fog Meadow、エッセンスの沼地、その他"
+        "title": "INDUSTRIA 2 初心者ガイド",
+        "description": "基本ジャンルの理解、デモの確認、探索のリズム、戦闘の心得"
       },
       {
         "icon": "AlertTriangle",
-        "title": "クリーチャーと敵",
-        "description": "マネキン、クモ、そして生き残る方法"
+        "title": "INDUSTRIA 2 武器と強化",
+        "description": "武器の役割、強化の重点、実戦での使いどころ"
       },
       {
         "icon": "ArrowRight",
-        "title": "移動用装備",
-        "description": "__PROTECTED_6a765cb2__、グライダーグローブ、__PROTECTED_163b9bec__"
+        "title": "INDUSTRIA 2 クラフトとインベントリ",
+        "description": "資源探索、ゲーム内表現に沿ったインベントリの流れ、レシピ、支援ツール"
       },
       {
         "icon": "TrendingUp",
-        "title": "農業と成長",
-        "description": "種の進行と素材集め"
+        "title": "INDUSTRIA 2 敵とボス",
+        "description": "敵タイプ、ボス数、ロボットボディホラーの雰囲気、戦闘の心構え"
       },
       {
         "icon": "Star",
-        "title": "序盤のおすすめアンロック",
-        "description": "プレイ開始1時間で優先すべきアップグレード"
+        "title": "INDUSTRIA 2 攻略とレベル",
+        "description": "キャンペーンの流れ、Canneryでの導入、20レベル、4～7時間のルート計画"
       },
       {
         "icon": "ClipboardCheck",
-        "title": "実績トラッカー",
-        "description": "全19個のSteamの実績と解除条件"
+        "title": "INDUSTRIA 2 ストーリーと世界観",
+        "description": "Nora、ATLAS、並行世界、1989年の東ベルリンという背景"
       },
       {
         "icon": "MessageCircle",
-        "title": "シングルプレイヤーFAQ",
-        "description": "プラットフォーム、価格、協力プレイ、言語に関する質問"
+        "title": "INDUSTRIA 2 エンディングと選択",
+        "description": "Stay と Leave の結果、ネタバレを避けた選択肢、エンディング準備"
       },
       {
         "icon": "Gamepad2",
-        "title": "Steam Deckとコントローラー",
-        "description": "Proton 9.0.4のセットアップとコントローラーのヒント"
+        "title": "INDUSTRIA 2 コレクティブルとメモ",
+        "description": "28のメモ、13の収集アイテム、10のクラフトレシピ、コンプリート向けルート計画"
       },
       {
         "icon": "Settings",
-        "title": "設定とアクセシビリティ",
-        "description": "手の非表示、__PROTECTED_38625270__、表示オプション"
+        "title": "INDUSTRIA 2 実績ガイド",
+        "description": "ストーリー、武器、戦闘、収集、エンディングにまたがる全30件の Steam 実績"
       },
       {
         "icon": "Clock",
-        "title": "アップデートとパッチノート",
-        "description": "最近の修正とロードマップ"
+        "title": "INDUSTRIA 2 Steam Deckとパフォーマンス",
+        "description": "Steam Deckの対応状況、DX11とDX12の選択、実用的なグラフィック最適化手順"
       },
       {
-        "icon": "Shield",
-        "title": "クラッシュ修正",
-        "description": "__PROTECTED_38625270__の確認、ログのパス、バグ報告"
+        "icon": "Check",
+        "title": "INDUSTRIA 2 レビュー、不具合、パッチノート",
+        "description": "発売時レビューの概要、既知の問題の追跡、優先度の高いパッチ確認リスト"
       }
     ]
   },
   "modules": {
     "lucidBlocksBeginnerGuide": {
-      "title": "Lucid Blocks 初心者ガイド",
+      "title": "INDUSTRIA 2 の発売日とローンチ状況",
       "displayType": "steps",
-      "intro": "まずは探索、融合、そして進行がどのように繋がっているかを学ぶことから始めましょう。Lucid Blocks では試行錯誤が報われます。序盤の進行は、珍しい素材を集め、組み合わせを試し、自分だけのクオリアを解放することから始まります。",
+      "intro": "このモジュールでは、最終発売日、スケジュール変更、プラットフォーム状況、販売情報など、INDUSTRIA 2 の最も重要なローンチ情報をまとめています。",
       "steps": [
         {
-          "title": "本格的に動く前に探索する",
-          "description": "外へ歩き出し、一般的なブロックを採掘し、見つけた奇妙なドロップアイテムはすべて取っておきましょう。序盤の進行は、決まったクエストをこなすことよりも、素材が何に変化するかを発見することに重点が置かれています。"
+          "title": "INDUSTRIA 2 の現在の状況を確認",
+          "description": "INDUSTRIA 2 は Steam で配信中で、ストアページ、コミュニティハブ、ローンチ価格が設定されています。"
         },
         {
-          "title": "早めに自分専用のクオリアを解放する",
-          "description": "自分専用のクオリアは、序盤で最も重要なマイルストーンの一つです。体制を立て直し、拠点を構築するための信頼できる場所となります。"
+          "title": "INDUSTRIA 2 の最終発売日を確認",
+          "description": "公式 Steam 掲載情報では、INDUSTRIA 2 の最終発売日は 2026年4月29日 と表示されています。"
         },
         {
-          "title": "序盤の素早い進行にオスミウムを活用する",
-          "description": "オスミウムは序盤で最も役立つ素材の一つです。オスミウムと棒を組み合わせて、素早い採掘が可能な「フロストピック」を作るのが人気の序盤ルートです。"
+          "title": "INDUSTRIA 2 の延期の経緯を確認",
+          "description": "正式リリース前に、発売予定日は 2026年4月15日 から 2026年4月29日 に変更されました。"
         },
         {
-          "title": "優れた融合を記録する",
-          "description": "成功した組み合わせはジャーナルに記録しておきましょう。Lucid Blocks には膨大な融合パターンがあるため、有用な結果を書き留めておくことで大幅な時間の節約になります。"
+          "title": "INDUSTRIA 2 の開発元と販売元を確認",
+          "description": "INDUSTRIA 2 は Bleakmill が開発し、Headup と Beep Japan が販売元として記載されています。"
         }
       ],
       "quickTips": [
-        "Apotheosis には固定のレシピリストは必要ありません。",
-        "無限に生成される世界では、より高く、あるいはより深く移動することで、全く異なる素材が見つかることがあります。",
-        "移動ツールやユーティリティ装備を解放し始めると、プレイの快適さが劇的に向上します。",
-        "序盤に迷うのは普通のことですが、最初の優れた融合が成功すれば、便利なツール、ストレージ、移動手段が次々と手に入るようになります。"
+        "この INDUSTRIA 2 発売モジュールは、より詳しいガイドを見る前の簡易ステータス確認に使えます。",
+        "購入計画が目的なら、このセクションを INDUSTRIA 2 のダウンロードと価格モジュールと組み合わせてください。",
+        "ゲーム内容の予想を知りたい場合は、直下の INDUSTRIA 2 ゲームプレイ概要モジュールを続けてご覧ください。",
+        "技術面の準備を確認したい場合は、ローンチ状況を見たあとで INDUSTRIA 2 のシステム要件へ進んでください。"
       ]
     },
     "lucidBlocksApotheosisCrafting": {
-      "title": "Lucid Blocks Apotheosis クラフト",
+      "title": "INDUSTRIA 2 の Steam ダウンロード、価格、デモ",
       "displayType": "cards",
-      "intro": "Apotheosis は、このゲームの制限のない融合システムです。従来のレシピ本を暗記する代わりに、素材を組み合わせ、結果を観察し、時間をかけて自分だけのクラフト知識を築き上げていきます。",
+      "intro": "このセクションでは、INDUSTRIA 2 をどこでダウンロードできるか、現在の価格表示、そしてデモの利用場所を比較します。",
       "cards": [
         {
-          "name": "フリーフォームな融合",
-          "description": "Apotheosis では、固定のレシピリストに従うことなく、さまざまなアイテムを融合させることができます。"
+          "name": "INDUSTRIA 2 Steam ストア",
+          "description": "Steam は INDUSTRIA 2 の主な現行ストアで、購入フロー、デモリンク、バンドル表示、レビュー閲覧が利用できます。"
         },
         {
-          "name": "複数の有用な結果",
-          "description": "素材によって、特定の結果に繋がりやすい傾向があります。コミュニティの発見によれば、似たような投入素材からでも、実用的なツール、ストレージ、あるいは戦闘用のアップグレードを作成可能です。"
+          "name": "INDUSTRIA 2 デモ版",
+          "description": "別途用意された INDUSTRIA 2 Demo の掲載により、プレイヤーは製品版を購入する前に雰囲気や操作感を試せます。"
         },
         {
-          "name": "ジャーナル優先のクラフト",
-          "description": "Apotheosis を学ぶ最良の方法は、成功した組み合わせを記録することです。ジャーナルはすぐにあなた専用のクラフトリファレンスになります。"
+          "name": "INDUSTRIA 2 GOG 掲載ページ",
+          "description": "GOG は追加のストア विकल्पを提供しており、製品情報や提供状況を確認できます。"
         },
         {
-          "name": "コミュニティ検証済みの序盤の融合",
-          "description": "序盤の代表例としては、オスミウム＋棒で「フロストピック」、棒＋タングステンの付属肢で「アズラエル」、アズラエル＋磁鉄鉱で「触手レイピア」などが挙げられます。"
+          "name": "INDUSTRIA 2 Epic 掲載ページ",
+          "description": "Epic Games Store には INDUSTRIA 2 の掲載があり、複数ストアでの提供状況を追っているユーザー向けです。"
         }
       ],
       "milestones": [
-        "アイテムを融合させる",
-        "害獣を融合させる",
-        "神聖なアーティファクトを融合させる"
+        "INDUSTRIA 2 の現在価格を確認",
+        "INDUSTRIA 2 のデモページを開く",
+        "INDUSTRIA 2 の各ストア情報を比較"
       ]
     },
     "lucidBlocksToolsAndWeapons": {
-      "title": "Lucid Blocks ツールと武器",
+      "title": "INDUSTRIA 2 ゲームプレイ概要",
       "displayType": "itemCards",
-      "intro": "Lucid Blocks では、公式のユーティリティ装備とコミュニティが発見した序盤の武器が混在しています。最適なセットアップは通常、素早い採掘、安全な移動、そして信頼できる戦闘手段を組み合わせたものです。",
+      "intro": "INDUSTRIA 2 は、探索、緊張感、インタラクションシステム、そしてコンパクトな進行に重点を置いた、シングルプレイの物語重視 FPS です。",
       "items": [
         {
-          "name": "フロストピック",
-          "type": "採掘ツール",
-          "description": "オスミウムと棒から作られる、高速で安価な序盤用ピッケル。プレイヤーはこれを使って序盤の素材集めを加速させます。"
+          "name": "INDUSTRIA 2 の物語重視 FPS",
+          "type": "コアアイデンティティ",
+          "description": "INDUSTRIA 2 では、Nora が敵対的な機械支配の世界を進み、物語の勢いと雰囲気が各戦闘シーンを牽引します。"
         },
         {
-          "name": "アズラエル",
-          "type": "初期武器",
-          "description": "棒とタングステンの付属肢からクラフトできる、実用的な序盤の武器ルートです。"
+          "name": "INDUSTRIA 2 のゆっくりした探索",
+          "type": "テンポ",
+          "description": "このゲームは、慎重な移動、環境とのインタラクション、そして部屋ごとの丁寧な進行を重視しています。"
         },
         {
-          "name": "触手レイピア",
-          "type": "強化武器",
-          "description": "アズラエルと磁鉄鉱を組み合わせて作る強力な発展武器。プレイヤー間で共有されている、序盤から中盤にかけて最も有用な戦闘ルートの一つです。"
+          "name": "INDUSTRIA 2 のサバイバルホラートーン",
+          "type": "雰囲気",
+          "description": "工業的な荒廃、肉体ホラー的な機械、そして攻撃的な遭遇が、INDUSTRIA 2 の緊張感を形作ります。"
         },
         {
-          "name": "__PROTECTED_6a765cb2__",
-          "type": "移動ツール",
-          "description": "移動能力と垂直方向の探索を大幅に向上させる公式の移動アイテムです。"
+          "name": "INDUSTRIA 2 の強化可能な戦闘",
+          "type": "戦闘ループ",
+          "description": "武器は実用的な強化で調整でき、中程度から高圧力の戦闘で安定性を高められます。"
         },
         {
-          "name": "__PROTECTED_163b9bec__",
-          "type": "移動ツール",
-          "description": "より安全かつ効率的に距離を移動するのに役立つ公式の移動アイテムです。"
+          "name": "INDUSTRIA 2 のコンパクトなキャンペーン",
+          "type": "キャンペーンの長さ",
+          "description": "INDUSTRIA 2 は、長大なオープンワールドの作業ではなく、物語に集中したキャンペーンとして設計されています。"
         },
         {
-          "name": "ボールワンド",
-          "type": "ユーティリティ武器",
-          "description": "戦闘やパズルの選択肢を広げる公式の遠距離ユーティリティアイテムです。"
-        },
-        {
-          "name": "スキューバダイビングギア",
-          "type": "移動装備",
-          "description": "通常は探索が困難な場所へ到達するための公式ユーティリティアイテムです。"
-        },
-        {
-          "name": "爆発物",
-          "type": "ユーティリティ・ダメージ",
-          "description": "中核となるツールセットの一部として公式に推奨されており、脅威や障害物を突破するのに役立ちます。"
+          "name": "INDUSTRIA 2 の Unreal Engine 5 表現",
+          "type": "技術基盤",
+          "description": "Lumen のライティング、フルボイス、シネマティックな音響が、INDUSTRIA 2 に高コントラストな SF 雰囲気をもたらします。"
         }
       ]
     },
     "lucidBlocksStorageAndInventory": {
-      "title": "Lucid Blocks ストレージとインベントリ",
+      "title": "INDUSTRIA 2 のシステム要件と PC スペック",
       "displayType": "solutionCards",
-      "intro": "Lucid Blocks では早い段階からインベントリが圧迫されるため、ストレージの構築を優先目標にすべきです。実際のプレイヤーによって検証されたいくつかの解決策がすでに確立されています。",
+      "intro": "このモジュールでは、ゲームをダウンロードまたは起動する前に、お使いのハードウェアが INDUSTRIA 2 の要件を満たしているか確認できます。",
       "solutions": [
         {
-          "name": "キャッシュキューブ",
-          "role": "チェスト型ストレージ",
-          "description": "キャッシュキューブは最も初期に利用可能な実用的なストレージであり、プレイヤーの間ではゲーム内の主要なチェスト型コンテナとして扱われています。"
+          "name": "オペレーティングシステム",
+          "role": "最小構成および推奨構成",
+          "description": "最小構成と推奨構成の両方で、Windows 10 または Windows 11 の 64ビット版が必要です。"
         },
         {
-          "name": "キャビネット",
-          "role": "簡易拠点ストレージ",
-          "description": "キャビネットも確認されているストレージの選択肢です。共有されている序盤のレシピでは、カットウッド1つと紐1つを使用します。"
+          "name": "プロセッサ",
+          "role": "CPU の目安",
+          "description": "最小要件は Intel i5-8600 または Ryzen 5 3600 クラスのハードウェアで、推奨要件は安定したテンポのためにさらに上を目指しています。"
         },
         {
-          "name": "個人用クオリア",
-          "role": "長期ストレージハブ",
-          "description": "解放されると、個人用クオリアは素材を整理し、落ち着いてクラフトを行い、拠点を拡張するための自然な拠点となります。"
+          "name": "メモリ",
+          "role": "RAM の目安",
+          "description": "8 GB RAM が最小基準で、負荷の高いシーンでより安定させるには 16 GB RAM が推奨されます。"
         },
         {
-          "name": "ジャーナルによる追跡",
-          "role": "インベントリの効率化",
-          "description": "有用な組み合わせをジャーナルに記録することで、素材の無駄を減らし、インベントリ管理を大幅に楽にすることができます。"
+          "name": "グラフィックスと API",
+          "role": "GPU と DirectX",
+          "description": "最小参考は RTX 2060 Super クラス、推奨参考は RTX 3080 クラスで、DirectX 11/12 に対応しています。"
         }
       ],
       "managementTips": [
-        "レアなドロップ品を溜め込む前に、信頼できるストレージを一つ確保することを優先しましょう。",
-        "個人用クオリアが利用可能になったら、そこを中心に構築を進めましょう。",
-        "クラフト素材、戦闘ツール、移動装備を分けて保管することで、アップグレードの計画が立てやすくなります。",
-        "ジャーナルを単なるクラフトの発見用ではなく、インベントリ管理の一部として活用しましょう。"
+        "INDUSTRIA 2 のインストールと更新のために、少なくとも 20 GB の空き容量を確保してください。",
+        "読み込みの挙動を改善し、チャプター切り替えをより滑らかにするには SSD を使用してください。",
+        "パフォーマンスが不安定な場合は、レンダー倍率を大きく下げる前に、まずエフェクトを下げてください。",
+        "フレーム落ちを調査する際は、GPU ドライバーの更新を INDUSTRIA 2 の大型パッチと合わせて確認してください。"
       ]
     },
     "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Lucid Blocks クオリアと拠点建築",
+      "title": "INDUSTRIA 2 のトレーラーとゲームプレイ映像",
       "displayType": "cards",
-      "intro": "クオリアは Lucid Blocks における最も重要な進行マイルストーンの一つです。体制を整え、素材を保管し、探索の成果を徐々に本格的な拠点へと変えていくための個人空間を提供します。",
+      "intro": "このモジュールでは、ローンチ、発売日、ストーリー、ゲームプレイの各トレーラーを含む主要な公式動画を通じて、プレイヤーが INDUSTRIA 2 のトーンをすばやく理解できるようにします。",
       "cards": [
         {
-          "name": "個人用クオリア",
-          "description": "クオリアの解放は序盤のマイルストーンであり、広い世界を探索する中で戻ってくるための信頼できる場所となります。"
+          "name": "INDUSTRIA 2 ローンチトレーラー",
+          "description": "ローンチトレーラーでは、リリース済みの物語重視FPSとしての INDUSTRIA 2 を紹介し、探索、銃撃戦、AI駆動のホラー演出、そして Nora が家へ戻ろうとする決意を描きます。"
         },
         {
-          "name": "ストレージ優先の建築",
-          "description": "多くのプレイヤーは、整理されたクラフトスペースや建築スペースを持つ大きな拠点にする前に、まずクオリアをストレージハブとして使い始めます。"
+          "name": "INDUSTRIA 2 発売日ティーザー",
+          "description": "このティーザーは、陰鬱なSF空間、孤独な移動、続編ならではの機械的な雰囲気を軸に、発売前のムードを短く確認できる内容です。"
         },
         {
-          "name": "クリエイティブな自宅建築",
-          "description": "Lucid Blocks はクリエイティブな建築をサポートしており、プレイヤーはすでにクオリアの空間を利用して家やパーソナライズされたレイアウトを作成しています。"
+          "name": "INDUSTRIA 2 ストーリートレーラー",
+          "description": "このストーリートレーラーは Nora、ATLAS との関係、そして INDUSTRIA 2 のキャンペーンを動かす個人的な物語上の賭けに焦点を当てています。"
         },
         {
-          "name": "進行のハブ",
-          "description": "強力な拠点は、探索で得た戦利品、クラフト素材、種、ツール、移動装備を分類するのに役立ち、次のアップグレード計画を容易にします。"
+          "name": "INDUSTRIA 2 公式ゲームプレイトレーラー",
+          "description": "ゲームプレイ映像では、探索の流れ、遭遇の間合い、サバイバルホラー的な進行、資源圧、物理ベースのインタラクションシステムが強調されています。"
         }
       ],
       "highlights": [
-        "クオリアに入る",
-        "素材を安全に保管する",
-        "実用性から装飾へと拡張する",
-        "拠点のスペースを活用してクラフトや農業を支援する"
+        "最終版の概要には INDUSTRIA 2 のローンチ映像を使いましょう",
+        "舞台や雰囲気の確認には INDUSTRIA 2 のティーザー映像を使いましょう",
+        "Nora と ATLAS の背景には INDUSTRIA 2 のストーリー映像を使いましょう",
+        "戦闘と探索のリズムには INDUSTRIA 2 のゲームプレイ映像を使いましょう"
       ]
     },
     "lucidBlocksWorldRegions": {
-      "title": "Lucid Blocks 世界の地域",
+      "title": "INDUSTRIA 2 初心者ガイド",
       "displayType": "regionCards",
-      "intro": "Lucid Blocks は無限の世界生成を採用しているため、プレイヤーは常に新しい環境や構造物を発見し続けています。実績やコミュニティの議論には、すでにいくつかの地名が登場しています。",
+      "intro": "ストーリー重視の前提で INDUSTRIA 2 を始め、探索、資源管理、抑制された戦闘を軸に、意図的な進行ルートを組み立てましょう。",
       "regions": [
         {
-          "name": "Fog Meadow",
-          "type": "コミュニティ注目エリア",
-          "description": "Fog Meadow は、隠れた脅威や危険な遭遇に関連する緊張感のあるエリアとして、プレイヤーの間ですでに知られています。"
+          "name": "INDUSTRIA 2 の基本ジャンル設定",
+          "type": "ステップ 1",
+          "description": "INDUSTRIA 2 はシングルプレイヤーの物語重視FPSで、サバイバルホラーと没入型シムの要素を備えているため、新しいエリアは物語の場であると同時に資源の場でもあると考えましょう。"
         },
         {
-          "name": "ティアマナ・レイライン",
-          "type": "発見ランドマーク",
-          "description": "ティアマナ・レイラインは独自の実績マイルストーンを持つほど重要であり、これまでに判明している中で最も明確な名前付きの発見場所の一つです。"
+          "name": "INDUSTRIA 2 デモのシステム確認",
+          "type": "ステップ 2",
+          "description": "本格的な攻略計画を立てる前に、デモで進行テンポ、戦闘のリズム、雰囲気、そしてダイジェティックなインベントリ操作を確認しましょう。"
         },
         {
-          "name": "クロナクオリア",
-          "type": "建築スペース",
-          "description": "プレイヤーはすでにクロナクオリアを、家を建てたり、素材を保管したり、より永続的なレイアウトを試したりする場所として利用しています。"
+          "name": "INDUSTRIA 2 の部屋を隅々まで探索する習慣",
+          "type": "ステップ 3",
+          "description": "先へ進む前に、棚、脇部屋、隅、そして操作可能なオブジェクトをくまなく調べましょう。メモ、収集品、レシピ、支援アイテムは丁寧な探索に報いてくれます。"
         },
         {
-          "name": "エッセンスの沼地",
-          "type": "ファーミングエリア",
-          "description": "エッセンスの沼地は、特にスライムとの戦闘や経験値稼ぎに役立つファーミング場所としてプレイヤー間で共有されています。"
+          "name": "INDUSTRIA 2 の弾薬と戦闘の管理",
+          "type": "ステップ 4",
+          "description": "高圧的な場面では弾薬を節約し、強力な武器は狭い部屋、高脅威の敵、回避できない圧力の高まりに温存しましょう。"
+        },
+        {
+          "name": "INDUSTRIA 2 の物理インタラクションへの意識",
+          "type": "ステップ 5",
+          "description": "行き詰まったら、まず物理オブジェクトと環境の手がかりを確認しましょう。操作設計と進行のヒントは世界空間に根ざしています。"
+        },
+        {
+          "name": "INDUSTRIA 2 のプレイスタイルに合わせた強化計画",
+          "type": "ステップ 6",
+          "description": "実際の使用傾向に合わせて強化経路を優先しましょう。序盤は生の火力を積むより、リロード速度と弾薬容量のほうが安定に寄与することが多いです。"
         }
       ]
     },
     "lucidBlocksCreaturesAndEnemies": {
-      "title": "Lucid Blocks クリーチャーと敵",
+      "title": "INDUSTRIA 2 の武器と強化",
       "displayType": "creatureCards",
-      "intro": "Lucid Blocks は超現実的なクリーチャーと現実的な危険が混ざり合っています。公式の説明やコミュニティの投稿は、奇妙な生命、敵対的な脅威、そしてプレイヤーがすぐに覚えるような印象的な遭遇に満ちた世界を指し示しています。",
+      "intro": "INDUSTRIA 2 では6種類の武器がコンパクトに揃っており、それぞれ明確な戦闘上の役割を持ちます。強化の優先順位は、遭遇のテンポと資源圧に合わせましょう。",
       "creatures": [
         {
-          "name": "マネキン",
-          "role": "敵対的な敵",
-          "description": "マネキンはこの世界における公式な名前を持つ敵の一つであり、ゲームの超現実的な脅威リストの一部です。"
+          "name": "INDUSTRIA 2 Axe",
+          "role": "近接の予備武器",
+          "description": "斧は近距離の片付けや弾薬が少ない状況で使い、銃火器の資源を温存するのが最も安全な長期的選択です。"
         },
         {
-          "name": "ぷにぷにジェル",
-          "role": "敵対的な敵",
-          "description": "ぷにぷにジェルも公式な名前を持つ敵タイプであり、ゲームの奇妙な生物学的スタイルを象徴しています。"
+          "name": "INDUSTRIA 2 Pistol",
+          "role": "汎用サイドアーム",
+          "description": "ピストルは標準的な交戦に効率的で、ダメージ、リロード速度、装弾数、連射速度をバランスよく強化すると安定性が増します。"
         },
         {
-          "name": "高次元の存在",
-          "role": "敵対的な敵",
-          "description": "これらの存在は、世界のより抽象的で不安をかき立てる敵ラインナップの一部として登場します。"
+          "name": "INDUSTRIA 2 Revolver",
+          "role": "高火力の精密射撃",
+          "description": "リボルバーは、持続火力より命中精度が重要な高耐久の単体目標に最適で、ダメージとリロード速度の強化価値が高いです。"
         },
         {
-          "name": "巨大クモ",
-          "role": "主要な脅威",
-          "description": "クモはコミュニティの議論で最も即座に恐れられている敵の一つであり、明らかに記憶に残る危険な存在です。"
+          "name": "INDUSTRIA 2 SMG",
+          "role": "継続的な制圧",
+          "description": "複数の敵で空間が圧縮される場面では SMG を使い、装弾数、連射速度、リロード速度、操作性重視のアタッチメントを優先しましょう。"
         },
         {
-          "name": "__PROTECTED_26ee183b__",
-          "role": "名前付きクリーチャー",
-          "description": "__PROTECTED_26ee183b__ は独自の実績を持つほど注目に値し、ゲーム内で最も明確な名前付きクリーチャーとの遭遇の一つです。"
+          "name": "INDUSTRIA 2 Rifle",
+          "role": "中距離制御",
+          "description": "ライフルは敵が接近する前に距離を取りつつ脅威を排除するのに向いており、長めの部屋では安定した精度と装弾数に寄せて強化するとよいです。"
         },
         {
-          "name": "可愛い害獣",
-          "role": "インタラクティブな生物",
-          "description": "害獣は融合の進行に関わるだけでなく、名前を付けることもでき、標準的な敵よりも個人的な役割を持ちます。"
-        },
-        {
-          "name": "冒涜的なクリーチャー",
-          "role": "エリートの脅威",
-          "description": "冒涜的なクリーチャーは専用の戦闘実績に関連付けられており、重要な敵との遭遇として位置づけられています。"
+          "name": "INDUSTRIA 2 Shotgun",
+          "role": "近距離バースト火力",
+          "description": "ショットガンは危険な近距離の隙、ボス戦の圧力、切り抜けが必要な場面に温存しましょう。強力ですが、弾薬配分は厳密に管理すべきです。"
         }
       ]
     },
     "lucidBlocksMobilityGear": {
-      "title": "Lucid Blocks 移動装備",
-      "displayType": "itemCards",
-      "intro": "移動手段のアップグレードは、Lucid Blocks におけるプレイの快適さを最も大きく向上させる要素の一つです。最初の移動ツールを解放すれば、探索はより速く、より安全に、そしてより実りあるものになります。",
+      "title": "INDUSTRIA 2 のクラフトとインベントリ",
+      "displayType": "アイテムカード",
+      "intro": "INDUSTRIA 2 におけるクラフトとインベントリは物理的な世界との相互作用の一部であるため、生存の一貫性は資源ルート、世界内で完結する管理、そして遭遇を意識した準備から生まれます。",
       "items": [
         {
-          "name": "__PROTECTED_6a765cb2__",
-          "type": "移動ツール",
-          "description": "フックショットはゲーム内で最も明確な移動のマイルストーンの一つであり、専用の実績も用意されています。"
+          "name": "INDUSTRIA 2 資源探索の徹底",
+          "type": "ステップ 1",
+          "description": "探索とスカベンジングを中心ループとして扱いましょう。脇道や環境の細部には、素材、メモ、収集品、レシピ進行が隠されていることが多いからです。"
         },
         {
-          "name": "グライダーグローブ",
-          "type": "空中移動",
-          "description": "グライダーグローブはよりスムーズな移動を可能にし、独自の実績を持つもう一つの主要な進行マイルストーンです。"
+          "name": "INDUSTRIA 2 の世界内インベントリ習慣",
+          "type": "ステップ 2",
+          "description": "静かな時間を使って所持品を見直し、戦闘用ツールのバランスを整えましょう。インベントリ管理は没入感から切り離されたものではなく、ゲーム世界の中に根ざしているからです。"
         },
         {
-          "name": "__PROTECTED_163b9bec__",
-          "type": "移動ツール",
-          "description": "ビィ・グライダーは、効率的に距離を移動するための移動ツールキットの一部として公式に推奨されています。"
+          "name": "INDUSTRIA 2 クラフトレシピの追跡",
+          "type": "ステップ 3",
+          "description": "レシピの入手状況を進行資産として把握しましょう。レシピの把握範囲は、長距離ルートへの備えと攻略効率を直接高めるからです。"
         },
         {
-          "name": "ボールワンド",
-          "type": "ユーティリティ装備",
-          "description": "ボールワンドは公式に推奨されている特殊ツールの一つで、世界を移動したり干渉したりする方法を広げてくれます。"
+          "name": "INDUSTRIA 2 支援アイテム戦略",
+          "type": "ステップ 4",
+          "description": "支援アイテムは温存するのではなく、弾薬の浪費を防ぎ、難所を安定させるために積極的に使いましょう。"
         },
         {
-          "name": "スキューバダイビングギア",
-          "type": "探索装備",
-          "description": "スキューバダイビングギアは、通常では探索が困難なエリアに到達するための中核的なユーティリティセットとして公式にリストされています。"
+          "name": "INDUSTRIA 2 脅威を意識したクラフト",
+          "type": "ステップ 5",
+          "description": "高圧的な局面に入る前に、利用可能なクラフト選択肢を、これから遭遇する敵の圧力、ボスへの備え、現在の弾薬残量に合わせて調整しましょう。"
         },
         {
-          "name": "爆発物",
-          "type": "ユーティリティ・ダメージ",
-          "description": "爆発物は公式に推奨されていると同時に実績マイルストーンにも関連付けられており、ゲームの中核的なユーティリティ進行の一部となっています。"
+          "name": "INDUSTRIA 2 収集品統合ルーティング",
+          "type": "ステップ 6",
+          "description": "メモや収集品をサバイバルルートに組み込み、世界理解と準備の質がキャンペーン全体で連動して高まるようにしましょう。"
         }
       ],
       "unlockMilestones": [
-        "フックショットを使いこなす",
-        "グライダーグローブで空を飛ぶ",
-        "投射物ワンドを構える",
-        "爆発物を構える"
+        "INDUSTRIA 2 の高価値資源部屋を序盤に把握する",
+        "INDUSTRIA 2 の世界内インベントリの流れを安定させる",
+        "INDUSTRIA 2 のレシピと支援アイテムのループを追跡する",
+        "大きな脅威ゾーンの前に INDUSTRIA 2 のクラフトを準備する"
       ]
     },
     "lucidBlocksFarmingAndGrowth": {
-      "title": "Lucid Blocks 農業と成長",
-      "displayType": "mixedCards",
-      "intro": "成長は Lucid Blocks における真の進行の一部です。農業は単に植えて収穫するだけでなく、ツール、武器、クラフトの選択肢を維持するための反復可能な素材ルートを確立することでもあります。",
+      "title": "INDUSTRIA 2 の敵とボス",
+      "displayType": "混在カード",
+      "intro": "INDUSTRIA 2 における敵数、ボス数、ロボットのボディホラー表現、そして実用的な戦闘アプローチを、ネタバレを避けた構成で追跡します。",
       "sections": [
         {
-          "name": "種の進行",
-          "description": "種を植えて肥料を与えることはゲーム内の重要なマイルストーンであり、完全に成長したナッツを収穫することも同じ成長パスの一部です。"
+          "name": "INDUSTRIA 2 総敵タイプ数: 9 種類の敵タイプ",
+          "description": "正式リリース時の全体概要では、敵タイプは合計 9 種類とされています。遭遇は、ゆっくりとした FPS のテンポ、探索時の圧力、そして資源の選択を前提に調整されています。"
         },
         {
-          "name": "素材ファーミング",
-          "description": "実用的な序盤のファーミングループは「水銀カプセル」を作成することです。これにより、反復可能なクラフト素材となる触手やグーをドロップする小さなスライムが出現します。"
+          "name": "INDUSTRIA 2 ボス数: 2 体のボス",
+          "description": "公式のリリース情報では、9 種類の敵タイプのうち 2 体がボスだとされています。そのため、ボス攻略の案内は物語の発見を損なわない実用的な内容に留めるべきです。"
         },
         {
-          "name": "ツールの維持",
-          "description": "オスミウム、ガラスの破片、植物、スライム素材を安定して集められるようになると、その後のクラフトのための資源ファーミングがより強力になります。"
+          "name": "INDUSTRIA 2 の戦闘対象: 人間とロボット",
+          "description": "INDUSTRIA 2 のアクションシーンには人間とロボットとの戦闘が含まれ、機械由来の敵意が戦闘アイデンティティの中心になっています。"
         },
         {
-          "name": "拠点のルーチン",
-          "description": "最適な農業セットアップは食料以上のものを支えます。ストレージ、移動ツール、武器のアップグレード、そして将来の融合実験に供給されるべきです。"
+          "name": "INDUSTRIA 2 のロボット・ボディホラー表現",
+          "description": "機械油、四肢欠損を思わせる演出、そして激しい銃撃戦は INDUSTRIA 2 の雰囲気の一部です。そのため、敵の見せ方は戦闘とホラーの圧力の両方を支えています。"
+        },
+        {
+          "name": "INDUSTRIA 2 デモの敵サンプル: 3 種類の敵",
+          "description": "INDUSTRIA 2 のデモには 3 種類の敵と 2 種類の武器が含まれており、フル版の 9 種類の敵編成に入る前に、簡潔な予習ができます。"
+        },
+        {
+          "name": "INDUSTRIA 2 におすすめの戦闘マインドセット",
+          "description": "INDUSTRIA 2 では、アリーナ風に突っ込むのではなく、慎重なスカベンジング、強化を意識した計画、そして意図的な部屋制圧で進めましょう。"
         }
       ],
       "growthMilestones": [
-        "種に肥料を与える",
-        "完全に成長したナッツを収穫する",
-        "反復可能な素材ループを作成する",
-        "農業を長期的な進行に組み込む"
+        "深い戦略を立てる前に INDUSTRIA 2 の敵数とボス数を把握する",
+        "INDUSTRIA 2 のデモの敵挙動を使ってテンポの期待値を調整する",
+        "INDUSTRIA 2 のボディホラー系敵を、雰囲気と脅威設計の両面として捉える",
+        "INDUSTRIA 2 の戦闘ルートをスカベンジングと強化のタイミングに合わせて組む"
       ]
     },
     "lucidBlocksBestEarlyUnlocks": {
-      "title": "Lucid Blocks おすすめの序盤解放要素",
-      "displayType": "priorityCards",
-      "intro": "最強の序盤解放要素は、安全性、ストレージ、そして移動能力を向上させるものです。Lucid Blocks では、いくつかの実用的なアップグレードがその後のゲームプレイ全体を非常にスムーズにします。",
+      "title": "INDUSTRIA 2 攻略チャートとステージ",
+      "displayType": "優先カード",
+      "intro": "INDUSTRIA 2 のキャンペーン構成、序盤の Cannery の文脈、ルート所要時間の目安、そして各ステージごとの進行優先度に従って進めましょう。",
       "priorities": [
         {
-          "name": "個人用クオリア",
+          "name": "INDUSTRIA 2 Nora の序盤セットアップ",
           "priority": "必須",
-          "description": "個人用クオリアにアクセスできるようになると、プレイが格段に安定します。ストレージ、建築、体制の立て直しのための信頼できるハブとして機能します。"
+          "description": "Nora の INDUSTRIA 2 後の状況から始め、移動、インタラクション、インベントリ、クラフト、そしてより重い戦闘に入る前の序盤サバイバルホラーのリズムを説明しましょう。"
         },
         {
-          "name": "フロストピック",
-          "priority": "極めて高い",
-          "description": "オスミウムと棒で作れる、高速で安価な序盤の採掘ツール。序盤の資源収集を加速させるために最も有用なアップグレードの一つです。"
+          "name": "INDUSTRIA 2 Cannery の序盤参照点",
+          "priority": "非常に高い",
+          "description": "Cannery を、探索の圧力、戦闘のテンポ、そして中心となる謎の導入を示すネタバレ配慮済みの導入チェックポイントとして使いましょう。"
         },
         {
-          "name": "キャッシュキューブ",
-          "priority": "極めて高い",
-          "description": "インベントリの圧迫は早くから始まるため、最初の信頼できるチェスト型コンテナを手に入れることは、プレイの快適さを大きく向上させます。"
+          "name": "INDUSTRIA 2 の 20 ステージ構成",
+          "priority": "必須",
+          "description": "全 20 ステージを、序盤、中盤、終盤、エンディングルートの区分で追跡し、正式な名称ごとの網羅が完了するまで管理しましょう。"
         },
         {
-          "name": "__PROTECTED_6a765cb2__",
+          "name": "INDUSTRIA 2 の 4〜7 時間ルート計画",
+          "priority": "非常に高い",
+          "description": "素早く目的重視でクリアする走りと、ゆっくりスカベンジングする走りの両方を支援しましょう。INDUSTRIA 2 のキャンペーン所要時間は、一般に 4〜7 時間の範囲として語られるからです。"
+        },
+        {
+          "name": "INDUSTRIA 2 のスカベンジングとクラフトのルート",
           "priority": "高い",
-          "description": "フックショットはゲーム内で最も明確な移動のマイルストーンの一つであり、探索をより速く、より安全にします。"
+          "description": "メモ、収集品、レシピ、支援ツールのために、どこで立ち止まるべきかを示しましょう。進行の質は、単なる目的地の案内ではなく、準備の質に左右されるからです。"
         },
         {
-          "name": "グライダーグローブ",
+          "name": "INDUSTRIA 2 の終盤分岐に向けた準備",
           "priority": "高い",
-          "description": "グライダーグローブはもう一つの大きな機動力ブーストをもたらし、長距離の移動をはるかに効率的にします。"
-        },
-        {
-          "name": "投射物ワンドまたは爆弾",
-          "priority": "高い",
-          "description": "遠距離ツールや爆発物の選択肢を持つことで、危険な敵や試練形式の遭遇に対してより安全に対処できるようになります。"
+          "description": "Stay と Leave のような結末関連の選択肢について、ネタバレを避けたガイドを用意し、初回プレイ向けと全回収志向のプレイヤー向けで説明の深さを分けましょう。"
         }
       ]
     },
     "lucidBlocksAchievementTracker": {
-      "title": "Lucid Blocks 実績トラッカー",
+      "title": "INDUSTRIA 2 ストーリーとロア",
       "displayType": "achievementGrid",
-      "intro": "Lucid Blocks には現在 19 個の Steam 実績があり、それらは探索、クラフト、移動、戦闘、成長の進行に自然に分類されます。",
+      "intro": "Nora、ATLAS、並行次元、1989年の東ベルリン、そして INDUSTRIA 2 が前作をどのように拡張しているかを、ネタバレ控えめのロア解説で理解しましょう。",
       "groups": [
         {
-          "name": "探索",
+          "name": "INDUSTRIA 2 キャラクターの柱",
           "achievements": [
             {
-              "title": "__PROTECTED_c973d4a3__ α",
-              "description": "クオリアに入る。"
+              "title": "INDUSTRIA 2 Nora",
+              "description": "Nora は復帰する主人公で、前作から数年が経った今も並行次元に囚われたまま、1989年の東ベルリンへ戻る道を探している。"
             },
             {
-              "title": "__PROTECTED_c973d4a3__ γ",
-              "description": "ティアマナ・レイラインを発見する。"
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ δ",
-              "description": "ティアマナの試練を乗り越える。"
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ ε",
-              "description": "隠し実績。"
+              "title": "INDUSTRIA 2 ATLAS",
+              "description": "ATLAS は INDUSTRIA 2 における中心的な人工知能の圧力であり、直接的な脅威であると同時に、Nora が以前関わったことの結果として描かれている。"
             }
           ]
         },
         {
-          "name": "クラフトと召喚",
+          "name": "INDUSTRIA 2 世界の基盤",
           "achievements": [
             {
-              "title": "Apotheosis α",
-              "description": "アイテムを融合させる。"
+              "title": "INDUSTRIA 2 並行次元",
+              "description": "機械で築かれた壁、北方の空間、産業的な荒廃が核となる舞台を組み合わせ、探索と物語の緊張が同時に進行する敵対的な世界を作り出している。"
             },
             {
-              "title": "Apotheosis β",
-              "description": "害獣を融合させる。"
-            },
-            {
-              "title": "Apotheosis γ",
-              "description": "神聖なアーティファクトを融合させる。"
-            },
-            {
-              "title": "Archangel β",
-              "description": "信仰を召喚する。"
+              "title": "INDUSTRIA 2 東ベルリンの年表",
+              "description": "1989年の東ベルリンはシリーズの歴史的な軸として残り、INDUSTRIA 2 を通して Nora の目的地を定義している。"
             }
           ]
         },
         {
-          "name": "移動とユーティリティ",
+          "name": "INDUSTRIA 2 続編としての文脈とテーマ",
           "achievements": [
             {
-              "title": "Virtue α",
-              "description": "グライダーグローブで空を飛ぶ。"
+              "title": "INDUSTRIA 2 と INDUSTRIA のつながり",
+              "description": "INDUSTRIA 2 は Nora の旅の第二章を引き継ぎ、前作 INDUSTRIA から生まれた対立の種を広げ、続編としての連続性を深めている。"
             },
             {
-              "title": "Virtue β",
-              "description": "フックショットを使いこなす。"
-            },
-            {
-              "title": "Archangel α",
-              "description": "投射物ワンドを構える。"
-            },
-            {
-              "title": "Archangel γ",
-              "description": "爆発物を構える。"
-            }
-          ]
-        },
-        {
-          "name": "戦闘とクリーチャー",
-          "achievements": [
-            {
-              "title": "__PROTECTED_26ee183b__ の虐殺",
-              "description": "罪のないバブルベアを倒す。"
-            },
-            {
-              "title": "Archangel δ",
-              "description": "冒涜的なクリーチャーを排除する。"
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ β",
-              "description": "死亡する。"
-            },
-            {
-              "title": "Dominion γ",
-              "description": "可愛い害獣に名前を付ける。"
-            }
-          ]
-        },
-        {
-          "name": "成長と農業",
-          "achievements": [
-            {
-              "title": "Dominion α",
-              "description": "種に肥料を与える。"
-            },
-            {
-              "title": "Dominion β",
-              "description": "完全に成長したナッツを収穫する。"
-            },
-            {
-              "title": "Dominion δ",
-              "description": "隠し実績。"
+              "title": "INDUSTRIA 2 の責任と帰還のテーマ",
+              "description": "物語のテーマは、記憶、責任、生存への圧力、そして機械世界の代償にもかかわらず故郷へ帰ろうとする Nora の決意を中心に展開する。"
             }
           ]
         }
       ]
     },
     "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Lucid Blocks シングルプレイヤーおよびプラットフォーム FAQ",
+      "title": "INDUSTRIA 2 エンディングと選択",
       "displayType": "accordion",
-      "intro": "これらは、Lucid Blocks を購入する前にプレイヤーからよく寄せられる、プラットフォームとアクセスに関する核心的な質問です。",
+      "intro": "INDUSTRIA 2 のエンディング実績、主要な選択ラベル、そしてネタバレ層を分けた達成メモを、わかりやすいエンディングFAQ構成で追跡しましょう。",
       "faqs": [
         {
-          "question": "Lucid Blocks はシングルプレイヤーですか？",
-          "answer": "はい。Lucid Blocks はシングルプレイヤー専用ゲームです。"
+          "question": "INDUSTRIA 2 には Steam 実績がいくつありますか？",
+          "answer": "INDUSTRIA 2 には 30 個の Steam 実績があり、ストーリー進行、戦闘アクション、収集物の追跡、そしてエンディング関連の達成目標をカバーしています。"
         },
         {
-          "question": "マルチプレイヤーや協力プレイの予定はありますか？",
-          "answer": "いいえ。リリース時および将来のアップデートにおいて、マルチプレイヤーの予定はありません。"
+          "question": "エンディング案内で最も重要な INDUSTRIA 2 の実績はどれですか？",
+          "answer": "INDUSTRIA 2 のエンディング計画は Stay と Leave を中心に進めるのが基本で、Almost Home、Concentricity、Coup de Grâce、Nobody Blames You、Hoarder、Bookworm も達成状況の整理に役立ちます。"
         },
         {
-          "question": "Lucid Blocks はどこでプレイできますか？",
-          "answer": "現在は Windows 用に Steam で配信されています。"
+          "question": "INDUSTRIA 2 の Stay と Leave 実績とは何ですか？",
+          "answer": "INDUSTRIA 2 では Stay と Leave が別々の実績結果として扱われるため、エンディング項目では各ルートを分けて、意図的に選択を追跡できるようにしておくべきです。"
         },
         {
-          "question": "Lucid Blocks の価格はいくらですか？",
-          "answer": "Steam で 9.99 ドルです。"
+          "question": "INDUSTRIA 2 のエンディングガイドは、最終選択をすぐに明かすべきですか？",
+          "answer": "INDUSTRIA 2 のエンディングページは、まずネタバレ控えめの要約を示し、その後でルート別のパネルを展開する形が最適です。そうすれば、プレイヤーが最終選択の詳細を自分のタイミングで確認できます。"
         },
         {
-          "question": "Lucid Blocks はコントローラーに対応していますか？",
-          "answer": "はい。ただし、メニューがコントローラー操作を前提に設計されていないため、コントローラーでのプレイは推奨されません。"
+          "question": "INDUSTRIA 2 を完走する前に、達成者は何を確認すべきですか？",
+          "answer": "INDUSTRIA 2 のエンディングルートを確定する前に、メモ、収集物、クラフト設計図、ツール、そして低達成率の実績を確認し、追加の周回作業を避けましょう。"
         },
         {
-          "question": "Lucid Blocks は Steam Deck で動作しますか？",
-          "answer": "はい。Steam Deck では、Proton 9.0 または 9.0.4 の使用が一般的に推奨されています。"
-        },
-        {
-          "question": "Lucid Blocks は Linux で動作しますか？",
-          "answer": "はい。Linux および Steam Deck において、Proton 9.0 で良好に動作することが報告されています。"
-        },
-        {
-          "question": "Mac や Android はサポートされますか？",
-          "answer": "将来的にサポートされる可能性はありますが、現時点でのローンチプラットフォームではありません。"
-        },
-        {
-          "question": "Lucid Blocks に翻訳はありますか？",
-          "answer": "いいえ。現在、翻訳の予定はありません。"
-        },
-        {
-          "question": "Lucid Blocks はアップデートされ続けますか？",
-          "answer": "はい。リリース後にいくつかのコンテンツアップデートが予定されていますが、無期限に定期的なスケジュールで継続することを意図したものではありません。"
+          "question": "INDUSTRIA 2 のエンディングページ構成で最も安全なのはどれですか？",
+          "answer": "INDUSTRIA 2 では 3 段階の構成が最適です。ネタバレに配慮した概要、Stay と Leave の名前付きアコーディオン項目、そしてより深い開示ブロックでの最終解釈メモ、という流れにしましょう。"
         }
       ]
     },
     "lucidBlocksSteamDeckAndController": {
-      "title": "Lucid Blocks Steam Deck とコントローラー",
+      "title": "INDUSTRIA 2 収集物、メモ、設計図、そして達成系実績",
       "displayType": "accordion",
-      "intro": "Lucid Blocks は Steam Deck で動作しますが、デフォルト設定では調整が必要な場合があります。メニュー操作や一般的なプレイにおいては、キーボードとマウスの方がスムーズです。",
+      "intro": "INDUSTRIA 2 の主要な達成目標を、メモ、収集物、クラフト設計図、そして関連する Steam 実績の明確なルートで追跡しましょう。",
       "faqs": [
         {
-          "question": "Lucid Blocks は Steam Deck で動作しますか？",
-          "answer": "はい。Proton 9.0 で良好に動作します。また、Proton 9.0.4 は Steam Deck の問題に対する一般的な修正方法として共有されています。"
+          "question": "INDUSTRIA 2 では、合計いくつの取得物を追跡すべきですか？",
+          "answer": "全キャンペーンを通して、28 個のメモ、13 個の収集物、10 個のクラフト設計図を含む、合計 51 個の取得物を基準にするとよいでしょう。"
         },
         {
-          "question": "Steam Deck の操作が効かない場合はどうすればよいですか？",
-          "answer": "互換性設定を強制し、ゲームを Proton 9.0.4 に切り替えてください。デフォルト設定ではコントローラー入力が正しく受け付けられない場合があります。"
+          "question": "INDUSTRIA 2 のメモ進行は実績とどう結びついていますか？",
+          "answer": "メモのルートは Bookworm に対応しています。INDUSTRIA 2 のメモ達成を目指すなら、各チャプターの目的が進む前に、読めるログ、手紙、環境文書をくまなく回収しましょう。"
         },
         {
-          "question": "Lucid Blocks はコントローラーに対応していますか？",
-          "answer": "はい。ただし、ゲームのメニューがコントローラー操作を前提に設計されていないため、コントローラーでのプレイは推奨されません。"
+          "question": "INDUSTRIA 2 の収集物進行は実績とどう結びついていますか？",
+          "answer": "収集物は Hoarder に対応しています。各主要レベルを離れる前に、任意の部屋、脇道、棚、作業場エリア、そして隠れた場所を重点的に確認しましょう。"
         },
         {
-          "question": "Linux のサポートは可能ですか？",
-          "answer": "はい。Linux および Steam Deck において、Proton 9.0 で良好に動作することが報告されています。"
+          "question": "INDUSTRIA 2 のクラフト設計図は達成計画にどう組み込まれますか？",
+          "answer": "クラフトの進行は Be Creative で表されます。設計図と素材は早めに集め、より厳しい戦闘ブロックに備えて作成済みの道具や補給を用意しておきましょう。"
         },
         {
-          "question": "最適な入力設定は何ですか？",
-          "answer": "メニューのナビゲーションや一般的なプレイにおいては、キーボードとマウスが最もスムーズな選択肢です。"
+          "question": "INDUSTRIA 2 の全収集ルートで最も安全な進め方は何ですか？",
+          "answer": "チャプターごとの一掃方式がおすすめです。まず探索し、目標が発動する前に収集物を回収し、素材が揃ったらクラフトし、ストーリー完了後に書面のチェックリストで確認しましょう。"
+        },
+        {
+          "question": "INDUSTRIA 2 の達成率100%を目指す人は、初回と回収周回を分けるべきですか？",
+          "answer": "はい。初回は安定した進行と広範囲の取得に集中し、その後で取り逃したメモ、収集物、設計図の進行を回収するための集中的な周回を行いましょう。"
         }
       ]
     },
     "lucidBlocksSettingsAndAccessibility": {
-      "title": "Lucid Blocks 設定とアクセシビリティ",
+      "title": "INDUSTRIA 2 実績ガイド: 全30個の Steam 実績",
       "displayType": "settingCards",
-      "intro": "Lucid Blocks には、プレイヤーが最初にゲームを起動した際に重要となる、いくつかの実用的な設定と互換性に関する注意点があります。",
+      "intro": "この INDUSTRIA 2 実績チェックリストを使って、ストーリーの節目、武器の入手、戦闘アクション、収集物、クラフト、そしてエンディング選択まで含めた 100% ルートを計画しましょう。",
       "settings": [
         {
-          "name": "ディスプレイ設定",
-          "type": "快適性オプション",
-          "description": "ディスプレイ設定には、画面上の手を表示しないようにするオプションが含まれています。"
+          "name": "INDUSTRIA 2 ストーリーと進行の実績",
+          "type": "ストーリーの節目",
+          "description": "序盤の準備から終盤のシークエンスまでのチャプター進行実績を追跡します。Stranded Together、Back Together、Almost Home などのルート上のチェックポイントも含まれます。"
         },
         {
-          "name": "グラフィックスの互換性",
-          "type": "システム要件",
-          "description": "グラフィックスを正しくレンダリングするには __PROTECTED_38625270__ のサポートが必要です。__PROTECTED_38625270__ に対応していないシステムでは、クラッシュや深刻なグラフィックの不具合が発生する可能性があります。"
+          "name": "INDUSTRIA 2 武器発見の実績",
+          "type": "武器の解放",
+          "description": "Axe、Shotgun、Rifle、SMG、Revolver の実績取得を計画し、それぞれの武器の解放を最初に登場するチャプターに対応させましょう。"
         },
         {
-          "name": "入力の好み",
-          "type": "操作設定",
-          "description": "コントローラーのサポートは存在しますが、メニューがコントローラー操作向けに構築されていないため、キーボードとマウスの方がスムーズな体験が得られます。"
+          "name": "INDUSTRIA 2 戦闘とツールの実績",
+          "type": "実行目標",
+          "description": "Unforeseen Consequences、It's a Trap!、Wallhack などの特定アクション実績は、独立して稼ぐのではなく、通常の戦闘の流れの中で完了できるように予定を組みましょう。"
         },
         {
-          "name": "言語サポート",
-          "type": "ローカライズ",
-          "description": "現在の設定は英語のみであり、現時点では翻訳の予定はありません。"
+          "name": "INDUSTRIA 2 収集物とクラフトの実績",
+          "type": "達成管理",
+          "description": "Bookworm、Hoarder、Be Creative を章ごとのチェックリストと組み合わせ、メモ、収集物、クラフトの進行をメインルートと同期させましょう。"
+        },
+        {
+          "name": "INDUSTRIA 2 エンディング選択の実績",
+          "type": "終盤分岐",
+          "description": "最終選択地点の前で別々のセーブを用意しておけば、Stay と Leave を、キャンペーン全体をやり直さずにきれいに達成できます。"
+        },
+        {
+          "name": "INDUSTRIA 2 100% ルートの順序",
+          "type": "周回計画",
+          "description": "実用的な順序を使いましょう。まずストーリーと武器解放を片付け、周回中盤で戦闘とツールのアクションを重ね、最後に収集物とエンディング分岐を管理された回収周回で終えます。"
         }
       ]
     },
     "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Lucid Blocks アップデートとパッチノート",
-      "displayType": "timeline",
-      "intro": "Lucid Blocks では、リリース直後の迅速な修正や小規模なユーザビリティのアップデートがすでに行われています。",
+      "title": "INDUSTRIA 2 Steam Deck、DX11、DX12、およびグラフィック設定",
+      "displayType": "タイムライン",
+      "intro": "INDUSTRIA 2 の Steam Deck の現状、DirectX モードの挙動、PC の基準ターゲット、そしてより滑らかな画質とフレームペーシングのための実用的なグラフィック設定を確認しましょう。",
       "entries": [
         {
-          "title": "アップデート 2.8.2",
-          "type": "UI アップデート",
-          "description": "メインメニューの「awaken（目覚める）」を「exit（終了）」に変更しました。"
+          "title": "ローンチ時の INDUSTRIA 2 Steam Deck の状況",
+          "type": "Deck 互換性",
+          "description": "Steam Deck ではプレイ可能ですが、まだ初回体験をきれいに整える最適化は十分ではありません。そのため、最適化パッチが成熟するまでは実験的なものとして扱ってください。"
         },
         {
-          "title": "起動時のクラッシュに関する小規模パッチ",
-          "type": "ホットフィックス",
-          "description": "起動時にゲームがクラッシュしていたプレイヤー向けに、専用のパッチがリリースされました。"
+          "title": "INDUSTRIA 2 Steam Deck のローンチと FPS の挙動",
+          "type": "起動安定性",
+          "description": "初期の Deck 報告では、スワップ領域の回避策なしでは起動時にクラッシュし、屋外では低 FPS が不安定になるとされており、携帯機向けプリセットで安定したプレイを行うのはリスクが高いです。"
         },
         {
-          "title": "リリース後のコンテンツサポート",
-          "type": "ロードマップ注記",
-          "description": "リリース後にいくつかのコンテンツアップデートが予定されていますが、無期限に定期的なスケジュールで継続することを意図したものではありません。"
+          "title": "INDUSTRIA 2 DX11 と DX12 の選択指針",
+          "type": "グラフィックス API",
+          "description": "クラッシュしやすい、または低スペックなシステムでは、より安全なトラブルシューティングの基準として DX11 を使い、その後、より高品質な映像機能を狙う高性能ハードウェアでは DX12 に切り替えましょう。"
+        },
+        {
+          "title": "INDUSTRIA 2 推奨 PC 基準",
+          "type": "ハードウェア目標",
+          "description": "実用的な品質目標としては、16 GB の RAM、RTX 3080 クラスの GPU、DirectX 12、SSD ベースのストレージを使用してください。最小スペックはローンチ時のみの基準として扱うべきです。"
+        },
+        {
+          "title": "INDUSTRIA 2 のぼかしとアップスケーリング調整",
+          "type": "画面の鮮明さ",
+          "description": "よりクリアな映像にするには、シャープ化を 0%、FXAA、画像アップスケーリングを無効、レンダー解像度を 95% 前後に設定して試し、その後 FPS 下限に合わせてレンダー倍率を調整してください。"
+        },
+        {
+          "title": "INDUSTRIA 2 のカメラ歪みの整理",
+          "type": "アーティファクト修正",
+          "description": "カメラ移動中にモーションラインや映像の歪みが出る場合は、まずカメラ歪みを 0% に設定し、その後、画面の安定性が改善してから影とエフェクトを再調整してください。"
         }
       ]
     },
     "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Lucid Blocks クラッシュ修正とトラブルシューティング",
-      "displayType": "steps",
-      "intro": "起動時やクラッシュに関する差し迫った問題は、パッチレベル、グラフィックスサポート、プラットフォームの互換性、ログの順に確認してください。",
+      "title": "INDUSTRIA 2 のレビュー、バグ、パッチノート、プレイヤーフィードバック",
+      "displayType": "ステップ",
+      "intro": "INDUSTRIA 2 のローンチ当日のレビュー傾向、バグの分類、更新の優先順位を把握して、問題報告とパッチ検証を一貫性のある実用的なものにしましょう。",
       "steps": [
         {
-          "title": "最新のクラッシュホットフィックスをインストールする",
-          "description": "起動時にゲームがクラッシュする場合は、まずアップデートを行い、最新の起動クラッシュ用パッチで再度テストしてください。"
+          "title": "INDUSTRIA 2 の Steam ユーザー感情スナップショットを確認",
+          "description": "まずは現在の Steam レビューの傾向を見て、個別のシステム固有の不満を切り分ける前に、ローンチ全体の流れを把握しましょう。"
         },
         {
-          "title": "__PROTECTED_38625270__ のサポートを確認する",
-          "description": "Lucid Blocks には __PROTECTED_38625270__ のサポートが必要です。__PROTECTED_38625270__ に対応していないシステムでは、クラッシュや重大なレンダリングの問題が発生する可能性があります。"
+          "title": "INDUSTRIA 2 の開発者バグ報告スレッドを確認",
+          "description": "公式の固定報告スレッドを最初の確認先にして、あなたの問題がすでに追跡済みか、認識済みか、回避策のメモと関連付けられているかを確かめましょう。"
         },
         {
-          "title": "Steam Deck で Proton 9.0.4 を使用する",
-          "description": "Steam Deck で入力や起動の挙動に問題がある場合は、互換性設定を強制し、Proton 9.0.4 に切り替えてください。"
+          "title": "INDUSTRIA 2 の操作とキー割り当ての挙動を検証",
+          "description": "キー割り当ての再設定、ボトル投げの操作、セーブ後の移動状態を、再現可能な手順で再テストし、操作系バグを確実に再現できるようにしましょう。"
         },
         {
-          "title": "クラッシュログを収集する",
-          "description": "Windows の「ファイル名を指定して実行」を開き、「%APPDATA%」を貼り付けて、lucid blocks/logs フォルダに移動し、トラブルシューティング用の .txt ファイルを収集してください。"
+          "title": "INDUSTRIA 2 の DX11 と DX12 の安定性を比較",
+          "description": "クラッシュが発生する場合は、同じ章の状況で両方の DirectX パスを比較し、問題が DX12 のみで再現するのか、それとも両方のモードで起きるのかを記録してください。"
         },
         {
-          "title": "問題を正しく報告する",
-          "description": "公式 Discord の bug-reports フォーラム、または Steam コミュニティページで、ログとデバイスの詳細を共有してください。"
+          "title": "INDUSTRIA 2 の表示とグラフィックのアーティファクトを監査",
+          "description": "ぼかし、暗さ、モーションラインのアーティファクト、再起動後の設定保持を確認し、グラフィックに関する不満を前後比較の明確な証拠とともに記録してください。"
+        },
+        {
+          "title": "INDUSTRIA 2 Steam Deck の優先修正を追跡",
+          "description": "携帯機での報告では、起動時の挙動、フレームペーシングのメモ、現在の最適化不足を含めて、Deck のフィードバックが進行中のパッチ優先順位と一致するようにしてください。"
+        },
+        {
+          "title": "INDUSTRIA 2 のパッチ監視チェックリストを維持",
+          "description": "キー割り当て修正、DX12 の安定性、Deck の最適化、表示保存の一貫性、コンパニオンの挙動、インベントリ関連のバグ回帰について、継続的なチェックリストを用意しておきましょう。"
         }
       ]
     }
   },
   "faq": {
-    "title": "よくある",
+    "title": "INDUSTRIA 2 よくある質問",
     "titleHighlight": "質問",
-    "subtitle": "Lucid Blocks に関するすべての情報",
+    "subtitle": "INDUSTRIA 2 を始める前と始めた後に知っておくべきすべて",
     "questions": [
       {
-        "question": "Lucid Blocks はシングルプレイヤーゲームですか？",
-        "answer": "はい。Lucid Blocks はシングルプレイヤー専用のゲームであり、マルチプレイヤーや協力プレイの予定はありません。"
+        "question": "INDUSTRIA 2 はシングルプレイヤーゲームですか？",
+        "answer": "はい。INDUSTRIA 2 は、物語重視のシングルプレイヤー FPS 体験として設計されています。"
       },
       {
-        "question": "Lucid Blocks における Apotheosis システムとは何ですか？",
-        "answer": "Apotheosis は Lucid Blocks のフリーフォーム・フュージョン・クラフトシステムです。決まったレシピに従うのではなく、素材を組み合わせて独自のクラフトパスを発見していきます。"
+        "question": "INDUSTRIA 2 はどこで購入できますか？",
+        "answer": "INDUSTRIA 2 は Steam で入手でき、GOG や Epic にもストア掲載があります。"
       },
       {
-        "question": "Lucid Blocks はどこでプレイできますか？",
-        "answer": "Lucid Blocks は現在、Windows向けに Steam で配信されています。Linuxおよび Steam Deckへの対応は、Proton 9.0を通じて提供されています。"
+        "question": "INDUSTRIA 2 にデモ版はありますか？",
+        "answer": "はい。INDUSTRIA 2 には、購入前に試せる独立したデモ版の Steam 掲載があります。"
       },
       {
-        "question": "Lucid Blocks の価格はいくらですか？",
-        "answer": "Lucid Blocks は Steam で9.99ドルです。"
+        "question": "INDUSTRIA 2 の長さはどれくらいですか？",
+        "answer": "一般的な INDUSTRIA 2 のストーリー進行は、いくつかの集中したレベルで構成されたコンパクトなキャンペーンとして提示されます。"
       },
       {
-        "question": "Lucid Blocks はコントローラーに対応していますか？",
-        "answer": "はい。ただし、メニューがコントローラー操作を前提に設計されていないため、コントローラーでのプレイは推奨されません。キーボードとマウスの方がスムーズに操作できます。"
+        "question": "INDUSTRIA 2 のパフォーマンスを改善するにはどうすればいいですか？",
+        "answer": "まずは控えめなグラフィック設定から始め、DX モードを比較し、安定した基準ができてからエフェクトを調整してください。"
       },
       {
-        "question": "Lucid Blocks のアップデートはありますか？",
-        "answer": "はい。リリース後にいくつかのコンテンツアップデートを予定していますが、無期限に定期的なスケジュールで継続することを意図したものではありません。"
+        "question": "初めて INDUSTRIA 2 を始める場合、どう進めるべきですか？",
+        "answer": "INDUSTRIA 2 の初心者向けガイドと攻略モジュールを使って、安定した進行ができる安全な初回ルートを構築してください。"
       }
     ]
   },
   "cta": {
-    "title": "Lucid Blocksを探索する準備はできましたか？",
-    "description": "DiscordのLucid Blocksコミュニティに参加して、ガイドや最新情報、ディスカッションをチェックしましょう！",
-    "joinCommunity": "Discordに参加",
-    "joinGame": "Steamでプレイ"
+    "title": "INDUSTRIA 2 の準備はできましたか？",
+    "description": "公式の INDUSTRIA 2 Discord に参加して、開発者からのローンチ更新をフォローしましょう。",
+    "joinCommunity": "公式 Discord に参加",
+    "joinGame": "Steam で見る"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Lucid Blocksのクラフト、バイオーム、クリーチャー、実績、サバイバルガイドに関する完全なリソースハブです。",
+    "title": "INDUSTRIA 2 Wiki",
+    "description": "INDUSTRIA 2 のリリース情報、攻略情報、ストーリーガイド、武器、ボス、実績を網羅したファンメイドの総合リソースハブです。",
     "resources": "リソース",
     "community": "コミュニティ",
     "legal": "法的情報",
-    "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Steam コミュニティ",
-    "steamStore": "Steam ストア",
-    "about": "このサイトについて",
+    "discord": "公式Discord",
+    "twitter": "公式X",
+    "steamCommunity": "Steamコミュニティハブ",
+    "steamStore": "Steamストアページ",
+    "about": "概要",
     "privacy": "プライバシーポリシー",
     "terms": "利用規約",
     "copyrightNotice": "著作権",
-    "copyright": "© 2026 Lucid Blocks Wiki. Lucid Blocksの開発元とは提携していません。",
-    "disclaimer": "非公式のファン作成リソースサイトです。"
+    "copyright": "© 2026 INDUSTRIA 2 Wiki。Bleakmill、Headup、Beep Japan とは提携していません。",
+    "disclaimer": "非公式のファンメイド情報サイトです。"
   },
   "pages": {
-    "guides": {
-      "title": "Lucid Blocks 攻略ガイド",
-      "description": "初心者向けの基本から、高度な Apotheosis 戦略まで網羅した完全攻略ガイド。サバイバルとクラフトを極めましょう。",
-      "metaTitle": "Lucid Blocks 攻略ガイド - 初心者から上級者向けの戦略",
-      "metaDescription": "初心者向けのヒント、Apotheosis システム、サバイバル戦略、そしてシュールなサンドボックスの世界を攻略するための専門的な戦術を網羅した Lucid Blocks 完全ガイド。",
+    "release": {
+      "title": "INDUSTRIA 2 リリース",
+      "description": "INDUSTRIA 2 のリリース節目、発売状況、価格帯、ストアでの提供状況を追跡します。",
+      "metaTitle": "INDUSTRIA 2 リリース - 日付、発売状況、ストア情報",
+      "metaDescription": "Steam をはじめとする各プラットフォームでの INDUSTRIA 2 リリース時系列の更新、発売状況、ストアの状態を確認できます。",
+      "categoryLabel": "リリース状況",
+      "whatIs": "リリース情報の対象範囲とは？",
+      "whatIsDescription": "INDUSTRIA 2 のリリース情報では、発売時期、提供状況、購入チャネルの更新を追跡し、現在のリリース状況をすばやく確認できます。",
+      "why": "リリース更新を確認する理由は？",
+      "whySteps": {
+        "step1Title": "INDUSTRIA 2 の提供状況を確認する",
+        "step1Description": "主要ストアで INDUSTRIA 2 が公開中か、延期中か、新たに発表されたかを確認します。",
+        "step2Title": "INDUSTRIA 2 の購入タイミングを計画する",
+        "step2Description": "購入前に価格帯、セール、デモ版の有無をチェックします。",
+        "step3Title": "INDUSTRIA 2 の発売変更を追跡する",
+        "step3Description": "日付変更の記録と発売メモを1か所にまとめ、きれいなリリース履歴として参照できます。"
+      },
+      "featured": "注目・必読",
+      "all": "リリース記事一覧"
+    },
+    "platforms": {
+      "title": "INDUSTRIA 2 プラットフォーム",
+      "description": "INDUSTRIA 2 のプラットフォーム対応状況、ストアごとの違い、デモ版へのアクセス方法を比較します。",
+      "metaTitle": "INDUSTRIA 2 プラットフォーム - Steam、デモ版、ストアの選択肢",
+      "metaDescription": "最も信頼できる開始手順のために、INDUSTRIA 2 のプラットフォーム掲載情報、ダウンロード方法、ストアの違いを確認しましょう。",
+      "categoryLabel": "プラットフォームアクセス",
+      "whatIs": "プラットフォーム情報の対象範囲とは？",
+      "whatIsDescription": "INDUSTRIA 2 のプラットフォーム情報では、どこで遊べるか、どこからダウンロードできるか、各ストアがアクセス方法・価格・互換性をどのように示しているかを説明します。",
+      "why": "プラットフォーム詳細を確認する理由は？",
+      "whySteps": {
+        "step1Title": "INDUSTRIA 2 のストアを選ぶ",
+        "step1Description": "ストアを選ぶ前に、掲載情報の品質、購入手順、サポート窓口を比較します。",
+        "step2Title": "INDUSTRIA 2 のデモアクセスを確認する",
+        "step2Description": "プレイ可能なデモ版があるか、また自分の環境で試せる準備ができているかを確認します。",
+        "step3Title": "INDUSTRIA 2 の導入時の手間を減らす",
+        "step3Description": "プラットフォームの注記を活用して、インストール先や機能の有無に関する認識違いを避けます。"
+      },
+      "featured": "注目・必読",
+      "all": "プラットフォーム記事一覧"
+    },
+    "guide": {
+      "title": "INDUSTRIA 2 ガイド",
+      "description": "初心者向けの進め方、章ごとの流れ、実践的な戦闘進行には INDUSTRIA 2 ガイドハブを活用してください。",
+      "metaTitle": "INDUSTRIA 2 ガイド - 初心者向けルートと進行のヒント",
+      "metaDescription": "初回プレイの計画、基本システムの理解、効率的な章進行のための INDUSTRIA 2 ガイド情報を読めます。",
       "categoryLabel": "ゲームガイド",
-      "whatIs": "ガイドとは？",
-      "whatIsDescription": "ゲームの仕組み、サバイバル戦略、Apotheosis クラフトシステムを網羅した包括的なガイド。最初の一歩から高度なテクニックまで、すべてを学びましょう。",
-      "why": "なぜガイドを読むのか？",
+      "whatIs": "ガイドカテゴリとは？",
+      "whatIsDescription": "INDUSTRIA 2 ガイドの内容は、初回プレイの準備、ゲームプレイの流れ、ルート計画、そして本編進行で重要な判断ポイントに焦点を当てています。",
+      "why": "最初にガイドを読む理由は？",
       "whySteps": {
-        "step1Title": "基本システムを学ぶ",
-        "step1Description": "Apotheosis システムを理解し、初心者が陥りやすいミスを回避しましょう",
-        "step2Title": "素早い進行",
-        "step2Description": "シュールな世界で生き残り、繁栄するための実証済みの道筋を辿りましょう",
-        "step3Title": "戦略を極める",
-        "step3Description": "探索とクラフトのための高度な戦術を身につけましょう"
+        "step1Title": "INDUSTRIA 2 の基本ループを学ぶ",
+        "step1Description": "高リスクの章に入る前に、探索のテンポ、資源管理、圧力への対処を理解します。",
+        "step2Title": "INDUSTRIA 2 のルート品質を改善する",
+        "step2Description": "構成された章ガイドを使って、寄り道、取り逃し、繰り返し遭遇する場面を減らします。",
+        "step3Title": "INDUSTRIA 2 をよりスムーズにクリアする",
+        "step3Description": "序盤から終盤まで安定して進められる実用的な戦術とペース配分を適用します。"
       },
-      "featured": "注目・必須ガイド",
-      "all": "すべてのガイド"
+      "featured": "注目・必読",
+      "all": "ガイド記事一覧"
     },
-    "crafting": {
-      "title": "Lucid Blocks クラフト",
-      "description": "エッセンスの仕組み、レシピ、強力なアイテムを作るためのクラフト戦略など、Apotheosis 合成システムをマスターしましょう。",
-      "metaTitle": "Lucid Blocks クラフト - Apotheosis システムとレシピ",
-      "metaDescription": "Lucid Blocks の Apotheosis クラフトシステムを極める。エッセンスの仕組み、合成レシピ、強力な道具や武器を作るための戦略を学びましょう。",
-      "categoryLabel": "クラフトシステム",
-      "whatIs": "クラフトとは？",
-      "whatIsDescription": "Apotheosis システムは、最大6つのアイテムを組み合わせて新しいレシピを発見する、独自のエッセンス駆動型合成メカニズムです。固定されたクラフトメニューはなく、実験が鍵となります。",
-      "why": "なぜクラフトを極めるのか？",
+    "trailers": {
+      "title": "INDUSTRIA 2 トレーラー",
+      "description": "INDUSTRIA 2 のトレーラーを、リリース告知、物語のトーン、ゲームプレイのテンポに関する文脈付きで視聴できます。",
+      "metaTitle": "INDUSTRIA 2 トレーラー - ローンチ、ストーリー、ゲームプレイ動画",
+      "metaDescription": "INDUSTRIA 2 の公式トレーラーを、ローンチの見どころ、物語の導入、戦闘演出に関する簡潔な文脈付きでご覧ください。",
+      "categoryLabel": "公式トレーラー",
+      "whatIs": "トレーラーとは？",
+      "whatIsDescription": "INDUSTRIA 2 のトレーラー関連情報は、目的ごとに公式動画を整理し、ローンチ概要、物語の予告、ゲームプレイのデモをすばやく区別できるようにします。",
+      "why": "なぜカテゴリー別にトレーラーを確認するのか？",
       "whySteps": {
-        "step1Title": "強力なアイテムをアンロック",
-        "step1Description": "合成を通じて、不可欠な道具、武器、移動用装備を発見しましょう",
-        "step2Title": "エッセンスを理解する",
-        "step2Description": "アイテムのエッセンスがどのように組み合わさり、予測可能な結果を生み出すかを学びましょう",
-        "step3Title": "リソースを最適化",
-        "step3Description": "希釈メカニズムを使用して、安価な材料から出力を最大化しましょう"
+        "step1Title": "INDUSTRIA 2 のマーケティングシグナルを読み解く",
+        "step1Description": "雰囲気や物語から戦闘の方向性まで、各トレーラーが何を強調しているかを把握します。",
+        "step2Title": "INDUSTRIA 2 のプレイ体験を見積もる",
+        "step2Description": "ゲームプレイ映像を使って、テンポ、遭遇密度、キャンペーン全体のトーンを見積もります。",
+        "step3Title": "INDUSTRIA 2 の動画公開タイムラインを追う",
+        "step3Description": "トレーラーの公開順をたどり、ローンチ告知が時間とともにどのように変化したかを理解します。"
       },
-      "featured": "注目・必須ガイド",
-      "all": "すべてのクラフトガイド"
+      "featured": "注目＆必見",
+      "all": "すべてのトレーラー記事"
     },
-    "items": {
-      "title": "Lucid Blocks アイテム",
-      "description": "道具、武器、移動用装備、収納ソリューションを網羅した詳細なアイテムガイド。クラフトレシピや使い方のヒントも掲載。",
-      "metaTitle": "Lucid Blocks アイテム - 道具、武器、装備ガイド",
-      "metaDescription": "道具、武器、移動用装備、収納を含む Lucid Blocks の完全アイテムデータベース。各アイテムを効果的に作り、使用する方法を学びましょう。",
-      "categoryLabel": "アイテム＆装備",
-      "whatIs": "アイテムとは？",
-      "whatIsDescription": "道具、武器、移動用装備、機能的なアイテムに関する包括的なガイド。クラフトレシピ、使用戦略、最適な組み合わせを学びましょう。",
-      "why": "なぜアイテムガイドをチェックするのか？",
+    "performance": {
+      "title": "INDUSTRIA 2 パフォーマンス",
+      "description": "ハードウェア目標、グラフィックス調整、安定性重視の設定ガイドで INDUSTRIA 2 を最適化します。",
+      "metaTitle": "INDUSTRIA 2 パフォーマンス - 必要要件、グラフィックス、安定性",
+      "metaDescription": "システム要件、Steam Deck の挙動、DirectX モードの選択、実用的なグラフィックス調整に関する INDUSTRIA 2 のパフォーマンスガイダンスを入手しましょう。",
+      "categoryLabel": "パフォーマンス調整",
+      "whatIs": "パフォーマンス解説とは？",
+      "whatIsDescription": "INDUSTRIA 2 のパフォーマンス解説では、フレームの安定性、クラッシュの低減、ハードウェアに合わせた設定に重点を置き、負荷の高い場面でもゲームプレイが安定するようにします。",
+      "why": "なぜ早めにパフォーマンスを調整するのか？",
       "whySteps": {
-        "step1Title": "クラフトレシピを学ぶ",
-        "step1Description": "Apotheosis を使用して、不可欠な道具や武器をクラフトする方法を発見しましょう",
-        "step2Title": "装備を最適化",
-        "step2Description": "プレイスタイルや進行状況に合わせて最適なアイテムを選びましょう",
-        "step3Title": "生存率を高める",
-        "step3Description": "移動用装備や武器を装備して、危険な世界を探索しましょう"
+        "step1Title": "INDUSTRIA 2 を自分のハードウェアに合わせる",
+        "step1Description": "必要要件の基準値と API ガイダンスを使い、安定した互換設定から始めます。",
+        "step2Title": "INDUSTRIA 2 のフレームの安定性を高める",
+        "step2Description": "主要なグラフィックス設定を順序立てて調整し、カクつきや急なフレーム低下を軽減します。",
+        "step3Title": "INDUSTRIA 2 の問題を効率的にトラブルシュートする",
+        "step3Description": "クラッシュ、表示の乱れ、プラットフォーム固有の問題に対して、再現性のある診断を適用します。"
       },
-      "featured": "注目・必須ガイド",
-      "all": "すべてのアイテム"
+      "featured": "注目＆必見",
+      "all": "すべてのパフォーマンス記事"
     },
-    "biomes": {
-      "title": "Lucid Blocks バイオーム",
-      "description": "世界の各地域、環境の特徴、リソースの場所、各バイオームでのサバイバルのヒントを探索しましょう。",
-      "metaTitle": "Lucid Blocks バイオーム - 世界の地域と探索",
-      "metaDescription": "ティアマナ・レイライン、Fog Meadow、シュールな地域を含む Lucid Blocks のバイオームを探索。リソースを見つけ、危険を回避し、無限の世界を旅しましょう。",
-      "categoryLabel": "世界の地域",
-      "whatIs": "バイオームとは？",
-      "whatIsDescription": "世界のさまざまな地域、環境の特徴、リソースの分布、危険地帯に関するガイド。各エリアで何が待ち受けているか、どのように準備すべきかを学びましょう。",
-      "why": "なぜバイオームを探索するのか？",
+    "reviews": {
+      "title": "INDUSTRIA 2 レビュー",
+      "description": "INDUSTRIA 2 のレビュー要約、プレイヤーフィードバックの傾向、問題追跡の優先事項を確認できます。",
+      "metaTitle": "INDUSTRIA 2 レビュー - プレイヤーフィードバック、バグ、パッチ追跡",
+      "metaDescription": "INDUSTRIA 2 のレビュー、既知の問題、パッチ対応の傾向を把握し、現在のプレイヤー評価をすばやく理解しましょう。",
+      "categoryLabel": "レビュー＆フィードバック",
+      "whatIs": "レビュー解説とは？",
+      "whatIsDescription": "INDUSTRIA 2 のレビュー解説では、レビューの傾向、よくある不満の傾向、修正の進捗ポイントを集約し、品質管理をより明確にします。",
+      "why": "なぜレビューのシグナルを確認するのか？",
       "whySteps": {
-        "step1Title": "リソースを見つける",
-        "step1Description": "各地域特有の希少な材料やエッセンスの場所を特定しましょう",
-        "step2Title": "危険を回避",
-        "step2Description": "環境の危険や敵対的な生物について理解しましょう",
-        "step3Title": "探索を計画",
-        "step3Description": "各バイオームのタイプに合わせて、適切な道具と装備を準備しましょう"
+        "step1Title": "INDUSTRIA 2 の評価を素早く把握する",
+        "step1Description": "個々のスレッドをすべて読まなくても、繰り返し出る称賛点や不満点を特定します。",
+        "step2Title": "INDUSTRIA 2 の既知の問題を優先する",
+        "step2Description": "グループ化されたバグの傾向を使い、最も影響の大きい問題から対処します。",
+        "step3Title": "INDUSTRIA 2 のパッチ影響を追跡する",
+        "step3Description": "パッチ前後のフィードバックを比較し、修正が実際のプレイヤー問題を解決したかを確認します。"
       },
-      "featured": "注目・必須ガイド",
-      "all": "すべてのバイオーム"
+      "featured": "注目＆必見",
+      "all": "すべてのレビュー記事"
     },
-    "building": {
-      "title": "Lucid Blocks 建築",
-      "description": "クオリア個人次元、拠点建築、収納管理、クリエイティブな建設テクニックをマスターしましょう。",
-      "metaTitle": "Lucid Blocks 建築 - クオリアと拠点建設",
-      "metaDescription": "クオリア個人次元、拠点建設、収納ソリューション、クリエイティブな建築テクニックなど、Lucid Blocks の建築を極めましょう。",
-      "categoryLabel": "建築＆拠点",
-      "whatIs": "建築とは？",
-      "whatIsDescription": "クオリア個人次元システム、拠点建設、収納管理、クリエイティブな建築に関するガイド。シュールな世界の中に自分だけの安息の地を作る方法を学びましょう。",
-      "why": "なぜ拠点を建てるのか？",
+    "story": {
+      "title": "INDUSTRIA 2 ストーリー",
+      "description": "INDUSTRIA 2 の物語背景、キャラクターの成長、世界観の構造、エンディング解釈の分岐を探ります。",
+      "metaTitle": "INDUSTRIA 2 ストーリー - 世界観、キャラクター、エンディング分岐",
+      "metaDescription": "INDUSTRIA 2 のストーリーガイドを使って、Nora、ATLAS、キャンペーンの背景、ネタバレ管理されたエンディング分岐を理解しましょう。",
+      "categoryLabel": "ストーリー＆世界観",
+      "whatIs": "ストーリー解説とは？",
+      "whatIsDescription": "INDUSTRIA 2 のストーリー解説では、物語の基礎、世界構築の संकेत、エンディング分岐を、ネタバレ控えめなセクションと詳細解説セクションに明確に分けて説明します。",
+      "why": "なぜストーリーガイドを使うのか？",
       "whySteps": {
-        "step1Title": "安全な場所を作る",
-        "step1Description": "収納やクラフト作業のための安全な拠点を確立しましょう",
-        "step2Title": "リソースを管理",
-        "step2Description": "収納ソリューションを使用して、材料を効率的に整理しましょう",
-        "step3Title": "クオリアをアンロック",
-        "step3Description": "究極の利便性を備えた個人のポケット次元にアクセスしましょう"
+        "step1Title": "INDUSTRIA 2 の物語上の重要性を理解する",
+        "step1Description": "重要な選択の場面を形作る、キャラクターの動機や世界の背景を追います。",
+        "step2Title": "INDUSTRIA 2 の世界観のつながりを結びつける",
+        "step2Description": "繰り返し現れる記号、場所、システムの設定を整理し、物語解釈の一貫性を保ちます。",
+        "step3Title": "INDUSTRIA 2 のエンディング分岐に備える",
+        "step3Description": "ネタバレ層を分けた構成で、筋書きの明瞭さを損なわずに結末を比較できます。"
       },
-      "featured": "注目・必須ガイド",
-      "all": "すべての建築ガイド"
-    },
-    "support": {
-      "title": "Lucid Blocks サポート",
-      "description": "テクニカルサポート、プラットフォームの互換性、パフォーマンスの最適化、一般的な問題のトラブルシューティング。",
-      "metaTitle": "Lucid Blocks サポート - テクニカルヘルプと修正",
-      "metaDescription": "Steam Deck のセットアップ、クラッシュの修正、パフォーマンスの最適化、プラットフォームの互換性ガイドなど、Lucid Blocks のテクニカルサポートを受けられます。",
-      "categoryLabel": "テクニカルサポート",
-      "whatIs": "サポートとは？",
-      "whatIsDescription": "プラットフォームの互換性、パフォーマンスの最適化、クラッシュの修正、一般的な問題を網羅したテクニカルガイド。Steam Deck、マルチプレイヤーに関する質問、設定などのヘルプ。",
-      "why": "なぜサポートをチェックするのか？",
-      "whySteps": {
-        "step1Title": "技術的な問題を解決",
-        "step1Description": "クラッシュ、パフォーマンスの問題、互換性の問題を解決しましょう",
-        "step2Title": "パフォーマンスを最適化",
-        "step2Description": "お使いのプラットフォームで最高の体験を得るために設定を構成しましょう",
-        "step3Title": "プラットフォームの互換性",
-        "step3Description": "Steam Deck、コントローラーのサポート、システム要件について学びましょう"
-      },
-      "featured": "注目・必須ガイド",
-      "all": "すべてのサポート記事"
+      "featured": "注目＆必見",
+      "all": "すべてのストーリー記事"
     }
   }
 }

@@ -64,19 +64,57 @@ def load_config() -> dict:
     with open(CONFIG_PATH, 'r', encoding='utf-8') as f:
         return json.load(f)
 
+
+def resolve_runtime_api_config(config: dict) -> dict:
+    """
+    运行时 API 配置解析（环境变量优先）：
+    - TRANSPAGE_API_BASE_URL / TRANSPAGE_API_KEY / TRANSPAGE_MODEL
+    - OPENAI_BASE_URL / OPENAI_API_KEY / OPENAI_MODEL
+    - ANTHROPIC_BASE_URL / ANTHROPIC_AUTH_TOKEN / ANTHROPIC_DEFAULT_HAIKU_MODEL
+    """
+    base_from_env = (
+        os.getenv('TRANSPAGE_API_BASE_URL')
+        or os.getenv('OPENAI_BASE_URL')
+        or os.getenv('ANTHROPIC_BASE_URL')
+    )
+    api_base_url = base_from_env or config.get('api_base_url', '')
+
+    api_key = (
+        os.getenv('TRANSPAGE_API_KEY')
+        or os.getenv('OPENAI_API_KEY')
+        or os.getenv('ANTHROPIC_AUTH_TOKEN')
+        or config.get('api_key', '')
+    )
+
+    if os.getenv('TRANSPAGE_MODEL'):
+        model = os.getenv('TRANSPAGE_MODEL')
+    elif base_from_env and os.getenv('ANTHROPIC_DEFAULT_HAIKU_MODEL'):
+        # 使用本地代理时优先采用环境里可用模型，避免配置里的第三方模型名不兼容
+        model = os.getenv('ANTHROPIC_DEFAULT_HAIKU_MODEL')
+    else:
+        model = config.get('model') or os.getenv('OPENAI_MODEL') or 'gpt-5.4-mini'
+
+    return {
+        'api_base_url': api_base_url,
+        'api_key': api_key,
+        'model': model,
+    }
+
 # ─── API 调用 ─────────────────────────────────────────────────────────────────
 
 
 def call_api(content: str, lang_name: str, config: dict, timeout: int = 120, retries: int = 3) -> Optional[str]:
     """调用翻译 API，失败返回 None"""
     base = config['api_base_url'].rstrip('/')
-    # 兼容各种写法：/v1、/v1/、/v1/chat/completions 均可正常工作
+    # 兼容各种写法：根域名、/v1、/v1/、/chat/completions、/v1/chat/completions
     if base.endswith('/chat/completions'):
         api_url = base
-    else:
+    elif base.endswith('/v1'):
         api_url = f"{base}/chat/completions"
+    else:
+        api_url = f"{base}/v1/chat/completions"
     api_key = config['api_key']
-    model = config.get('model', 'gemini-2.5-flash')
+    model = config.get('model', 'gpt-5.4-mini')
     temperature = config.get('temperature', 0.1)
 
     # 构建专有名词保护列表
@@ -314,6 +352,8 @@ def main():
     args = parser.parse_args()
 
     config = load_config()
+    runtime_api = resolve_runtime_api_config(config)
+    config = {**config, **runtime_api}
     print(f"[OK] 配置已加载: {CONFIG_PATH}")
     print(f"[OK] 项目根目录: {PROJECT_ROOT}")
     print(f"[OK] API: {config['api_base_url']} / 模型: {config.get('model')}\n")

@@ -138,11 +138,11 @@ export async function DetailPage({ frontmatter, content, contentType, language, 
 					</Link>
 				</div>
 
-				{/* 文章底部广告区域 */}
-				<div className="border-t border-border pt-12 mt-12 space-y-8">
-					<div className="text-center text-sm text-muted-foreground mb-4">
-						Advertisement
-					</div>
+					{/* 文章底部广告区域 */}
+					<div className="border-t border-border pt-12 mt-12 space-y-8">
+						<div className="text-center text-sm text-muted-foreground mb-4">
+							{t('common.advertisement')}
+						</div>
 
 					{/* 广告 1: 728×90 横幅 */}
 					<AdBanner type="banner-728x90" adKey={process.env.NEXT_PUBLIC_AD_BANNER_728X90} />

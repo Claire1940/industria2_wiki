@@ -1,967 +1,919 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Demo-Download, Koop-Leitfaden, Crafting & Mods",
-      "description": "Vollständige Lucid Blocks Ressourcenzentrale! Hol dir Infos zum Demo-Download, Anfängerleitfäden, Koop-Strategien, Crafting-Tipps, Steuerung, Mods und Community-Links für das Steam-Stealth-Heist-Spiel.",
-      "keywords": "Lucid Blocks Wiki, Lucid Blocks, Demo-Download, Anfängerleitfaden, Koop-Leitfaden, Crafting, Ausrüstung, Mods, BepInEx, Steam-Spiel, Stealth-Spiel",
-      "ogTitle": "Lucid Blocks Wiki - Demo-Download, Koop-Leitfaden, Crafting & Mods",
-      "ogDescription": "Vollständige Lucid Blocks Ressourcenzentrale! Hol dir Infos zum Demo-Download, Anfängerleitfäden, Koop-Strategien, Crafting-Tipps und Mods für das Steam-Stealth-Heist-Spiel.",
-      "twitterTitle": "Lucid Blocks Wiki - Demo-Download, Koop-Leitfaden, Crafting & Mods",
-      "twitterDescription": "Vollständige Lucid Blocks Ressourcenzentrale! Hol dir Infos zum Demo-Download, Anfängerleitfäden, Koop-Strategien und Crafting-Tipps."
+      "title": "INDUSTRIA 2 Wiki - Veröffentlichungsdatum, Trailer und vollständiger Leitfaden",
+      "description": "Das INDUSTRIA 2 Wiki behandelt den Veröffentlichungsstatus, Steam-Downloadoptionen, Gameplay, Story, Walkthroughs, Waffen, Bosse, Erfolge und Leistungsoptimierungen.",
+      "keywords": "INDUSTRIA 2, INDUSTRIA 2 Wiki, INDUSTRIA 2 Veröffentlichungsdatum, INDUSTRIA 2 Trailer, INDUSTRIA 2 Leitfaden, INDUSTRIA 2 Komplettlösung",
+      "ogTitle": "INDUSTRIA 2 Wiki - Veröffentlichungsdatum, Trailer und vollständiger Leitfaden",
+      "ogDescription": "Das INDUSTRIA 2 Wiki behandelt den Veröffentlichungsstatus, Steam-Downloadoptionen, Gameplay, Story, Walkthroughs, Waffen, Bosse, Erfolge und Leistungsoptimierungen.",
+      "twitterTitle": "INDUSTRIA 2 Wiki - Veröffentlichungsdatum, Trailer und vollständiger Leitfaden",
+      "twitterDescription": "Das INDUSTRIA 2 Wiki behandelt den Veröffentlichungsstatus, Spielanleitungen, Erfolge und Plattformoptimierung für PC-Spieler."
     }
   },
   "nav": {
-    "release": "Release",
-    "platforms": "Platforms",
-    "guide": "Guide",
-    "trailers": "Trailers",
-    "performance": "Performance",
-    "reviews": "Reviews",
-    "story": "Story"
+    "release": "Veröffentlichung",
+    "platforms": "Plattformen",
+    "guide": "Leitfaden",
+    "trailers": "Trailer",
+    "performance": "Leistung",
+    "reviews": "Bewertungen",
+    "story": "Handlung"
   },
   "common": {
     "home": "Startseite",
     "more": "Mehr",
-    "playNow": "Demo herunterladen",
+    "playNow": "Auf Steam spielen",
     "switchLanguage": "Sprache wechseln",
     "switchTheme": "Design wechseln",
-    "lightMode": "Heller Modus",
-    "darkMode": "Dunkler Modus",
+    "lightMode": "Hellmodus",
+    "darkMode": "Dunkelmodus",
     "notFound": "Seite nicht gefunden",
-    "notFoundDescription": "Die Seite, die du suchst, existiert nicht.",
-    "backToHome": "Zurück zur Startseite",
+    "notFoundDescription": "Die gesuchte Seite existiert nicht.",
+    "backToHome": "Zur Startseite",
     "relatedArticles": "Ähnliche Artikel",
-    "readMore": "Mehr lesen",
-    "articlesComingSoon": "Artikel folgen bald"
+    "readMore": "Weiterlesen",
+    "articlesComingSoon": "Artikel folgen in Kürze",
+    "quickTips": "Kurze Tipps",
+    "stillHavingIssues": "Immer noch Probleme?",
+    "reportBugsWithLogs": "Melde Fehler mit deinen Protokollen über die offiziellen Kanäle:",
+    "advertisement": "Anzeige"
   },
   "hero": {
-    "badge": "Winzige Gnome. Große Häuser. Stealth-Raubzüge mit Freunden.",
-    "title": "Lucid Blocks Wiki",
-    "description": "Deine zentrale Anlaufstelle für Lucid Blocks: wie die Raubzüge funktionieren, High-Gnome-Aufträge, Crafting & Upgrades, Gegner, Steuerung und die schnellsten Wege, um jeden Durchgang zu überleben.",
-    "getFreeCodesCTA": "Demo herunterladen",
-    "playOnSteamCTA": "Auf die Wunschliste bei Steam",
+    "badge": "Narratives Sci-Fi-FPS-Abenteuer",
+    "title": "INDUSTRIA 2",
+    "description": "Industria 2 ist ein narratives Einzelspieler-FPS-Abenteuer, in dem Nora eine feindliche Paralleldimension erkundet, die von einer unersättlichen künstlichen Intelligenz verschlungen wird.",
+    "getFreeCodesCTA": "Leitfaden lesen",
+    "playOnSteamCTA": "Auf Steam ansehen",
     "stats": {
       "stat1": {
-        "value": "15.000",
-        "label": "Gleichzeitige Spieler (Demo)"
+        "value": "29. Apr. 2026",
+        "label": "Steam-Veröffentlichung"
       },
       "stat2": {
-        "value": "6",
-        "label": "Koop-Spieler"
+        "value": "5-7 Stunden",
+        "label": "Story-Länge"
       },
       "stat3": {
-        "value": "31.01.2026",
-        "label": "Demo-Veröffentlichung"
+        "value": "30",
+        "label": "Steam-Erfolge"
       },
       "stat4": {
-        "value": "PC (Steam)",
-        "label": "Plattform"
+        "value": "20",
+        "label": "Kampagnenlevel"
       }
     }
   },
   "gameFeature": {
-    "title": "Lucid Blocks Gameplay",
-    "description": "Sieh dir an, wie winzige Gnome in chaotischen 6-Spieler-Koop-Stealth-Missionen große Raubzüge durchführen!"
+    "title": "INDUSTRIA 2 Gameplay",
+    "description": "Erlebe INDUSTRIA 2 mit narrativem FPS-Kampf, atmosphärischem Weltdesign, Waffen-Upgrades und einer fokussierten Einzelspieler-Kampagne auf PC."
   },
   "tools": {
-    "title": "Lucid Blocks",
-    "titleHighlight": "Ressourcen",
-    "subtitle": "Alles, was du brauchst, um Raubzüge und Koop-Stealth zu meistern",
+    "title": "INDUSTRIA 2",
+    "titleHighlight": "Modulnavigation",
+    "subtitle": "Springe zu jedem Startseitenmodul von INDUSTRIA 2 und durchsuche jeden Themenbereich schnell",
     "cards": [
       {
-        "icon": "Herunterladen",
-        "title": "Demo-Download",
-        "description": "Hol dir die kostenlose Steam-Demo"
+        "icon": "BookOpen",
+        "title": "INDUSTRIA 2 Veröffentlichungsstatus",
+        "description": "Startdatum, Verzögerungshistorie und aktueller Steam-Status"
       },
       {
-        "icon": "Buch offen",
-        "title": "Anfängerleitfaden",
-        "description": "Kernschleife und häufige Fallstricke"
-      },
-      {
-        "icon": "Benutzer",
-        "title": "Koop-Leitfaden",
-        "description": "6-Spieler-Rollen und Rettungstaktiken"
-      },
-      {
-        "icon": "Klemmbrett-Check",
-        "title": "Aufgaben & Ziele",
-        "description": "Was High-Gnome von dir will"
-      },
-      {
-        "icon": "Tastatur",
-        "title": "Steuerung & Tastenbelegung",
-        "description": "Standardtasten und wie man sie ändert"
-      },
-      {
-        "icon": "Schild",
-        "title": "Inhaltseinstellungen",
-        "description": "Inhalte für Erwachsene und Umschaltoptionen"
+        "icon": "Sparkles",
+        "title": "INDUSTRIA 2 Download und Preis",
+        "description": "Steam-Kauf, Demo-Zugang und Store-Vergleich"
       },
       {
         "icon": "Hammer",
-        "title": "Crafting & Ausrüstung",
-        "description": "Rüste dich mit gestohlenen Materialien aus"
+        "title": "INDUSTRIA 2 Gameplay-Übersicht",
+        "description": "Spieltyp, Tempo und zentrale Highlights des Erlebnisses"
       },
       {
-        "icon": "Paket",
-        "title": "Beute & Gegenstände",
-        "description": "Was man stehlen sollte und Trage-Tipps"
+        "icon": "Package",
+        "title": "INDUSTRIA 2 Systemanforderungen",
+        "description": "Mindest- und empfohlene PC-Spezifikationen"
       },
       {
-        "icon": "Warndreieck",
-        "title": "Gegner & Gefahren",
-        "description": "Bedrohungen und wie man mit ihnen umgeht"
+        "icon": "Home",
+        "title": "INDUSTRIA 2 Trailer und Gameplay-Videos",
+        "description": "Launch-Trailer, Teaser, Story-Trailer und gameplayorientierte Aufnahmen"
       },
       {
-        "icon": "Auge",
-        "title": "Stealth & Flucht",
-        "description": "Bleib versteckt und extrahiere sicher"
+        "icon": "Eye",
+        "title": "INDUSTRIA 2 Einsteigerleitfaden",
+        "description": "Grundlegende Genre-Einrichtung, Demo-Prüfung, Erkundungsrhythmus und Kampfbewusstsein"
       },
       {
-        "icon": "Startseite",
-        "title": "Haus-Upgrades",
-        "description": "Verbessere deine schwebende Inselbasis"
+        "icon": "AlertTriangle",
+        "title": "INDUSTRIA 2 Waffen und Upgrades",
+        "description": "Waffenrollen, Upgrade-Schwerpunkte und praktischer Einsatz in Begegnungen"
       },
       {
-        "icon": "Sprechblase",
-        "title": "Community & Discord",
-        "description": "Offizielle Links und Gruppensuche"
-      },
-      {
-        "icon": "Einstellungen",
-        "title": "Mods & BepInEx",
-        "description": "Installiere Framework und Mod-Setup"
-      },
-      {
-        "icon": "Stern",
-        "title": "Beliebte Mods",
-        "description": "Top-Community-Auswahlen und -Funktionen"
-      },
-      {
-        "icon": "Gamepad2",
-        "title": "Controller-Unterstützung",
-        "description": "Volle Gamepad-Steuerung mit UI-Cursor"
+        "icon": "ArrowRight",
+        "title": "INDUSTRIA 2 Crafting und Inventar",
+        "description": "Ressourcensuche, diegetischer Inventarfluss, Rezepte und Hilfswerkzeuge"
       },
       {
         "icon": "TrendingUp",
-        "title": "Spielerzahl & Trend",
-        "description": "Live-Statistiken und Peak-Tracking"
+        "title": "INDUSTRIA 2 Gegner und Bosse",
+        "description": "Gegnertypen, Anzahl der Bosse, roboterhafter Body-Horror-Ton und Kampfmentalität"
+      },
+      {
+        "icon": "Star",
+        "title": "INDUSTRIA 2 Walkthrough und Level",
+        "description": "Kampagnenverlauf, Cannery-Einstieg, 20 Level und Routenplanung für 4-7 Stunden"
+      },
+      {
+        "icon": "ClipboardCheck",
+        "title": "INDUSTRIA 2 Story und Lore",
+        "description": "Nora, ATLAS, Paralleldimension und der Kontext des Ostberlins von 1989"
+      },
+      {
+        "icon": "MessageCircle",
+        "title": "INDUSTRIA 2 Enden und Entscheidungen",
+        "description": "Bleiben- und Gehen-Ausgänge, spoilerfreie Entscheidungen und Vorbereitung auf das Ende"
+      },
+      {
+        "icon": "Gamepad2",
+        "title": "INDUSTRIA 2 Sammelobjekte und Notizen",
+        "description": "28 Notizen, 13 Sammlerstücke, 10 Crafting-Rezepte und Planung der Komplettierungsroute"
+      },
+      {
+        "icon": "Settings",
+        "title": "INDUSTRIA 2 Erfolgsleitfaden",
+        "description": "Alle 30 Steam-Erfolge rund um Story, Waffen, Kampf, Sammlungen und Enden"
+      },
+      {
+        "icon": "Clock",
+        "title": "INDUSTRIA 2 Steam Deck und Leistung",
+        "description": "Steam-Deck-Status, DX11- und DX12-Auswahl und praktische Schritte zur Grafikoptimierung"
+      },
+      {
+        "icon": "Check",
+        "title": "INDUSTRIA 2 Bewertungen, Fehler und Patchnotes",
+        "description": "Übersicht der Startbewertungen, Nachverfolgung bekannter Probleme und Checkliste für wichtige Patches"
       }
     ]
   },
   "modules": {
-    "demoDownload": {
-      "title": "Lucid Blocks Demo-Download",
-      "subtitle": "Hol dir die kostenlose Demo auf Steam",
-      "downloadSize": "2,62 GiB",
-      "diskSize": "4,88 GiB",
-      "releaseDate": "30. Januar 2026",
-      "price": "Kostenlos",
-      "platform": "PC (Steam) / Windows",
-      "engine": "Unity",
-      "primaryCTA": "Demo herunterladen",
-      "secondaryCTA": "Technische Infos ansehen",
-      "installPath": "Steam\\steamapps\\common\\Lucid Blocks Demo",
-      "sections": [
-        {
-          "heading": "Wo man es herunterladen kann",
-          "items": [
-            "Öffne die offizielle Steam-Store-Seite und nutze den Abschnitt \"Demo herunterladen\".",
-            "Wenn Steam dich auffordert, dich anzumelden, melde dich zuerst an und versuche es erneut."
-          ]
-        },
-        {
-          "heading": "Schnelle Überprüfung von Installation und Start",
-          "items": [
-            "Standardinstallationsort: Steam-Bibliotheksordner → steamapps → common → (Spielordner).",
-            "Wenn es nicht startet: Überprüfe die Spieldateien in Steam und starte Steam neu."
-          ]
-        }
-      ]
-    },
-    "beginnerGuide": {
-      "title": "Lucid Blocks Anfängerleitfaden",
-      "subtitle": "Meistere die Kernschleife und vermeide häufige Fehler",
+    "lucidBlocksBeginnerGuide": {
+      "title": "INDUSTRIA 2 Veröffentlichungsdatum und Startstatus",
+      "displayType": "Schritte",
+      "intro": "Dieses Modul fasst die wichtigsten Startfakten zu INDUSTRIA 2 zusammen, einschließlich des endgültigen Veröffentlichungsdatums, der Terminverschiebung, des Plattformstatus und der Veröffentlichungsdetails.",
       "steps": [
         {
-          "number": 1,
-          "title": "Betritt das Haus",
-          "description": "Lass dich von deiner schwebenden Inselbasis in ein menschliches Haus fallen. Spawne draußen und schleiche dich durch unverschlossene Türen oder Fenster hinein."
+          "title": "Aktuellen Status von INDUSTRIA 2 bestätigen",
+          "description": "INDUSTRIA 2 ist auf Steam verfügbar, mit einer aktiven Store-Seite, einem Community-Hub und festgelegter Startpreisgestaltung."
         },
         {
-          "number": 2,
-          "title": "Schließe Aufgaben ab",
-          "description": "Erledige High-Gnome-Aufgaben, bevor die Zeit abläuft. Überprüfe die Ziele über die Tab-Taste und priorisiere zuerst riskante Aufgaben."
+          "title": "Endgültiges Veröffentlichungsdatum von INDUSTRIA 2 prüfen",
+          "description": "Der offizielle Steam-Eintrag nennt den 29. April 2026 als endgültiges Veröffentlichungsdatum für INDUSTRIA 2."
         },
         {
-          "number": 3,
-          "title": "Stehle Gegenstände",
-          "description": "Sammle Wertgegenstände und Materialien zum Craften. Vermeide es, Lärm zu machen oder vom Hausbesitzer entdeckt zu werden."
+          "title": "Verschiebungstimeline von INDUSTRIA 2 überprüfen",
+          "description": "Das Veröffentlichungsfenster wurde vor der Vollveröffentlichung vom 15. April 2026 auf den 29. April 2026 verschoben."
         },
         {
-          "number": 4,
-          "title": "Flucht via Tornado",
-          "description": "Wenn der Timer endet, spawnt ein Tornado im Garten – erreiche ihn, um sicher zu extrahieren. Fang früh an, dich zu bewegen!"
-        },
-        {
-          "number": 5,
-          "title": "Upgrade & Wiederholung",
-          "description": "Verwende Belohnungen und Materialien, um Ausrüstung zu Hause herzustellen, und starte dann deinen nächsten Raubzug mit besserer Ausrüstung."
+          "title": "Entwickler und Publisher von INDUSTRIA 2 verifizieren",
+          "description": "Bleakmill hat INDUSTRIA 2 entwickelt, während Headup und Beep Japan als Publisher aufgeführt sind."
         }
-      ],
-      "pitfalls": [
-        {
-          "title": "Erwischt werden",
-          "description": "Der Hausbesitzer wird dich verfolgen. Bleib versteckt, lenke ab und unterbreche die Sichtlinie, um zu entkommen.",
-          "icon": "Warndreieck"
-        },
-        {
-          "title": "Zeit läuft ab",
-          "description": "Der Tornado-Timer ist streng. Beginne frühzeitig mit dem Weg zur Extraktion, anstatt zu viel zu plündern.",
-          "icon": "Uhr"
-        },
-        {
-          "title": "Teamkollegen ignorieren",
-          "description": "Rette gefangene Verbündete schnell aus Kühl-/Ofenfallen – rufe sofort nach Rettung.",
-          "icon": "Benutzer"
-        }
-      ]
-    },
-    "coopGuide": {
-      "title": "Lucid Blocks Koop-Leitfaden",
-      "subtitle": "Koordiniere dich mit bis zu 6 Spielern für maximales Chaos",
-      "maxPlayers": 6,
-      "roles": [
-        {
-          "name": "Späher",
-          "description": "Überprüfe auf Bedrohungen, markiere sichere Pfade und leite die Teambewegung",
-          "icon": "Auge"
-        },
-        {
-          "name": "Träger",
-          "description": "Konzentriere dich auf schwere Gegenstände mit Rucksack-Upgrades und sichere den Aufgabenfortschritt",
-          "icon": "Paket"
-        },
-        {
-          "name": "Ablenkung",
-          "description": "Locke Hausbesitzer/Haustiere vom Team weg, um sichere Fenster zu schaffen",
-          "icon": "Benutzer"
-        },
-        {
-          "name": "Retter",
-          "description": "Befreie gefangene Teamkollegen aus Kühl-/Ofen, bevor sie sterben",
-          "icon": "Schild"
-        }
-      ],
-      "threats": [
-        "Hausbesitzer (verfolgt und fängt dich)",
-        "Katzen & Mäuse (Patrouillenwege)",
-        "Staubsaugerroboter (sofortige Gefahr)",
-        "Zeitlimit (Tornado-Extraktion)"
-      ],
-      "communication": "Verwende Voice-Chat (V-Taste), um Aufgaben und Rettungen zu koordinieren. Rufe: \"Entdeckt\", \"Route\", \"Brauche Rettung\", \"Bald extrahieren\"."
-    },
-    "tasksObjectives": {
-      "title": "Lucid Blocks Aufgaben & Ziele",
-      "subtitle": "Was der High-Gnome will: Aufgabenbeispiele",
-      "taskTypes": [
-        {
-          "type": "Stehle Gegenstände",
-          "examples": [
-            "Schnapp dir bestimmte Gegenstände, die durch High-Gnome-Ziele markiert sind"
-          ]
-        },
-        {
-          "type": "Erreiche Orte",
-          "examples": [
-            "Navigiere zu bestimmten Bereichen im Haus"
-          ]
-        },
-        {
-          "type": "Verursache Unfug",
-          "examples": [
-            "Mach einen Fernseher kaputt",
-            "Überflute eine Toilette",
-            "Erzeuge Chaos"
-          ]
-        }
-      ],
-      "efficiency": [
-        "Erledige zuerst riskante Aufgaben, während das Team zusammen ist",
-        "Weise einem Träger Aufgabengegenstände zu, damit sie während der Verfolgungsjagden nicht verloren gehen",
-        "Beginne mit der Bewegung zur Extraktion, bevor die Zeit abläuft"
-      ]
-    },
-    "controlsKeybinds": {
-      "title": "Lucid Blocks Steuerung & Tastenbelegung",
-      "subtitle": "Standard-Tastatursteuerung (und wo man sie ändern kann)",
-      "keybinds": [
-        {
-          "action": "Nach links bewegen",
-          "key": "A"
-        },
-        {
-          "action": "Nach rechts bewegen",
-          "key": "D"
-        },
-        {
-          "action": "Nach vorne bewegen",
-          "key": "W"
-        },
-        {
-          "action": "Nach hinten bewegen",
-          "key": "S"
-        },
-        {
-          "action": "Ducken",
-          "key": "Linke Strg"
-        },
-        {
-          "action": "Angreifen",
-          "key": "Linksklick"
-        },
-        {
-          "action": "Rennen",
-          "key": "Linke Umschalttaste"
-        },
-        {
-          "action": "Gegenstand fallen lassen",
-          "key": "G"
-        },
-        {
-          "action": "Interagieren",
-          "key": "E"
-        },
-        {
-          "action": "Springen",
-          "key": "Leertaste"
-        },
-        {
-          "action": "Sprechen",
-          "key": "V"
-        },
-        {
-          "action": "Schieben",
-          "key": "Rechtsklick"
-        },
-        {
-          "action": "Ragdoll",
-          "key": "Q"
-        },
-        {
-          "action": "Ausrüstungsslot 1",
-          "key": "1"
-        },
-        {
-          "action": "Ausrüstungsslot 2",
-          "key": "2"
-        },
-        {
-          "action": "Ausrüstungsslot 3",
-          "key": "3"
-        },
-        {
-          "action": "Ausrüstungsslot 4",
-          "key": "4"
-        },
-        {
-          "action": "Inventar",
-          "key": "Tab"
-        }
-      ],
-      "changePath": "Vom Titelmenü aus: öffne EINSTELLUNGEN und überprüfe dann die Tastatureinstellungen. Verwende das Suchfeld, um die Tastenbelegungszeilen zu filtern."
-    },
-    "contentSettings": {
-      "title": "Lucid Blocks Inhaltseinstellungen",
-      "subtitle": "Inhalte für Erwachsene, Nacktheit-Umschaltung und Steam-Einstellungen",
-      "descriptors": [
-        "Etwas Nacktheit oder sexuelle Inhalte",
-        "Allgemeine Inhalte für Erwachsene"
-      ],
-      "details": [
-        {
-          "heading": "Was die Entwickler angeben",
-          "items": [
-            "Ein Mensch kann nackt erscheinen, während er Aktivitäten wie Baden ausübt.",
-            "Nacktheit wird zensiert und kann optional vollständig ausgeschaltet werden.",
-            "Gnome können zerstückelt werden und auf brutale Weise sterben."
-          ]
-        },
-        {
-          "heading": "Wenn Steam die Community-Seite blockiert",
-          "items": [
-            "Steam kann den Community-Hub je nach deinen Inhaltseinstellungen ausblenden.",
-            "Verwende Steams \"Inhaltseinstellungen aktualisieren\", um anzupassen, was Steam anzeigen darf."
-          ]
-        }
-      ]
-    },
-    "craftingEquipment": {
-      "title": "Lucid Blocks Crafting & Ausrüstung",
-      "subtitle": "Ausrüsten: Crafting-Beispiele und was jedes Werkzeug bewirkt",
-      "equipment": [
-        {
-          "item": "Rucksack",
-          "benefit": "Erweitert die Inventarkapazität für mehr Beute pro Durchgang"
-        },
-        {
-          "item": "Gnom-Handschuhe",
-          "benefit": "Ermöglicht es dir, Türen zu öffnen und mit mehr Objekten zu interagieren"
-        },
-        {
-          "item": "Springschuhe",
-          "benefit": "Verhindert Fallschaden bei hohen Stürzen während der Flucht"
-        },
-        {
-          "item": "Waffe",
-          "benefit": "Hilft dir, Bedrohungen wie Mäuse in die Enge zu treiben"
-        }
-      ],
-      "sections": [
-        {
-          "heading": "Wie Crafting mit Plündern zusammenhängt",
-          "items": [
-            "Stehle während eines Laufs Gegenstände und bringe sie als Crafting-Materialien zurück.",
-            "Nach der Extraktion unterstützen Belohnungen/Materialien neue Handwerke."
-          ]
-        },
-        {
-          "heading": "Basisverbesserung",
-          "items": [
-            "Stelle Möbel her und verbessere dein schwebendes Inselhaus (vollständige Spielfunktion)."
-          ]
-        }
-      ]
-    },
-    "lootItems": {
-      "title": "Lucid Blocks Beute & Gegenstände",
-      "subtitle": "Was man stehlen sollte: Gegenstandstypen, Risiko und Trage-Tipps",
-      "categories": [
-        {
-          "type": "Aufgabengegenstände",
-          "examples": [
-            "Gegenstände, die von High-Gnome für Ziele benötigt werden"
-          ]
-        },
-        {
-          "type": "Crafting-Materialien",
-          "examples": [
-            "Haushaltsgegenstände, die in Gnom-Ausrüstung und -Upgrades umgewandelt werden"
-          ]
-        },
-        {
-          "type": "Unfug-Ziele",
-          "examples": [
-            "Objekte, die an Aufgaben wie Zerstören oder Überfluten beteiligt sind"
-          ]
-        }
-      ],
-      "carryTips": [
-        "Priorisiere den Aufgabenfortschritt und fülle dann die verbleibende Kapazität mit Crafting-Materialien",
-        "Wenn sich Bedrohungen in der Nähe befinden, bewege Gegenstände in kurzen, sicheren Sprüngen anstatt in langen, exponierten Tragen",
-        "Plane die Route zur Gartenextraktion, bevor der Timer endet"
-      ],
-      "riskLevels": [
-        {
-          "level": "Niedrig",
-          "description": "In der Nähe von Eingängen oder sicheren Ecken"
-        },
-        {
-          "level": "Mittel",
-          "description": "Tiefer gelegene Räume oder in der Nähe von umherziehenden Bedrohungen"
-        },
-        {
-          "level": "Hoch",
-          "description": "In der Nähe der Patrouille des Hausbesitzers oder des Staubsaugerroboters"
-        }
-      ]
-    },
-    "enemiesHazards": {
-      "title": "Lucid Blocks Gegner & Gefahren",
-      "subtitle": "Wisse, was dich erwischen kann",
-      "threats": [
-        {
-          "name": "Der Hausbesitzer",
-          "trigger": "Beim Einbrechen oder Erledigen von Aufgaben entdeckt werden",
-          "behavior": "Er verfolgt dich und versucht, dich zu fangen",
-          "counter": "Bleib heimlich, unterbreche Sichtlinien und bleib als Team in Bewegung"
-        },
-        {
-          "name": "Katzen",
-          "trigger": "Zu nahe kommen oder ihren Weg kreuzen",
-          "behavior": "Sie werden zu einer direkten Bedrohung, während du dich schleichst",
-          "counter": "Vermeide ihre Routen und gehe leise vorbei"
-        },
-        {
-          "name": "Mäuse",
-          "trigger": "Bereiche betreten, in denen Mäuse umherstreifen",
-          "behavior": "Sie bedrohen zerbrechliche Gnome während der Läufe",
-          "counter": "Bleib wachsam in engen Räumen und sei bereit, dich zurückzuziehen"
-        },
-        {
-          "name": "Staubsaugerroboter",
-          "trigger": "Sich auf seinem Reinigungspfad befinden",
-          "behavior": "Er kann Gnome einsaugen",
-          "counter": "Höre auf ihn, halte dich von seiner Route fern und positioniere dich schnell neu"
-        },
-        {
-          "name": "Kühlschrank / Ofen-Falle",
-          "trigger": "Vom Hausbesitzer erwischt werden",
-          "behavior": "Du kannst darin eingesperrt werden; wenn Teamkollegen nicht rechtzeitig retten, stirbst du",
-          "counter": "Rufe sofort; Teamkollegen priorisieren die Rettungsroute"
-        },
-        {
-          "name": "Zeitlimit",
-          "trigger": "Der Lauf-Timer erreicht das Limit",
-          "behavior": "Der Extraktions-Tornado erscheint im Garten; du musst ihn erreichen, um zu entkommen",
-          "counter": "Hör auf, zu viel zu plündern, gruppiere dich neu und engagiere dich frühzeitig für die Extraktion"
-        }
-      ]
-    },
-    "stealthEscape": {
-      "title": "Lucid Blocks Stealth & Flucht Tipps",
-      "subtitle": "Stehle mehr, stirb weniger",
-      "do": [
-        "Bleib heimlich und gehe in Deckung, bevor du mit Objekten interagierst",
-        "Nutze die Teamarbeit: rufe Bedrohungen aus und koordiniere Routen",
-        "Rette Teamkollegen schnell, wenn jemand gefangen oder am Boden ist",
-        "Reduziere deine Verluste und mache dich auf den Weg zur Extraktion, wenn der Timer knapp ist"
-      ],
-      "dont": [
-        "Werde gierig, wenn die Extraktion bevorsteht",
-        "Teile dich zu weit vom Team, wenn der Hausbesitzer aktiv ist",
-        "Ignoriere Staubsaugerroboterpfade oder Tierpatrouillen",
-        "Verzögere Rettungen, wenn ein Teamkollege eingesperrt ist"
       ],
       "quickTips": [
+        "Nutze dieses Veröffentlichungsmodul zu INDUSTRIA 2 als schnellen Statuscheck, bevor du tiefer in die Anleitungen einsteigst.",
+        "Wenn dein Ziel die Kaufplanung ist, kombiniere diesen Abschnitt mit dem Download- und Preis-Modul von INDUSTRIA 2.",
+        "Für Erwartungen zum Gameplay fahre direkt mit dem folgenden Gameplay-Überblicksmodul zu INDUSTRIA 2 fort.",
+        "Für technische Einsatzbereitschaft gehe nach der Überprüfung des Startstatus zu den Systemanforderungen von INDUSTRIA 2."
+      ]
+    },
+    "lucidBlocksApotheosisCrafting": {
+      "title": "INDUSTRIA 2 Steam-Download, Preis und Demo",
+      "displayType": "Karten",
+      "intro": "In diesem Abschnitt wird verglichen, wo INDUSTRIA 2 heruntergeladen werden kann, wie die aktuelle Preisgestaltung dargestellt wird und wo die Demo verfügbar ist.",
+      "cards": [
         {
-          "title": "Die 3-Sekunden-Regel",
-          "text": "Wenn du deinen nächsten Zug nicht in 3 Sekunden erklären kannst, wirst du gleich entdeckt."
+          "name": "INDUSTRIA 2 Steam-Store",
+          "description": "Steam ist der wichtigste aktive Store für INDUSTRIA 2, mit Kaufabwicklung, Demo-Link, Bundle-Sichtbarkeit und Zugriff auf Bewertungen."
         },
         {
-          "title": "Rettung zuerst",
-          "text": "Eine schnelle Rettung hält den Lauf am Leben; Plündern kann warten."
+          "name": "INDUSTRIA 2 Demo-Version",
+          "description": "Ein separater Eintrag für die INDUSTRIA 2 Demo ermöglicht es Spielern, Atmosphäre und Steuerung vor dem Kauf der Vollversion zu testen."
         },
         {
-          "title": "Extraktionsdisziplin",
-          "text": "Gruppiere dich frühzeitig neu und engagiere dich für den Tornado, bevor Panik ausbricht."
+          "name": "INDUSTRIA 2 GOG-Eintrag",
+          "description": "GOG bietet eine zusätzliche Store-Option, über die Spieler Produktdetails und Verfügbarkeit verfolgen können."
+        },
+        {
+          "name": "INDUSTRIA 2 Epic-Eintrag",
+          "description": "Der Epic Games Store enthält einen INDUSTRIA 2-Eintrag für Nutzer, die die Verfügbarkeit über mehrere Stores beobachten."
+        }
+      ],
+      "milestones": [
+        "Aktuellen Preis von INDUSTRIA 2 prüfen",
+        "Demo-Seite von INDUSTRIA 2 öffnen",
+        "Store-Hinweise zu INDUSTRIA 2 vergleichen"
+      ]
+    },
+    "lucidBlocksToolsAndWeapons": {
+      "title": "Gameplay-Überblick zu INDUSTRIA 2",
+      "displayType": "Elementkarten",
+      "intro": "INDUSTRIA 2 ist ein narrativer Singleplayer-FPS mit Fokus auf Erkundung, Spannung, Interaktionssysteme und kompakten Fortschritt.",
+      "items": [
+        {
+          "name": "INDUSTRIA 2 Fokus auf narrativen FPS",
+          "type": "Kernidentität",
+          "description": "INDUSTRIA 2 begleitet Nora durch eine feindliche, maschinenbeherrschte Welt, in der erzählerische Dynamik und Atmosphäre jede Kampfszene prägen."
+        },
+        {
+          "name": "INDUSTRIA 2 langsames Erkundungstempo",
+          "type": "Tempo",
+          "description": "Das Spiel legt den Schwerpunkt auf vorsichtige Bewegung, Interaktion mit der Umgebung und ein bewusstes Voranschreiten Raum für Raum."
+        },
+        {
+          "name": "INDUSTRIA 2 Survival-Horror-Ton",
+          "type": "Atmosphäre",
+          "description": "Industrieller Verfall, Body-Horror-Maschinen und aggressive Begegnungen bestimmen die Spannungsentwicklung von INDUSTRIA 2."
+        },
+        {
+          "name": "INDUSTRIA 2 aufrüstbares Kampfsystem",
+          "type": "Kampfschleife",
+          "description": "Waffen können mit praktischen Upgrades angepasst werden, um die Konstanz in Kämpfen mit mittlerem und hohem Druck zu verbessern."
+        },
+        {
+          "name": "INDUSTRIA 2 kompakte Kampagne",
+          "type": "Kampagnenlänge",
+          "description": "INDUSTRIA 2 ist als fokussierte, storygetriebene Kampagne und nicht als langwieriges Open-World-Grindspiel konzipiert."
+        },
+        {
+          "name": "INDUSTRIA 2 Präsentation mit Unreal Engine 5",
+          "type": "Technischer Stack",
+          "description": "Lumen-Beleuchtung, vollständige Sprachausgabe und kinoreifer Sound helfen INDUSTRIA 2 dabei, eine kontrastreiche Sci-Fi-Atmosphäre zu vermitteln."
         }
       ]
     },
-    "homeUpgrades": {
-      "title": "Lucid Blocks Haus-Upgrades",
-      "subtitle": "Craften, bauen, verbessern",
-      "branches": [
+    "lucidBlocksStorageAndInventory": {
+      "title": "Systemanforderungen und PC-Spezifikationen für INDUSTRIA 2",
+      "displayType": "Lösungskarten",
+      "intro": "Nutze dieses Modul, um zu prüfen, ob deine Hardware die Anforderungen von INDUSTRIA 2 erfüllt, bevor du das Spiel herunterlädst oder startest.",
+      "solutions": [
         {
-          "branch": "Lagerung",
-          "summary": "Mehr tragen und mehr zurückbringen",
-          "items": [
-            "Rucksack (Inventarerweiterung)"
-          ]
+          "name": "Betriebssystem",
+          "role": "Mindest- und Empfohlen",
+          "description": "Windows 10 oder Windows 11 64-Bit ist sowohl für die Mindest- als auch für die empfohlenen Anforderungen erforderlich."
         },
         {
-          "branch": "Dienstprogramm",
-          "summary": "Effektiver mit dem Haus interagieren",
-          "items": [
-            "Gnom-Handschuhe (ermöglichen es dir, Türen zu öffnen und mehr)"
-          ]
+          "name": "Prozessor",
+          "role": "CPU-Ziel",
+          "description": "Zu den Mindestanforderungen gehören Hardware der Klasse Intel i5-8600 oder Ryzen 5 3600, während die empfohlenen Anforderungen auf eine stabilere Leistung abzielen."
         },
         {
-          "branch": "Mobilität",
-          "summary": "Sicherer durch vertikale Räume bewegen",
-          "items": [
-            "Springschuhe (reduzieren Fallschaden)"
-          ]
+          "name": "Arbeitsspeicher",
+          "role": "RAM-Ziel",
+          "description": "8 GB RAM sind die Mindestbasis, und 16 GB RAM werden für eine höhere Stabilität in aufwendigen Szenen empfohlen."
         },
         {
-          "branch": "Verteidigung",
-          "summary": "Mit kleinen Bedrohungen umgehen, wenn nötig",
-          "items": [
-            "Waffen (für Bedrohungen wie Mäuse)"
-          ]
-        },
-        {
-          "branch": "Heimatbasis",
-          "summary": "Stelle Möbel her und verbessere dein schwebendes Inselhaus",
-          "items": [
-            "Funktionale Möbel-Upgrades"
-          ]
+          "name": "Grafik und API",
+          "role": "GPU und DirectX",
+          "description": "Die Klasse RTX 2060 Super ist die Mindestreferenz, die Klasse RTX 3080 die empfohlene Referenz, mit Unterstützung für DX11 und DX12."
         }
       ],
-      "priority": [
+      "managementTips": [
+        "Reserviere mindestens 20 GB freien Speicher für die Installation und Updates von INDUSTRIA 2.",
+        "Verwende eine SSD für besseres Ladeverhalten und flüssigere Kapitelübergänge.",
+        "Wenn die Leistung instabil ist, reduziere zuerst die Effekte, bevor du die Renderauflösung stark senkst.",
+        "Stimme GPU-Treiberupdates mit größeren INDUSTRIA 2-Patches ab, wenn du Framedrops behebst."
+      ]
+    },
+    "lucidBlocksQualiaAndBaseBuilding": {
+      "title": "INDUSTRIA 2 Trailer und Gameplay-Videos",
+      "displayType": "Karten",
+      "intro": "Dieses Modul hilft Spielern, den Ton von INDUSTRIA 2 mit wichtigen offiziellen Videos schnell zu verstehen, darunter Trailer zum Launch, zum Erscheinungsdatum, zur Story und zum Gameplay.",
+      "cards": [
         {
-          "rank": 1,
-          "title": "Zuerst Lagerung",
-          "reason": "Mehr Tragfähigkeit verbessert die Auszahlung jedes Laufs"
+          "name": "INDUSTRIA 2 Launch-Trailer",
+          "description": "Der Launch-Trailer präsentiert INDUSTRIA 2 als veröffentlichten narrativen Ego-Shooter und zeigt Erkundung, Schusswechsel, von KI erzeugten Horrordruck und Noras Drang, nach Hause zurückzukehren."
         },
         {
-          "rank": 2,
-          "title": "Als nächstes Dienstprogramm",
-          "reason": "Bessere Interaktionen reduzieren die Zeit, die in Gefahrenzonen verbracht wird"
+          "name": "INDUSTRIA 2 Teaser zum Erscheinungsdatum",
+          "description": "Der Teaser vermittelt einen kompakten Stimmungscheck vor dem Launch, geprägt von düsteren Sci-Fi-Räumen, einsamer Fortbewegung und der von Maschinen geschaffenen Atmosphäre des Sequels."
         },
         {
-          "rank": 3,
-          "title": "Mobilität zum Überleben",
-          "reason": "Fallschutz verhindert vermeidbare Todesfälle bei der Flucht"
+          "name": "INDUSTRIA 2 Story-Trailer",
+          "description": "Der Story-Trailer konzentriert sich auf Nora, ihre Verbindung zu ATLAS und die persönlichen Konflikte, die die Kampagne von INDUSTRIA 2 vorantreiben."
+        },
+        {
+          "name": "INDUSTRIA 2 Offizieller Gameplay-Trailer",
+          "description": "Das Gameplay-Material hebt den Erkundungsfluss, die Taktung der Begegnungen, das Survival-Horror-Tempo, den Ressourcenruck und physikbasierte Interaktionssysteme hervor."
+        }
+      ],
+      "highlights": [
+        "Nutze das Launch-Material von INDUSTRIA 2 für einen abschließenden Überblick zur Veröffentlichung",
+        "Nutze das Teaser-Material von INDUSTRIA 2 für Setzung und Stimmungschecks",
+        "Nutze das Story-Material von INDUSTRIA 2 für Kontext zu Nora und ATLAS",
+        "Nutze das Gameplay-Material von INDUSTRIA 2 für das Kampf- und Erkundungstempo"
+      ]
+    },
+    "lucidBlocksWorldRegions": {
+      "title": "INDUSTRIA 2 Einsteigerleitfaden",
+      "displayType": "Regionskarten",
+      "intro": "Starte INDUSTRIA 2 mit Erwartungen, die auf die Geschichte ausgerichtet sind, und baue dann eine bewusste Route rund um Erkundung, Ressourcen-Disziplin und kontrollierten Kampf auf.",
+      "regions": [
+        {
+          "name": "Grundlegendes Genre-Setup von INDUSTRIA 2",
+          "type": "Schritt 1",
+          "description": "INDUSTRIA 2 ist ein narrativer Einzelspieler-Ego-Shooter mit Survival-Horror- und Immersive-Sim-Elementen, also behandle jeden neuen Bereich sowohl als Story- als auch als Ressourcenraum."
+        },
+        {
+          "name": "Systemprüfung der INDUSTRIA 2-Demo",
+          "type": "Schritt 2",
+          "description": "Nutze die Demo, um Tempo, Kampfrhythmus, Atmosphäre und die diegetische Inventarhandhabung zu prüfen, bevor du dich auf einen vollständigen Durchlauf festlegst."
+        },
+        {
+          "name": "Routinemäßige Vollraum-Erkundung in INDUSTRIA 2",
+          "type": "Schritt 3",
+          "description": "Durchsuche Regale, Nebenräume, Ecken und interaktive Objekte, bevor du voranschreitest, denn Notizen, Sammelobjekte, Rezepte und Hilfsgegenstände belohnen gründliches Absuchen."
+        },
+        {
+          "name": "Munitions- und Begegnungsdisziplin in INDUSTRIA 2",
+          "type": "Schritt 4",
+          "description": "Spare Munition in Druckszenen und hebe stärkere Waffen für enge Räume, Gegner mit hohem Bedrohungspotenzial und unvermeidliche Druckspitzen auf."
+        },
+        {
+          "name": "Bewusstsein für physische Interaktionen in INDUSTRIA 2",
+          "type": "Schritt 5",
+          "description": "Wenn du feststeckst, prüfe zuerst physische Objekte und Umwelt-Hinweise, denn Interaktionsdesign und Fortschritts-Hinweise sind im Weltraum verankert."
+        },
+        {
+          "name": "Upgrade-Planung nach Spielstil in INDUSTRIA 2",
+          "type": "Schritt 6",
+          "description": "Priorisiere Upgrade-Pfade nach echten Nutzungsgewohnheiten, wobei Nachladegeschwindigkeit und Munitionskapazität frühe Durchläufe oft besser stabilisieren als reiner Schadensaufbau."
         }
       ]
     },
-    "community": {
-      "title": "Lucid Blocks Community & Discord",
-      "subtitle": "Finde Trupps, Updates, Diskussionen",
-      "links": [
+    "lucidBlocksCreaturesAndEnemies": {
+      "title": "INDUSTRIA 2 Waffen und Upgrades",
+      "displayType": "Kreaturenkarten",
+      "intro": "INDUSTRIA 2 verwendet eine kompakte Auswahl aus sechs Waffen, bei der jeder Slot eine klare Kampfrolle hat und die Prioritäten beim Upgrade zum Takt der Begegnungen und zum Ressourcendruck passen sollten.",
+      "creatures": [
         {
-          "title": "Offizieller Discord",
-          "subtitle": "Ankündigungen • Feedback • LFG",
-          "url": "https://discord.com/invite/lucidblocks"
+          "name": "INDUSTRIA 2 Axt",
+          "role": "Nahkampf-Notlösung",
+          "description": "Nutze die Axt für Bereinigungen auf kurze Distanz und für Situationen mit wenig Munition, in denen das Schonung von Feuerwaffenressourcen die sicherste Langstreckenwahl ist."
         },
         {
-          "title": "Offizielles X (Twitter)",
-          "subtitle": "Updates & Entwicklerbeiträge",
-          "url": "https://x.com/lucidblocks"
+          "name": "INDUSTRIA 2 Pistole",
+          "role": "Allgemeine Seitenwaffe",
+          "description": "Nutze die Pistole für effiziente Standardgefechte und erhöhe dann die Konstanz mit einem ausgewogenen Upgrade-Fokus auf Schaden, Nachladegeschwindigkeit, Kapazität und Feuerrate."
         },
         {
-          "title": "Steam Community Hub",
-          "subtitle": "Diskussionen • Screenshots • Leitfäden",
-          "url": "https://steamcommunity.com/app/3495730"
+          "name": "INDUSTRIA 2 Revolver",
+          "role": "Präzision mit hohem Einschlag",
+          "description": "Der Revolver ist am besten gegen einzelne Ziele mit hohem Gesundheitswert geeignet, bei denen Genauigkeit wichtiger ist als anhaltender Schaden; Schaden und Nachladegeschwindigkeit sind hier besonders wertvolle Upgrades."
         },
         {
-          "title": "Steam Store Seite",
-          "subtitle": "Wunschliste • Demo • Offizielle Beschreibung",
-          "url": "https://store.steampowered.com/app/3495730/Lucid_Blocks/"
+          "name": "INDUSTRIA 2 SMG",
+          "role": "Anhaltender Druck",
+          "description": "Nutze die SMG, wenn mehrere Gegner den Raum verdichten, und priorisiere Kapazität, Feuerrate, Nachladegeschwindigkeit und auf Kontrolle ausgerichtete Aufsätze."
+        },
+        {
+          "name": "INDUSTRIA 2 Gewehr",
+          "role": "Kontrolle auf mittlere Distanz",
+          "description": "Nutze das Gewehr, um Distanz zu schaffen und Bedrohungen zu beseitigen, bevor sie näher kommen, und stimme die Upgrades dann auf stabile Präzision und Kapazität für längere Räume ab."
+        },
+        {
+          "name": "INDUSTRIA 2 Schrotflinte",
+          "role": "Kurzer Schadensausbruch",
+          "description": "Spare die Schrotflinte für gefährliche Situationen auf kurze Distanz, Bossdruck und Panikräumungen auf; sie ist mächtig, sollte aber strikt budgetiert bleiben."
         }
       ]
     },
-    "modsBepInEx": {
-      "title": "Lucid Blocks Mods & BepInEx Setup",
-      "subtitle": "Installiere Mods auf saubere Weise",
-      "steps": [
+    "lucidBlocksMobilityGear": {
+      "title": "INDUSTRIA 2 Herstellung und Inventar",
+      "displayType": "itemCards",
+      "intro": "Herstellung und Inventar in INDUSTRIA 2 sind Teil der physischen Weltinteraktion, daher entsteht Überlebenskonsistenz aus Ressourcengebieten, diegetischem Management und einer auf Begegnungen abgestimmten Vorbereitung.",
+      "items": [
         {
-          "step": 1,
-          "title": "Installiere BepInEx 5",
-          "text": "Lade BepInEx 5 herunter und entpacke es in den Spiel-Root-Ordner."
+          "name": "INDUSTRIA 2 Disziplin bei der Ressourcensuche",
+          "type": "Schritt 1",
+          "description": "Behandle Erkundung und Plündern als den Kern-Loop, da Seitenwege und Umgebungsdetails oft Materialien, Notizen, Sammelobjekte und Rezeptfortschritt enthalten."
         },
         {
-          "step": 2,
-          "title": "Einmal starten, um Ordner zu generieren",
-          "text": "Starte das Spiel bis zum Hauptmenü und schließe es dann. Dadurch wird die BepInEx-Ordnerstruktur erstellt."
+          "name": "INDUSTRIA 2 Diegetische Inventargewohnheiten",
+          "type": "Schritt 2",
+          "description": "Nutze ruhige Zeitfenster, um Vorräte zu prüfen und Kampfausrüstung auszubalancieren, da das Inventarmanagement in der Spielwelt verankert ist und nicht von der Immersion getrennt wird."
         },
         {
-          "step": 3,
-          "title": "Mods installieren",
-          "text": "Platziere Mod-.dll-Dateien in den Plugins-Ordner."
+          "name": "INDUSTRIA 2 Verfolgung von Herstellungsrezepten",
+          "type": "Schritt 3",
+          "description": "Verfolge gefundene Rezepte als Fortschrittsressourcen, da die Rezeptabdeckung die Vorbereitung auf längere Wege und die Effizienz beim Abschließen direkt verbessert."
         },
         {
-          "step": 4,
-          "title": "Installation überprüfen",
-          "text": "Starte das Spiel neu und bestätige, dass die Mod-Funktion verfügbar ist (Kamera-Umschaltung, UI-Cursor usw.)."
+          "name": "INDUSTRIA 2 Strategie für Unterstützungsgegenstände",
+          "type": "Schritt 4",
+          "description": "Nutze Unterstützungsgegenstände proaktiv, um Munitionsverschwendung zu verhindern und schwierige Räume zu stabilisieren, statt jede Hilfsoption zu horten."
+        },
+        {
+          "name": "INDUSTRIA 2 Gefahrenbewusste Herstellung",
+          "type": "Schritt 5",
+          "description": "Stimme vor intensiven Abschnitten die verfügbaren Herstellungsoptionen auf den bevorstehenden Gegnerdruck, die Bossbereitschaft und die aktuellen Munitionsreserven ab."
+        },
+        {
+          "name": "INDUSTRIA 2 Routenplanung mit integrierten Sammelobjekten",
+          "type": "Schritt 6",
+          "description": "Integriere Notizen und Sammelobjekte in deine Überlebensroute, damit Weltverständnis und Vorbereitungsqualität im Verlauf der Kampagne gemeinsam wachsen."
         }
       ],
-      "paths": [
-        {
-          "label": "Typische Steam-Installation",
-          "path": "Steam\\steamapps\\common\\Lucid Blocks Demo\\"
-        },
-        {
-          "label": "Plugins-Ordner",
-          "path": "Steam\\steamapps\\common\\Lucid Blocks Demo\\BepInEx\\plugins\\"
-        }
-      ],
-      "multiplayerNote": "Für modifizierte Koop-Gameplay-Funktionen sollte jeder BepInEx und dieselben Gameplay-Mods installieren."
+      "unlockMilestones": [
+        "Kartiere früh die ressourcenstarken Räume von INDUSTRIA 2",
+        "Stabilisiere den diegetischen Inventarfluss in INDUSTRIA 2",
+        "Verfolge die Rezepte und Unterstützungsgegenstands-Mechaniken von INDUSTRIA 2",
+        "Bereite die Herstellung in INDUSTRIA 2 vor größeren Gefahrenzonen vor"
+      ]
     },
-    "popularMods": {
-      "title": "Lucid Blocks Beliebte Mods",
-      "subtitle": "Top-Community-Auswahlen",
-      "mods": [
+    "lucidBlocksFarmingAndGrowth": {
+      "title": "INDUSTRIA 2 Feinde und Bosse",
+      "displayType": "mixedCards",
+      "intro": "Verfolge in INDUSTRIA 2 die Anzahl der Gegner, die Anzahl der Bosse, den Robotik-Body-Horror-Stil und den praktischen Kampfansatz in einer spoilerarmen Struktur.",
+      "sections": [
         {
-          "title": "Spawn-Menü",
-          "tags": [
-            "Spaß",
-            "Werkzeuge",
-            "Nur Host"
-          ],
-          "description": "Fügt ein Element-Spawn-Menü mit einem Flugmodus hinzu.",
-          "controls": [
+          "name": "INDUSTRIA 2 Gesamtzahl der Gegnertypen: 9 Gegnertypen",
+          "description": "Die vollständige Übersicht zum Launch nennt insgesamt 9 Gegnertypen, und die Begegnungen sind auf langsameres FPS-Tempo, Erkundungsdruck und Ressourcenentscheidungen ausgelegt."
+        },
+        {
+          "name": "INDUSTRIA 2 Bossanzahl: 2 Bosse",
+          "description": "Die offiziellen Launch-Notizen geben an, dass die 9 Gegnertypen 2 Bosse umfassen, daher sollte die Bossführung praktisch bleiben und gleichzeitig die Story-Entdeckung bewahren."
+        },
+        {
+          "name": "INDUSTRIA 2 Kampfziele: Menschen und Roboter",
+          "description": "Die Actionsequenzen in INDUSTRIA 2 umfassen Kämpfe gegen Menschen und Roboter, wobei maschinengesteuerte Feindseligkeit die dominierende Kampfidentität darstellt."
+        },
+        {
+          "name": "INDUSTRIA 2 Ton von Roboter-Body-Horror",
+          "description": "Maschinenöl, Hinweise auf Zerstückelung und intensive Feuergefechte gehören zur Atmosphäre von INDUSTRIA 2, sodass die Gegnerdarstellung sowohl den Kampf- als auch den Horror-Druck unterstützt."
+        },
+        {
+          "name": "INDUSTRIA 2 Demo-Gegnervorschau: 3 Gegnertypen",
+          "description": "Die INDUSTRIA 2 Demo enthält 3 Gegnertypen und 2 Waffen und gibt den Spielern damit einen kompakten Vorgeschmack, bevor sie das vollständige 9-Gegnertypen-Aufgebot betreten."
+        },
+        {
+          "name": "INDUSTRIA 2 Empfohlene Kampfhaltung",
+          "description": "Spiele INDUSTRIA 2 mit langsamem Plündern, upgradebewusster Planung und kontrolliertem Raumverhalten statt mit einem schnellen Arena-Ansturm."
+        }
+      ],
+      "growthMilestones": [
+        "Verfolge die Anzahl der Feinde und Bosse in INDUSTRIA 2, bevor du tiefere Strategien planst",
+        "Nutze das Verhalten der Demo-Gegner von INDUSTRIA 2, um deine Erwartungen an das Tempo zu kalibrieren",
+        "Betrachte die Body-Horror-Gegner von INDUSTRIA 2 gleichzeitig als Atmosphäre und als Bedrohungsdesign",
+        "Baue die Kampfwege in INDUSTRIA 2 um Plündern und Upgrade-Timing herum auf"
+      ]
+    },
+    "lucidBlocksBestEarlyUnlocks": {
+      "title": "INDUSTRIA 2 Komplettlösung und Level",
+      "displayType": "priorityCards",
+      "intro": "Folge der Kampagnenstruktur von INDUSTRIA 2, dem frühen Cannery-Kontext, den Erwartungen an die Routenlänge und den Prioritäten des Fortschritts von Level zu Level.",
+      "priorities": [
+        {
+          "name": "INDUSTRIA 2 Nora Einstiegseinrichtung",
+          "priority": "Essential",
+          "description": "Beginne mit Noras Situation nach INDUSTRIA und erkläre Bewegung, Interaktion, Inventar, Herstellung und den frühen Survival-Horror-Rhythmus, bevor der Kampf intensiver wird."
+        },
+        {
+          "name": "INDUSTRIA 2 Cannery-Referenz für den frühen Spielverlauf",
+          "priority": "Very High",
+          "description": "Nutze die Cannery als spoilerarmen Einstiegspunkt, der Erkundungsdruck, Kampftaktung und die grundlegende Mysterien-Einführung vermittelt."
+        },
+        {
+          "name": "INDUSTRIA 2 Kampagnenstruktur mit 20 Leveln",
+          "priority": "Essential",
+          "description": "Verfolge alle 20 Level als Abschnitte für frühen Spielverlauf, mittleren Spielverlauf, späten Spielverlauf und Endrouten, bis die vollständige Abdeckung der benannten Level abgeschlossen ist."
+        },
+        {
+          "name": "INDUSTRIA 2 Routenplanung für 4-7 Stunden",
+          "priority": "Very High",
+          "description": "Unterstütze sowohl schnelle, auf Ziele fokussierte Durchläufe als auch langsamere Plünderrunden, da die Kampagnendauer von INDUSTRIA 2 häufig im Bereich von 4 bis 7 Stunden angegeben wird."
+        },
+        {
+          "name": "INDUSTRIA 2 Plünder- und Herstellungsroute",
+          "priority": "High",
+          "description": "Markiere, wo Spieler für Notizen, Sammelobjekte, Rezepte und Hilfsmittel pausieren sollten, da die Qualität des Fortschritts von der Vorbereitung und nicht nur von der Zielrichtung abhängt."
+        },
+        {
+          "name": "INDUSTRIA 2 Vorbereitung auf Entscheidungen im Endspiel",
+          "priority": "High",
+          "description": "Bereite spoilerarme Hinweise für endbezogene Entscheidungen wie Bleiben und Gehen vor, mit getrennten Detailebenen für Erstläufe und auf das Abschließen fokussierte Spieler."
+        }
+      ]
+    },
+    "lucidBlocksAchievementTracker": {
+      "title": "INDUSTRIA 2 Geschichte und Lore",
+      "displayType": "achievementGrid",
+      "intro": "Verstehe Nora, ATLAS, die Parallelwelt, Ost-Berlin 1989 und wie INDUSTRIA 2 das erste Spiel mit spoilerarmen Hintergrundinformationen erweitert.",
+      "groups": [
+        {
+          "name": "INDUSTRIA 2 Charakter-Säulen",
+          "achievements": [
             {
-              "key": "F",
-              "action": "Spawn-Menü öffnen"
+              "title": "INDUSTRIA 2 Nora",
+              "description": "Nora ist die zurückkehrende Protagonistin, die Jahre nach dem ersten Spiel noch immer in einer Parallelwelt gefangen ist und nach einem Weg zurück ins Ost-Berlin des Jahres 1989 sucht."
             },
             {
-              "key": "V",
-              "action": "Fliegen aktivieren"
+              "title": "INDUSTRIA 2 ATLAS",
+              "description": "ATLAS ist in INDUSTRIA 2 die zentrale KI-Bedrohung, dargestellt sowohl als direkte Gefahr als auch als Folge von Noras früherer Beteiligung."
             }
-          ],
-          "note": "Nur Host; andere müssen es nicht installieren, um beizutreten."
+          ]
         },
         {
-          "title": "ThirdPerson-Ansicht",
-          "tags": [
-            "Kamera",
-            "QoL"
-          ],
-          "description": "Fügt eine Third-Person-Kameraansicht hinzu.",
-          "controls": [
+          "name": "INDUSTRIA 2 Weltgrundlagen",
+          "achievements": [
             {
-              "key": "F7",
-              "action": "First-Person / Third-Person umschalten"
+              "title": "INDUSTRIA 2 Parallelwelt",
+              "description": "Die Kernkulisse verbindet von Maschinen errichtete Wände, boreale Räume und industriellen Verfall zu einer feindseligen Welt, in der Erkundung und Spannungsaufbau der Geschichte gemeinsam voranschreiten."
+            },
+            {
+              "title": "INDUSTRIA 2 Ost-Berlin-Zeitlinie",
+              "description": "Das Ost-Berlin des Jahres 1989 bleibt der historische Anker der Reihe und definiert Noras Ziel während ganz INDUSTRIA 2."
             }
           ]
         },
         {
-          "title": "Mehr Hüte",
-          "tags": [
-            "Kosmetisch"
-          ],
-          "description": "Fügt zusätzliche Hutfarboptionen für Gnome hinzu.",
-          "colors": [
-            "Blau",
-            "Grün",
-            "Orange",
-            "Lila",
-            "Schwarz",
-            "Rot"
-          ]
-        },
-        {
-          "title": "DOOM im Fernsehen",
-          "tags": [
-            "Spaß",
-            "Minispiel"
-          ],
-          "description": "Spiele das Original-DOOM auf einem In-Game-Fernseher, wobei der Ton über den TV-Lautsprecher kommt.",
-          "highlights": [
-            "Funktioniert im Mehrspieler, sodass andere Spieler auf demselben Fernseher zusehen können",
-            "Enthält die Shareware-DOOM-Episodendaten (Episode 1)"
+          "name": "INDUSTRIA 2 Kontext und Thema des Sequels",
+          "achievements": [
+            {
+              "title": "INDUSTRIA 2 Verbindungen zu INDUSTRIA",
+              "description": "INDUSTRIA 2 setzt das zweite Kapitel von Noras Reise fort, erweitert die Konfliktkeime aus dem ersten INDUSTRIA und vertieft die Kontinuität des Sequels."
+            },
+            {
+              "title": "INDUSTRIA 2 Thema Verantwortung und Rückkehr",
+              "description": "Das Story-Thema dreht sich um Erinnerung, Verantwortung, Überlebensdruck und Noras Entschlossenheit, trotz der Konsequenzen der Maschinenwelt nach Hause zurückzukehren."
+            }
           ]
         }
       ]
     },
-    "controllerSupport": {
-      "title": "Lucid Blocks Controller-Unterstützung",
-      "subtitle": "Volle Gamepad-Steuerung",
-      "native": {
-        "title": "In-Game-Einstellungen",
-        "description": "Verwende die Bindungs-/Einstellungsmenüs des Spiels, um die Steuerung anzupassen."
-      },
-      "mod": {
-        "title": "Controller-Support-Mod",
-        "description": "Fügt vollständige Gamepad-/Controller-Unterstützung und einen UI-Cursor für die Menünavigation hinzu."
-      },
-      "features": [
-        "Volle Gameplay-Steuerung: Bewegung, Kamera, Kampf, Interaktionen und Fähigkeiten, die dem Gamepad zugeordnet sind",
-        "UI-Cursor-Navigation: Ein weißer Kreiscursor erscheint in Menüs; drücke A, um zu klicken und Schieberegler zu ziehen",
-        "Inventarnavigation: Halte Select gedrückt, um das Inventar zu öffnen; verwende den rechten Stick, um zu navigieren, während du ihn hältst",
-        "Scrollbare Menüs: Der rechte Stick scrollt durch Crafting-Rezepte, Einstellungen und andere scrollbare UI-Bereiche",
-        "Hotbar-Cycling: D-Pad links/rechts wechselt durch 4 Hotbar-Slots",
-        "Nahtlose Eingabeumschaltung: Erkennt automatisch Tastatur/Maus vs. Controller"
+    "lucidBlocksSingleplayerAndPlatformFAQ": {
+      "title": "INDUSTRIA 2 Enden und Entscheidungen",
+      "displayType": "accordion",
+      "intro": "Verfolge die End-Erfolge von INDUSTRIA 2, wichtige Entscheidungsetiketten und spoilerarm geschichtete Abschlussnotizen in einer klaren FAQ-Struktur zu den Enden.",
+      "faqs": [
+        {
+          "question": "Wie viele Steam-Erfolge hat INDUSTRIA 2?",
+          "answer": "INDUSTRIA 2 hat 30 Steam-Erfolge, die Story-Fortschritt, Kampfaktionen, Sammelobjekt-Tracking und abschlussspezifische Ziele abdecken."
+        },
+        {
+          "question": "Welche Erfolge in INDUSTRIA 2 sind für die Endenplanung am wichtigsten?",
+          "answer": "Die Planung der Enden in INDUSTRIA 2 dreht sich um Stay und Leave; der Abschlusskontext wird außerdem durch Almost Home, Concentricity, Coup de Grâce, Nobody Blames You, Hoarder und Bookworm unterstützt."
+        },
+        {
+          "question": "Was sind die Erfolge Stay und Leave in INDUSTRIA 2?",
+          "answer": "INDUSTRIA 2 führt Stay und Leave als separate Erfolgsergebnisse auf, daher sollte der Endenbereich jeden Weg für eine bewusste Entscheidungsverfolgung getrennt halten."
+        },
+        {
+          "question": "Sollten Enden-Guides für INDUSTRIA 2 die finalen Entscheidungen sofort offenlegen?",
+          "answer": "Die Enden-Seiten von INDUSTRIA 2 funktionieren am besten mit zunächst spoilerarmen Zusammenfassungen und danach erweiterten Routen-Panels, damit Spieler selbst entscheiden, wann sie die Details der finalen Wahl sehen."
+        },
+        {
+          "question": "Was sollten Vollständigkeitsjäger vor dem Abschluss prüfen?",
+          "answer": "Bevor du dich in INDUSTRIA 2 auf einen Endenpfad festlegst, prüfe Hinweise, Sammelobjekte, Herstellungsrezepte, Werkzeuge und Erfolge mit niedriger Abschlussquote, um zusätzlichen Nachbearbeitungsaufwand durch erneute Durchläufe zu vermeiden."
+        },
+        {
+          "question": "Wie sieht die sicherste Struktur für eine INDUSTRIA 2-Enden-Seite aus?",
+          "answer": "Verwende ein dreistufiges INDUSTRIA 2-Format: spoilerfreie Übersicht, benannte Einträge für Stay und Leave als Akkordeon und anschließend Finaldeutungsnotizen in einem tieferen Reveal-Block."
+        }
       ]
     },
-    "playerCount": {
-      "title": "Lucid Blocks Spielerzahl & Trend",
-      "subtitle": "Live-Popularitäts-Schnappschuss",
-      "stats": {
-        "now": {
-          "value": "6.047",
-          "label": "Spieler gerade jetzt"
+    "lucidBlocksSteamDeckAndController": {
+      "title": "INDUSTRIA 2 Sammelobjekte, Notizen, Rezepte und Abschluss-Erfolge",
+      "displayType": "accordion",
+      "intro": "Verfolge die wichtigsten Abschlussziele in INDUSTRIA 2 mit einem klaren Weg für Notizen, Sammelobjekte, Herstellungsrezepte und die verknüpften Steam-Erfolge.",
+      "faqs": [
+        {
+          "question": "Wie viele Sammelobjekte insgesamt sollte ich in INDUSTRIA 2 verfolgen?",
+          "answer": "Nutze eine Abschluss-Basis von 51 Fundstücken: 28 Notizen, 13 Sammelobjekte und 10 Zielvorgaben für Herstellungsrezepte über die gesamte Kampagne."
         },
-        "peak24h": {
-          "value": "13.859",
-          "label": "24-Stunden-Peak"
+        {
+          "question": "Wie hängt der Fortschritt bei Notizen in INDUSTRIA 2 mit Erfolgen zusammen?",
+          "answer": "Der Notizen-Pfad ist an Bookworm gebunden. Für den Abschluss der Notizen in INDUSTRIA 2 solltest du lesbare Protokolle, Briefe und Umweltdokumente einsammeln, bevor das jeweilige Kapitelziel weiter voranschreitet."
         },
-        "allTimePeak": {
-          "value": "15.272",
-          "label": "Allzeit-Peak"
+        {
+          "question": "Wie hängt der Fortschritt bei Sammelobjekten in INDUSTRIA 2 mit Erfolgen zusammen?",
+          "answer": "Sammelobjekte sind an Hoarder gebunden. Konzentriere dich auf optionale Räume, Seitengänge, Regale, Werkstattbereiche und versteckte Ecken, bevor du jedes größere Level verlässt."
+        },
+        {
+          "question": "Wie passen Herstellungsrezepte in die Abschlussplanung von INDUSTRIA 2?",
+          "answer": "Der Fortschritt beim Herstellen wird durch Be Creative repräsentiert. Sammle Rezepte und Materialien früh, damit hergestellte Werkzeuge und Vorräte für schwierigere Begegnungsblöcke bereitstehen."
+        },
+        {
+          "question": "Welcher Stil ist für eine vollständige Sammelroute in INDUSTRIA 2 am sichersten?",
+          "answer": "Nutze ein Abarbeiten Kapitel für Kapitel: zuerst erkunden, Sammelobjekte vor dem Auslösen von Zielen einsammeln, herstellen sobald Materialien verfügbar sind, und nach Abschluss der Story eine schriftliche Checkliste abarbeiten."
+        },
+        {
+          "question": "Sollten Vollständigkeitsjäger ersten Durchlauf und Nachhol-Durchlauf trennen?",
+          "answer": "Ja. Halte deinen ersten Durchlauf auf stetigen Fortschritt mit breiter Abdeckung der Fundstücke ausgerichtet und gehe danach eine gezielte Nachholroute für alle verpassten Notizen, Sammelobjekte und Rezeptfortschritte durch."
         }
-      },
-      "milestones": [
+      ]
+    },
+    "lucidBlocksSettingsAndAccessibility": {
+      "title": "INDUSTRIA 2 Erfolgsleitfaden: Alle 30 Steam-Erfolge",
+      "displayType": "settingCards",
+      "intro": "Nutze diese INDUSTRIA 2-Erfolgsliste, um eine 100%-Route über Story-Meilensteine, Waffenfundstücke, Kampfaktionen, Sammelobjekte, Herstellung und Endenentscheidungen zu planen.",
+      "settings": [
         {
-          "date": "30. Jan. 2026",
-          "title": "Demo auf Steam veröffentlicht",
-          "detail": "Öffentliche Demo wurde auf PC (Steam) verfügbar."
+          "name": "INDUSTRIA 2 Story- und Fortschritts-Erfolge",
+          "type": "Story Milestones",
+          "description": "Verfolge Kapitel-Fortschrittserfolge vom frühen Spielaufbau bis zu Endspielsequenzen, einschließlich Routen-Checkpoints wie Stranded Together, Back Together und Almost Home."
         },
         {
-          "date": "8. Feb. 2026",
-          "title": "Allzeit-Peak erreicht",
-          "detail": "Die Demo erreichte ihre höchste aufgezeichnete Anzahl gleichzeitiger Spieler."
+          "name": "INDUSTRIA 2 Waffenentdeckungs-Erfolge",
+          "type": "Weapon Unlocks",
+          "description": "Plane Fundstücke für Axe, Shotgun, Rifle, SMG und Revolver und ordne jede Waffenfreischaltung dem Kapitel zu, in dem sie erstmals auftaucht."
+        },
+        {
+          "name": "INDUSTRIA 2 Kampf- und Werkzeug-Erfolge",
+          "type": "Execution Goals",
+          "description": "Plane spezifische Aktions-Erfolge wie Unforeseen Consequences, It's a Trap! und Wallhack so ein, dass sie im normalen Kampfablauf statt durch isoliertes Farmen abgeschlossen werden."
+        },
+        {
+          "name": "INDUSTRIA 2 Sammelobjekt- und Herstellungs-Erfolge",
+          "type": "Completion Tracking",
+          "description": "Kombiniere Bookworm, Hoarder und Be Creative mit einer Kapitel-Checkliste, damit Notiz-, Sammelobjekt- und Herstellungsfortschritt mit deiner Hauptroute abgestimmt bleibt."
+        },
+        {
+          "name": "INDUSTRIA 2 Endenwahl-Erfolge",
+          "type": "Endgame Branches",
+          "description": "Lege vor den finalen Entscheidungspunkten separate Spielstände an, damit Stay und Leave sauber abgeschlossen werden können, ohne die gesamte Kampagne erneut zu spielen."
+        },
+        {
+          "name": "INDUSTRIA 2 100-Prozent-Durchlaufreihenfolge",
+          "type": "Run Planning",
+          "description": "Nutze eine praktische Reihenfolge: Story- und Waffenfreischaltungen zuerst abschließen, Kampf- und Werkzeugaktionen mitten im Durchlauf stapeln und dann Sammelobjekte sowie Endenpfade in kontrollierten Nachholrunden beenden."
+        }
+      ]
+    },
+    "lucidBlocksUpdatesAndPatchNotes": {
+      "title": "INDUSTRIA 2 Steam Deck, DX11, DX12 und Grafikeinstellungen",
+      "displayType": "timeline",
+      "intro": "Sieh dir die aktuelle Situation von INDUSTRIA 2 auf dem Steam Deck, das Verhalten der DirectX-Modi, die PC-Basisziele und praktische Grafikeinstellungen für eine flüssigere Bildqualität und ein gleichmäßigeres Frame-Pacing an.",
+      "entries": [
+        {
+          "title": "INDUSTRIA 2 Steam Deck-Status zum Launch",
+          "type": "Deck Compatibility",
+          "description": "Steam Deck ist spielbar, aber noch nicht für ein sauberes Erlebnis beim ersten Start optimiert. Betrachte das Spielen auf dem Deck daher als experimentell, bis Optimierungspatches ausgereifter sind."
+        },
+        {
+          "title": "INDUSTRIA 2 Steam Deck Launch- und FPS-Verhalten",
+          "type": "Launch Stability",
+          "description": "Frühe Berichte zum Deck beschreiben Abstürze beim Start ohne Swap-Space-Workarounds sowie instabile niedrige FPS im Außenbereich, was Handheld-Presets für ein konsistentes Spielen riskant macht."
+        },
+        {
+          "title": "INDUSTRIA 2 DX11- vs. DX12-Entscheidungsweg",
+          "type": "Graphics API",
+          "description": "Nutze DX11 als sicherere Basis für die Fehlersuche auf absturzanfälligen oder leistungsschwächeren Systemen und wechsle dann zu DX12 auf stärkerer Hardware mit Blick auf höherwertige visuelle Funktionen."
+        },
+        {
+          "title": "INDUSTRIA 2 empfohlene PC-Basis",
+          "type": "Hardware Targets",
+          "description": "Verwende 16 GB RAM, eine GPU der Klasse RTX 3080, DirectX 12 und SSD-basierten Speicher als praktisches Qualitätsziel, während Mindestanforderungen als reine Launch-Schwellenwerte behandelt werden sollten."
+        },
+        {
+          "title": "INDUSTRIA 2 Schärfe- und Upscaling-Feinabstimmung",
+          "type": "Image Clarity",
+          "description": "Für klarere Bilder teste Schärfung auf 0 %, FXAA, deaktiviertes Image-Upscaling und eine Renderauflösung nahe 95 % und passe dann die Render-Skalierung an deine FPS-Untergrenze an."
+        },
+        {
+          "title": "INDUSTRIA 2 Bereinigung von Kameraverzerrungen",
+          "type": "Artifact Fix",
+          "description": "Wenn bei Kamerabewegungen Bewegungsstreifen oder visuelle Verzerrungen auftreten, stelle zuerst Camera Distortion auf 0 %, und passe danach Schatten und Effekte erneut an, sobald die Bildstabilität verbessert ist."
+        }
+      ]
+    },
+    "lucidBlocksCrashFixAndTroubleshooting": {
+      "title": "INDUSTRIA 2 Bewertungen, Bugs, Patch Notes und Spielerfeedback",
+      "displayType": "steps",
+      "intro": "Verfolge die Review-Signale zum Launch von INDUSTRIA 2, Bug-Kategorien und Update-Prioritäten, damit das Melden von Problemen und die Patch-Überprüfung konsistent und umsetzbar bleiben.",
+      "steps": [
+        {
+          "title": "Überblick über die aktuelle Steam-Nutzerstimmung zu INDUSTRIA 2",
+          "description": "Beginne mit der aktuellen Richtung der Steam-Bewertungen, um allgemeine Launch-Trends von isolierten systemabhängigen Beschwerden zu trennen, bevor du einen einzelnen Bericht einordnest."
+        },
+        {
+          "title": "Prüfe die Bug-Report-Threads der Entwickler von INDUSTRIA 2",
+          "description": "Nutze den offiziell angepinnten Meldethread als ersten Anlaufpunkt, um zu bestätigen, ob dein Problem bereits erfasst, bestätigt oder mit Workaround-Hinweisen verknüpft ist."
+        },
+        {
+          "title": "Validiere das Steuerungs- und Keybind-Verhalten von INDUSTRIA 2",
+          "description": "Teste Keybind-Neubelegungen, das Werfen von Flaschen und den Bewegungszustand nach dem Speichern erneut mit reproduzierbaren Schritten, damit Steuerungsfehler zuverlässig nachgestellt werden können."
+        },
+        {
+          "title": "Vergleiche die Stabilität von INDUSTRIA 2 in DX11 und DX12",
+          "description": "Wenn Abstürze auftreten, vergleiche beide DirectX-Pfade im selben Kapitelkontext und protokolliere, ob sich das Problem nur auf DX12 oder in beiden Modi reproduzieren lässt."
+        },
+        {
+          "title": "Prüfe Anzeige- und Grafikartefakte in INDUSTRIA 2",
+          "description": "Überprüfe Unschärfe, Dunkelheit, Bewegungsstreifen und das Speichern von Einstellungen nach einem erneuten Start, damit Grafikprobleme mit klaren Vorher-Nachher-Belegen erfasst werden."
+        },
+        {
+          "title": "Verfolge die vorrangigen Fixes für INDUSTRIA 2 auf dem Steam Deck",
+          "description": "Füge bei Meldungen vom Handheld das Startverhalten, Hinweise zum Frame-Pacing und aktuelle Optimierungslücken hinzu, damit das Deck-Feedback mit den aktiven Patch-Prioritäten übereinstimmt."
+        },
+        {
+          "title": "Pflege die Patch-Überwachungs-Checkliste für INDUSTRIA 2",
+          "description": "Führe eine fortlaufende Checkliste für Fixes bei Keybinds, DX12-Stabilität, Deck-Optimierung, Konsistenz beim Speichern der Anzeigeeinstellungen, Begleiterverhalten und Fehlerregressionen rund um das Inventar."
         }
       ]
     }
   },
   "faq": {
-    "title": "Häufig gestellte",
+    "title": "INDUSTRIA 2 Häufig gestellte",
     "titleHighlight": "Fragen",
-    "subtitle": "Alles, was du über Lucid Blocks wissen musst",
+    "subtitle": "Alles, was du vor und nach dem Start von INDUSTRIA 2 wissen musst",
     "questions": [
       {
-        "question": "Wie lade ich die Lucid Blocks Demo herunter?",
-        "answer": "Besuche die Steam Store Seite und klicke auf \"Demo herunterladen\". Die Demo ist kostenlos und erfordert 2,62 GiB zum Herunterladen, 4,88 GiB Festplattenspeicher."
+        "question": "Ist INDUSTRIA 2 ein Einzelspieler-Spiel?",
+        "answer": "Ja. INDUSTRIA 2 ist als fokussiertes narrative FPS-Erlebnis für einen einzelnen Spieler konzipiert."
       },
       {
-        "question": "Kann ich Lucid Blocks solo spielen oder brauche ich Freunde?",
-        "answer": "Lucid Blocks unterstützt sowohl Solo-Spiel als auch Koop mit bis zu 6 Spielern. Solo ist schwieriger, aber möglich."
+        "question": "Wo kann ich INDUSTRIA 2 kaufen?",
+        "answer": "INDUSTRIA 2 ist auf Steam erhältlich, mit zusätzlichen Store-Einträgen auch auf GOG und Epic."
       },
       {
-        "question": "Was sind High-Gnome-Aufgaben in Lucid Blocks?",
-        "answer": "High-Gnome ist dein Boss, der Ziele wie \"zerstöre den Fernseher\", \"überflute die Toilette\" oder \"stehle bestimmte Gegenstände\" vergibt. Erledige sie für zusätzliche Belohnungen."
+        "question": "Gibt es für INDUSTRIA 2 eine Demo?",
+        "answer": "Ja. INDUSTRIA 2 hat auf Steam einen separaten Demo-Eintrag zum Testen vor dem Kauf."
       },
       {
-        "question": "Wie installiere ich Mods für Lucid Blocks?",
-        "answer": "Installiere BepInEx 5, starte das Spiel einmal und platziere dann Mod-DLLs im Ordner BepInEx/plugins/. Alle Spieler benötigen die gleichen Mods für den Mehrspieler."
+        "question": "Wie lang ist INDUSTRIA 2?",
+        "answer": "Ein typischer Durchlauf der Story von INDUSTRIA 2 wird als kompakte Kampagne mit mehreren fokussierten Levels dargestellt."
       },
       {
-        "question": "Unterstützt Lucid Blocks Controller?",
-        "answer": "Ja! Verwende die In-Game-Einstellungen für grundlegende Controller-Unterstützung oder installiere den Controller Mod von Nexus Mods für vollständige UI-Navigation."
+        "question": "Wie kann ich die Leistung von INDUSTRIA 2 verbessern?",
+        "answer": "Beginne mit konservativen Grafikeinstellungen, vergleiche die DX-Modi und passe Effekte an, nachdem eine stabile Ausgangsbasis festgelegt wurde."
       },
       {
-        "question": "Wie hoch ist die Spielerzahl für Lucid Blocks?",
-        "answer": "Stand Februar 2026 verzeichnet Lucid Blocks durchschnittlich 6.000+ gleichzeitige Spieler, mit einem Peak von 15.272 am 8. Februar 2026."
+        "question": "Wie sollte ich mit INDUSTRIA 2 anfangen, wenn ich neu bin?",
+        "answer": "Nutze den Einsteigerleitfaden und die Walkthrough-Module von INDUSTRIA 2, um einen sicheren Erststart mit gleichmäßigem Fortschritt aufzubauen."
       }
     ]
   },
   "cta": {
-    "title": "Bereit, mit dem Raub zu beginnen?",
-    "description": "Tritt der Lucid Blocks Community auf Discord bei, um Koop-Gruppen, Updates und Mod-Diskussionen zu erhalten!",
-    "joinCommunity": "Discord beitreten",
-    "joinGame": "Demo auf Steam herunterladen"
+    "title": "Bereit für INDUSTRIA 2?",
+    "description": "Tritt dem offiziellen Discord von INDUSTRIA 2 bei und folge den Launch-Updates der Entwickler.",
+    "joinCommunity": "Offiziellen Discord beitreten",
+    "joinGame": "Auf Steam ansehen"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Dein komplettes Ressourcenzentrum für Lucid Blocks Stealth-Raubzüge, Koop-Strategien, Mods und Community-Leitfäden.",
+    "title": "INDUSTRIA 2 Wiki",
+    "description": "Dein vollständiger, von Fans erstellter Ressourcen-Hub für INDUSTRIA 2 mit Release-Updates, Walkthroughs, Story-Guides, Waffen, Bossen und Erfolgen.",
     "resources": "Ressourcen",
     "community": "Community",
     "legal": "Rechtliches",
-    "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
+    "discord": "Offizieller Discord",
+    "twitter": "Offizielles X",
+    "steamCommunity": "Steam-Community-Hub",
+    "steamStore": "Steam-Store-Seite",
     "about": "Über uns",
-    "privacy": "Datenschutzrichtlinie",
+    "privacy": "Datenschutzerklärung",
     "terms": "Nutzungsbedingungen",
     "copyrightNotice": "Urheberrecht",
-    "copyright": "© 2026 Lucid Blocks Wiki. Nicht mit den Entwicklern von Lucid Blocks verbunden.",
-    "disclaimer": "Inoffizielle von Fans erstellte Ressourcen-Website."
+    "copyright": "© 2026 INDUSTRIA 2 Wiki. Nicht verbunden mit Bleakmill, Headup oder Beep Japan.",
+    "disclaimer": "Inoffizielle, von Fans erstellte Ressourcenseite."
   },
   "pages": {
-    "guides": {
-      "title": "Lucid Blocks Leitfäden",
-      "description": "Vollständige Gameplay-Leitfäden von den Grundlagen für Anfänger bis hin zu fortgeschrittenen Apotheosis-Strategien. Meistern Sie Überleben und Handwerk.",
-      "metaTitle": "Lucid Blocks Leitfäden – Strategien für Anfänger bis Fortgeschrittene",
-      "metaDescription": "Vollständige Lucid Blocks Leitfäden mit Tipps für Anfänger, dem Apotheosis-System, Überlebensstrategien und Expertentaktiken zur Beherrschung der surrealen Sandbox.",
-      "categoryLabel": "SPIEL-LEITFÄDEN",
-      "whatIs": "Was sind Leitfäden?",
-      "whatIsDescription": "Umfassende Leitfäden zu Spielmechaniken, Überlebensstrategien und dem Apotheosis-Handwerkssystem. Lernen Sie alles von den ersten Schritten bis hin zu fortgeschrittenen Techniken.",
-      "why": "Warum Leitfäden lesen?",
+    "release": {
+      "title": "INDUSTRIA 2 Veröffentlichung",
+      "description": "Verfolge die Veröffentlichungsetappen von INDUSTRIA 2, den Startstatus, Preisfenster und die Verfügbarkeit in den Stores.",
+      "metaTitle": "INDUSTRIA 2 Veröffentlichung - Datum, Startstatus und Stores",
+      "metaDescription": "Folge den Updates zum Veröffentlichungszeitplan von INDUSTRIA 2, dem Startstatus und dem Store-Status auf Steam und anderen Plattformen.",
+      "categoryLabel": "VERÖFFENTLICHUNGSSTATUS",
+      "whatIs": "Was ist die Release-Berichterstattung?",
+      "whatIsDescription": "Die Release-Berichterstattung zu INDUSTRIA 2 verfolgt den Startzeitpunkt, den Verfügbarkeitsstatus und Updates zu den Kaufkanälen, damit du den aktuellen Veröffentlichungsstand schnell bestätigen kannst.",
+      "why": "Warum Release-Updates prüfen?",
       "whySteps": {
-        "step1Title": "Kernmechaniken lernen",
-        "step1Description": "Verstehen Sie das Apotheosis-System und vermeiden Sie häufige Anfängerfehler",
-        "step2Title": "Schneller Fortschritt",
-        "step2Description": "Folgen Sie bewährten Pfaden, um in der surrealen Welt zu überleben und erfolgreich zu sein",
-        "step3Title": "Strategien meistern",
-        "step3Description": "Entwickeln Sie fortgeschrittene Taktiken für Erkundung und Handwerk"
+        "step1Title": "Verfügbarkeit von INDUSTRIA 2 bestätigen",
+        "step1Description": "Prüfe, ob INDUSTRIA 2 live, verschoben oder frisch auf den großen Stores angekündigt ist.",
+        "step2Title": "Kaufzeitpunkt für INDUSTRIA 2 planen",
+        "step2Description": "Beobachte Preisfenster, Aktionen und die Verfügbarkeit der Demo, bevor du kaufst.",
+        "step3Title": "Änderungen beim Start von INDUSTRIA 2 verfolgen",
+        "step3Description": "Bewahre Datumsverschiebungen und Startnotizen an einem Ort auf, um eine saubere Referenz der Veröffentlichungshistorie zu haben."
       },
-      "featured": "Hervorgehoben & Essenziell",
-      "all": "Alle Leitfäden"
+      "featured": "Empfohlen & Wichtig",
+      "all": "Alle Release-Artikel"
     },
-    "crafting": {
-      "title": "Lucid Blocks Handwerk",
-      "description": "Meistern Sie das Apotheosis-Fusionssystem mit Essenz-Mechaniken, Rezepten und Handwerksstrategien für mächtige Gegenstände.",
-      "metaTitle": "Lucid Blocks Handwerk – Apotheosis-System & Rezepte",
-      "metaDescription": "Meistern Sie das Apotheosis-Handwerkssystem von Lucid Blocks. Lernen Sie Essenz-Mechaniken, Fusionsrezepte und Strategien zur Erstellung mächtiger Werkzeuge und Waffen.",
-      "categoryLabel": "HANDWERKSSYSTEM",
-      "whatIs": "Was ist Handwerk?",
-      "whatIsDescription": "Das Apotheosis-System ist eine einzigartige, essenzgesteuerte Fusionsmechanik, bei der Sie bis zu sechs Gegenstände kombinieren, um neue Rezepte zu entdecken. Keine festen Handwerksmenüs – Experimentieren ist der Schlüssel.",
-      "why": "Warum Handwerk meistern?",
+    "platforms": {
+      "title": "INDUSTRIA 2 Plattformen",
+      "description": "Vergleiche die Verfügbarkeit von INDUSTRIA 2 auf verschiedenen Plattformen, Unterschiede zwischen den Stores und Zugänge zur Demo.",
+      "metaTitle": "INDUSTRIA 2 Plattformen - Steam, Demo und Store-Optionen",
+      "metaDescription": "Sieh dir die Plattform-Einträge, Download-Pfade und Store-Unterschiede von INDUSTRIA 2 an, um den zuverlässigsten Startpfad zu finden.",
+      "categoryLabel": "PLATTFORMZUGANG",
+      "whatIs": "Was ist die Plattform-Berichterstattung?",
+      "whatIsDescription": "Die Plattform-Berichterstattung zu INDUSTRIA 2 erklärt, wo man spielen kann, wo man herunterladen kann und wie jeder Store Zugang, Preise und Kompatibilitätsdetails präsentiert.",
+      "why": "Warum Plattformdetails prüfen?",
       "whySteps": {
-        "step1Title": "Mächtige Gegenstände freischalten",
-        "step1Description": "Entdecken Sie essenzielle Werkzeuge, Waffen und Mobilitätsausrüstung durch Fusion",
-        "step2Title": "Essenzen verstehen",
-        "step2Description": "Lernen Sie, wie Gegenstandsessenzen kombiniert werden, um vorhersehbare Ergebnisse zu erzielen",
-        "step3Title": "Ressourcen optimieren",
-        "step3Description": "Nutzen Sie Verdünnungsmechaniken, um den Ertrag aus günstigen Materialien zu maximieren"
+        "step1Title": "INDUSTRIA 2 Store auswählen",
+        "step1Description": "Vergleiche die Qualität des Eintrags, den Kaufablauf und die Supportkanäle, bevor du einen Store auswählst.",
+        "step2Title": "Demo-Zugang für INDUSTRIA 2 bestätigen",
+        "step2Description": "Bestätige, ob eine spielbare Demo verfügbar ist und ob dein Setup für Tests bereit ist.",
+        "step3Title": "Einrichtungsprobleme bei INDUSTRIA 2 verringern",
+        "step3Description": "Nutze Plattformhinweise, um falsche Erwartungen bezüglich Installationspfad und Funktionsverfügbarkeit zu vermeiden."
       },
-      "featured": "Hervorgehoben & Essenziell",
-      "all": "Alle Handwerks-Leitfäden"
+      "featured": "Empfohlen & Wichtig",
+      "all": "Alle Plattform-Artikel"
     },
-    "items": {
-      "title": "Lucid Blocks Gegenstände",
-      "description": "Detaillierte Leitfäden zu Gegenständen, die Werkzeuge, Waffen, Mobilitätsausrüstung und Lagerlösungen mit Handwerksrezepten und Nutzungstipps abdecken.",
-      "metaTitle": "Lucid Blocks Gegenstände – Leitfaden für Werkzeuge, Waffen & Ausrüstung",
-      "metaDescription": "Vollständige Gegenstandsdatenbank für Lucid Blocks, einschließlich Werkzeugen, Waffen, Mobilitätsausrüstung und Lagerung. Lernen Sie, wie Sie jeden Gegenstand effektiv herstellen und einsetzen.",
-      "categoryLabel": "GEGENSTÄNDE & AUSRÜSTUNG",
-      "whatIs": "Was sind Gegenstände?",
-      "whatIsDescription": "Umfassende Leitfäden für Werkzeuge, Waffen, Mobilitätsausrüstung und funktionale Gegenstände. Lernen Sie Handwerksrezepte, Nutzungsstrategien und optimale Kombinationen kennen.",
-      "why": "Warum Gegenstands-Leitfäden lesen?",
+    "guide": {
+      "title": "INDUSTRIA 2 Guide",
+      "description": "Nutze den Guide-Hub für INDUSTRIA 2 für Einsteiger-Routen, Kapitelabläufe und praktische Fortschritte im Kampf.",
+      "metaTitle": "INDUSTRIA 2 Guide - Tipps für Einsteiger-Routing und Fortschritt",
+      "metaDescription": "Lies die Guide-Berichterstattung zu INDUSTRIA 2 für die Planung des ersten Durchlaufs, das Verständnis der Kernsysteme und einen effizienten Kapitel-Fortschritt.",
+      "categoryLabel": "SPIELGUIDE",
+      "whatIs": "Was ist die Guide-Kategorie?",
+      "whatIsDescription": "Die Guide-Inhalte zu INDUSTRIA 2 konzentrieren sich auf die Bereitschaft für den ersten Durchlauf, den Spielrhythmus, die Routenplanung und die Entscheidungspunkte, die während des Fortschritts der gesamten Kampagne wichtig sind.",
+      "why": "Warum zuerst den Guide lesen?",
       "whySteps": {
-        "step1Title": "Handwerksrezepte lernen",
-        "step1Description": "Entdecken Sie, wie Sie essenzielle Werkzeuge und Waffen mit Apotheosis herstellen",
-        "step2Title": "Ausrüstung optimieren",
-        "step2Description": "Wählen Sie die besten Gegenstände für Ihren Spielstil und Ihre Fortschrittsstufe",
-        "step3Title": "Überleben verbessern",
-        "step3Description": "Rüsten Sie Mobilitätsausrüstung und Waffen aus, um durch die gefährliche Welt zu navigieren"
+        "step1Title": "Den Kern-Loop von INDUSTRIA 2 lernen",
+        "step1Description": "Verstehe Erkundungstempo, Ressourcendisziplin und den Umgang mit Druck, bevor du riskante Kapitel angehst.",
+        "step2Title": "Die Routenqualität von INDUSTRIA 2 verbessern",
+        "step2Description": "Nutze strukturierte Kapitelhinweise, um Umwege, verpasste Gegenstände und wiederholte Begegnungen zu reduzieren.",
+        "step3Title": "INDUSTRIA 2 reibungsloser abschließen",
+        "step3Description": "Wende praktische Taktiken und Taktungsregeln an, damit deine Runs von Anfang bis zu den Endrouten stabil bleiben."
       },
-      "featured": "Hervorgehoben & Essenziell",
-      "all": "Alle Gegenstände"
+      "featured": "Empfohlen & Wichtig",
+      "all": "Alle Guide-Artikel"
     },
-    "biomes": {
-      "title": "Lucid Blocks Biome",
-      "description": "Erkunden Sie Weltregionen, Umweltmerkmale, Ressourcenstandorte und Überlebenstipps für jedes Biom.",
-      "metaTitle": "Lucid Blocks Biome – Weltregionen & Erkundung",
-      "metaDescription": "Erkunden Sie die Biome von Lucid Blocks, einschließlich Tiamana Leylines, Fog Meadow und surrealen Regionen. Finden Sie Ressourcen, vermeiden Sie Gefahren und navigieren Sie durch die unendliche Welt.",
-      "categoryLabel": "WELTREGIONEN",
-      "whatIs": "Was sind Biome?",
-      "whatIsDescription": "Leitfäden zu verschiedenen Weltregionen, Umweltmerkmalen, Ressourcenverteilung und Gefahrenzonen. Lernen Sie, was Sie erwartet und wie Sie sich auf jedes Gebiet vorbereiten.",
-      "why": "Warum Biome erkunden?",
+    "trailers": {
+      "title": "INDUSTRIA 2 Trailer",
+      "description": "Sehen Sie sich INDUSTRIA 2-Trailer mit Kontext zu Veröffentlichungsbotschaften, Story-Ton und Spieltempo an.",
+      "metaTitle": "INDUSTRIA 2 Trailer - Start, Story und Gameplay-Videos",
+      "metaDescription": "Durchsuchen Sie die offiziellen INDUSTRIA 2-Trailer mit kompaktem Kontext zu Start-Highlights, erzählerischem Aufbau und Kampfpräsentation.",
+      "categoryLabel": "OFFIZIELLE TRAILER",
+      "whatIs": "Was sind Trailer?",
+      "whatIsDescription": "Die Berichterstattung zu INDUSTRIA 2 Trailern ordnet offizielle Videos nach ihrem Zweck, damit Sie schnell zwischen Startübersicht, Story-Vorschauen und Gameplay-Demonstrationen unterscheiden können.",
+      "why": "Warum Trailer nach Kategorien prüfen?",
       "whySteps": {
-        "step1Title": "Ressourcen finden",
-        "step1Description": "Finden Sie seltene Materialien und Essenzen, die spezifisch für jede Region sind",
-        "step2Title": "Gefahren vermeiden",
-        "step2Description": "Verstehen Sie Umweltgefahren und feindselige Kreaturen",
-        "step3Title": "Erkundung planen",
-        "step3Description": "Bereiten Sie die richtigen Werkzeuge und Ausrüstung für jeden Biom-Typ vor"
+        "step1Title": "INDUSTRIA 2 Marketing-Signale entschlüsseln",
+        "step1Description": "Erkennen Sie, worauf jeder Trailer den Schwerpunkt legt – von Atmosphäre und Story bis hin zur Kampfgestaltung.",
+        "step2Title": "INDUSTRIA 2 Spielerwartungen festlegen",
+        "step2Description": "Nutzen Sie Gameplay-Material, um Tempo, Begegnungsdichte und den allgemeinen Kampagnenton einzuschätzen.",
+        "step3Title": "INDUSTRIA 2 Video-Zeitlinie nachverfolgen",
+        "step3Description": "Verfolgen Sie die Veröffentlichungsreihenfolge der Trailer, um zu verstehen, wie sich die Kommunikation zum Start im Laufe der Zeit entwickelt hat."
       },
-      "featured": "Hervorgehoben & Essenziell",
-      "all": "Alle Biome"
+      "featured": "Empfohlen & Wichtig",
+      "all": "Alle Trailer-Artikel"
     },
-    "building": {
-      "title": "Lucid Blocks Bauen",
-      "description": "Meistern Sie persönliche Qualia-Dimensionen, Basisbau, Lagerverwaltung und kreative Bautechniken.",
-      "metaTitle": "Lucid Blocks Bauen – Qualia & Basisbau",
-      "metaDescription": "Meistern Sie das Bauen in Lucid Blocks mit persönlichen Qualia-Dimensionen, Basisbau, Lagerlösungen und kreativen Bautechniken.",
-      "categoryLabel": "BAUEN & BASEN",
-      "whatIs": "Was ist Bauen?",
-      "whatIsDescription": "Leitfäden zum persönlichen Qualia-Dimensionssystem, Basisbau, Lagerverwaltung und kreativem Bauen. Lernen Sie, Ihren sicheren Hafen in der surrealen Welt zu erschaffen.",
-      "why": "Warum Basen bauen?",
+    "performance": {
+      "title": "INDUSTRIA 2 Leistung",
+      "description": "Optimieren Sie INDUSTRIA 2 mit Hardware-Zielen, Grafikoptimierung und Anleitungen für stabile Einstellungen.",
+      "metaTitle": "INDUSTRIA 2 Leistung - Anforderungen, Grafik und Stabilität",
+      "metaDescription": "Erhalten Sie Leistungsanleitungen für INDUSTRIA 2 zu Systemanforderungen, Steam Deck-Verhalten, DX-Moduswahl und praktischer Grafikoptimierung.",
+      "categoryLabel": "LEISTUNGSOPTIMIERUNG",
+      "whatIs": "Was umfasst die Leistungsberichterstattung?",
+      "whatIsDescription": "Die Leistungsberichterstattung zu INDUSTRIA 2 konzentriert sich auf Bildratenstabilität, Absturzvermeidung und hardwareangepasste Einstellungen, damit das Spielerlebnis auch in anspruchsvollen Szenen konsistent bleibt.",
+      "why": "Warum die Leistung früh optimieren?",
       "whySteps": {
-        "step1Title": "Sichere Räume schaffen",
-        "step1Description": "Errichten Sie sichere Basen für Lagerung und Handwerksarbeiten",
-        "step2Title": "Ressourcen verwalten",
-        "step2Description": "Organisieren Sie Materialien effizient mit Lagerlösungen",
-        "step3Title": "Qualia freischalten",
-        "step3Description": "Greifen Sie auf persönliche Taschendimensionen für ultimativen Komfort zu"
+        "step1Title": "INDUSTRIA 2 an Ihre Hardware anpassen",
+        "step1Description": "Nutzen Sie Basiswerte der Anforderungen und API-Hinweise, um mit stabilen, systemkompatiblen Einstellungen zu beginnen.",
+        "step2Title": "INDUSTRIA 2 Bildratenstabilität verbessern",
+        "step2Description": "Passen Sie wichtige Grafikoptionen kontrolliert an, um Ruckler und plötzliche Einbrüche zu reduzieren.",
+        "step3Title": "INDUSTRIA 2 effizient beheben",
+        "step3Description": "Wenden Sie wiederholbare Diagnosen für Abstürze, Grafikfehler und plattformspezifische Probleme an."
       },
-      "featured": "Hervorgehoben & Essenziell",
-      "all": "Alle Bau-Leitfäden"
+      "featured": "Empfohlen & Wichtig",
+      "all": "Alle Leistungsartikel"
     },
-    "support": {
-      "title": "Lucid Blocks Support",
-      "description": "Technischer Support, Plattformkompatibilität, Leistungsoptimierung und Fehlerbehebung bei häufigen Problemen.",
-      "metaTitle": "Lucid Blocks Support – Technische Hilfe & Fehlerbehebungen",
-      "metaDescription": "Erhalten Sie technischen Support für Lucid Blocks, einschließlich Steam Deck-Einrichtung, Crash-Fixes, Leistungsoptimierung und Leitfäden zur Plattformkompatibilität.",
-      "categoryLabel": "TECHNISCHER SUPPORT",
-      "whatIs": "Was ist Support?",
-      "whatIsDescription": "Technische Leitfäden zu Plattformkompatibilität, Leistungsoptimierung, Crash-Fixes und häufigen Problemen. Erhalten Sie Hilfe zu Steam Deck, Multiplayer-Fragen und Einstellungen.",
-      "why": "Warum Support prüfen?",
+    "reviews": {
+      "title": "INDUSTRIA 2 Bewertungen",
+      "description": "Lesen Sie Zusammenfassungen zu INDUSTRIA 2-Bewertungen, Themen aus dem Spielerfeedback und Prioritäten bei der Fehlerverfolgung.",
+      "metaTitle": "INDUSTRIA 2 Bewertungen - Spielerfeedback, Fehler und Patch-Verfolgung",
+      "metaDescription": "Beobachten Sie INDUSTRIA 2-Bewertungen, bekannte Probleme und Trends bei der Patch-Reaktion, um die aktuelle Stimmung der Spieler schnell zu verstehen.",
+      "categoryLabel": "BEWERTUNGEN & FEEDBACK",
+      "whatIs": "Was umfasst die Berichterstattung zu Bewertungen?",
+      "whatIsDescription": "Die Berichterstattung zu INDUSTRIA 2 Bewertungen fasst die Richtung der Rezensionen, häufige Beschwerdecluster und Meilensteine des Fehlerbehebungsfortschritts zusammen, um die Qualitätsverfolgung klarer zu machen.",
+      "why": "Warum Bewertungssignale beobachten?",
       "whySteps": {
-        "step1Title": "Technische Probleme beheben",
-        "step1Description": "Beheben Sie Abstürze, Leistungsprobleme und Kompatibilitätsprobleme",
-        "step2Title": "Leistung optimieren",
-        "step2Description": "Konfigurieren Sie Einstellungen für das beste Erlebnis auf Ihrer Plattform",
-        "step3Title": "Plattformkompatibilität",
-        "step3Description": "Erfahren Sie mehr über Steam Deck, Controller-Unterstützung und Systemanforderungen"
+        "step1Title": "INDUSTRIA 2-Stimmung schnell erfassen",
+        "step1Description": "Erkennen Sie wiederkehrendes Lob und Schmerzpunkte, ohne jeden einzelnen Thread zu durchsuchen.",
+        "step2Title": "Bekannte INDUSTRIA 2-Probleme priorisieren",
+        "step2Description": "Nutzen Sie gruppierte Fehlermuster, um die Fehlersuche zunächst auf die wirkungsvollsten Probleme zu konzentrieren.",
+        "step3Title": "INDUSTRIA 2 Patch-Auswirkungen verfolgen",
+        "step3Description": "Vergleichen Sie Feedback vor und nach dem Patch, um zu prüfen, ob die Korrekturen echte Spielerprobleme gelöst haben."
       },
-      "featured": "Hervorgehoben & Essenziell",
-      "all": "Alle Support-Artikel"
+      "featured": "Empfohlen & Wichtig",
+      "all": "Alle Bewertungsartikel"
+    },
+    "story": {
+      "title": "INDUSTRIA 2 Story",
+      "description": "Entdecken Sie den Story-Kontext von INDUSTRIA 2, Charakterentwicklungen, Lore-Struktur und Interpretationswege für das Ende.",
+      "metaTitle": "INDUSTRIA 2 Story - Lore, Charaktere und Endpfade",
+      "metaDescription": "Nutzen Sie Story-Guides zu INDUSTRIA 2, um Nora, ATLAS, den Kampagnenkontext und spoilerbewusste Endpfade zu verstehen.",
+      "categoryLabel": "STORY & LORE",
+      "whatIs": "Was umfasst die Story-Berichterstattung?",
+      "whatIsDescription": "Die Story-Berichterstattung zu INDUSTRIA 2 erklärt narrative Grundlagen, Hinweise zum Worldbuilding und Endzweige mit klarer Trennung zwischen spoilerarmen und ausführlichen Abschnitten.",
+      "why": "Warum Story-Guides nutzen?",
+      "whySteps": {
+        "step1Title": "Die narrativen Einsätze in INDUSTRIA 2 verstehen",
+        "step1Description": "Verfolgen Sie Charaktermotivationen und den Weltkontext, die wichtige Entscheidungsmomente prägen.",
+        "step2Title": "INDUSTRIA 2 Lore-Fäden verbinden",
+        "step2Description": "Ordnen Sie wiederkehrende Symbole, Orte und System-Lore ein, um die Story-Interpretation konsistent zu halten.",
+        "step3Title": "INDUSTRIA 2 Endpfade vorbereiten",
+        "step3Description": "Nutzen Sie eine spoilergestaffelte Struktur, um Endergebnisse zu vergleichen, ohne die Plot-Klarheit zu verlieren."
+      },
+      "featured": "Empfohlen & Wichtig",
+      "all": "Alle Story-Artikel"
     }
   }
 }

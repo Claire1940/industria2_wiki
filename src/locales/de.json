@@ -11,12 +11,13 @@
     }
   },
   "nav": {
-    "guides": "Anleitungen",
-    "crafting": "Herstellung",
-    "items": "Gegenstände",
-    "biomes": "Biome",
-    "building": "Bauen",
-    "support": "Unterstützung"
+    "release": "Release",
+    "platforms": "Platforms",
+    "guide": "Guide",
+    "trailers": "Trailers",
+    "performance": "Performance",
+    "reviews": "Reviews",
+    "story": "Story"
   },
   "common": {
     "home": "Startseite",

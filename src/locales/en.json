@@ -10,7 +10,15 @@
       "twitterDescription": "INDUSTRIA 2 Wiki covers release status, gameplay guides, achievements, and platform optimization for PC players."
     }
   },
-  "nav": {},
+  "nav": {
+    "release": "Release",
+    "platforms": "Platforms",
+    "guide": "Guide",
+    "trailers": "Trailers",
+    "performance": "Performance",
+    "reviews": "Reviews",
+    "story": "Story"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -763,125 +771,145 @@
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
-    "guides": {
-      "title": "INDUSTRIA 2 Guides",
-      "description": "Complete INDUSTRIA 2 gameplay guides from first steps to advanced combat and level routing.",
-      "metaTitle": "INDUSTRIA 2 Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Comprehensive INDUSTRIA 2 guides covering beginner tips, combat pacing, progression planning, and endgame cleanup routes.",
-      "categoryLabel": "GAME GUIDES",
-      "whatIs": "What are Guides?",
-      "whatIsDescription": "Guides for INDUSTRIA 2 campaign flow, resource handling, combat consistency, and chapter progression.",
-      "why": "Why read guides?",
+    "release": {
+      "title": "INDUSTRIA 2 Release",
+      "description": "Track INDUSTRIA 2 release milestones, launch status, pricing windows, and storefront availability.",
+      "metaTitle": "INDUSTRIA 2 Release - Date, Launch Status, and Storefronts",
+      "metaDescription": "Follow INDUSTRIA 2 release timeline updates, launch state, and storefront status across Steam and other platforms.",
+      "categoryLabel": "RELEASE STATUS",
+      "whatIs": "What is Release coverage?",
+      "whatIsDescription": "INDUSTRIA 2 Release coverage tracks launch timing, availability status, and purchase channel updates so you can confirm the current release state quickly.",
+      "why": "Why check release updates?",
       "whySteps": {
-        "step1Title": "Learn INDUSTRIA 2 Core Systems",
-        "step1Description": "Understand combat rhythm, route planning, and resource priorities early",
-        "step2Title": "Progress INDUSTRIA 2 Faster",
-        "step2Description": "Follow proven module paths for stable chapter advancement",
-        "step3Title": "Master INDUSTRIA 2 Strategy",
-        "step3Description": "Use advanced planning for bosses, collectibles, and achievements"
+        "step1Title": "Confirm INDUSTRIA 2 Availability",
+        "step1Description": "Check whether INDUSTRIA 2 is live, delayed, or newly announced on major storefronts.",
+        "step2Title": "Plan INDUSTRIA 2 Purchase Timing",
+        "step2Description": "Monitor pricing windows, promotions, and demo availability before buying.",
+        "step3Title": "Track INDUSTRIA 2 Launch Changes",
+        "step3Description": "Keep date-shift records and launch notes in one place for clean release history reference."
       },
       "featured": "Featured & Essential",
-      "all": "All Guides"
+      "all": "All Release Articles"
     },
-    "crafting": {
-      "title": "INDUSTRIA 2 Crafting",
-      "description": "Track INDUSTRIA 2 crafting routes, inventory priorities, and upgrade planning for reliable progression.",
-      "metaTitle": "INDUSTRIA 2 Crafting - Materials, Inventory, and Upgrades",
-      "metaDescription": "INDUSTRIA 2 crafting guides focused on material routes, inventory discipline, and practical upgrade timing.",
-      "categoryLabel": "CRAFTING SYSTEM",
-      "whatIs": "What is Crafting?",
-      "whatIsDescription": "INDUSTRIA 2 crafting guidance for sustained combat readiness and chapter-by-chapter inventory stability.",
-      "why": "Why master crafting?",
+    "platforms": {
+      "title": "INDUSTRIA 2 Platforms",
+      "description": "Compare INDUSTRIA 2 platform availability, storefront differences, and demo access routes.",
+      "metaTitle": "INDUSTRIA 2 Platforms - Steam, Demo, and Storefront Options",
+      "metaDescription": "Review INDUSTRIA 2 platform listings, download paths, and storefront differences for the most reliable start path.",
+      "categoryLabel": "PLATFORM ACCESS",
+      "whatIs": "What is Platforms coverage?",
+      "whatIsDescription": "INDUSTRIA 2 Platforms coverage explains where to play, where to download, and how each storefront presents access, pricing, and compatibility details.",
+      "why": "Why check platform details?",
       "whySteps": {
-        "step1Title": "Unlock INDUSTRIA 2 Upgrades",
-        "step1Description": "Identify practical upgrades that improve survival consistency",
-        "step2Title": "Manage INDUSTRIA 2 Materials",
-        "step2Description": "Keep core components available for recurring combat and utility needs",
-        "step3Title": "Optimize INDUSTRIA 2 Routes",
-        "step3Description": "Combine crafting and traversal planning to reduce wasted backtracking"
+        "step1Title": "Choose INDUSTRIA 2 Storefront",
+        "step1Description": "Compare listing quality, purchase flow, and support channels before selecting a store.",
+        "step2Title": "Validate INDUSTRIA 2 Demo Access",
+        "step2Description": "Confirm if a playable demo is available and whether your setup is ready for testing.",
+        "step3Title": "Reduce INDUSTRIA 2 Setup Friction",
+        "step3Description": "Use platform notes to avoid mismatched expectations around install path and feature availability."
       },
       "featured": "Featured & Essential",
-      "all": "All Crafting Guides"
+      "all": "All Platforms Articles"
     },
-    "items": {
-      "title": "INDUSTRIA 2 Weapons and Items",
-      "description": "Detailed INDUSTRIA 2 weapon and utility coverage with usage scenarios and upgrade priorities.",
-      "metaTitle": "INDUSTRIA 2 Items - Weapons, Utility, and Loadout Guide",
-      "metaDescription": "Complete INDUSTRIA 2 item coverage including weapons, utility tools, and practical loadout planning.",
-      "categoryLabel": "ITEMS & EQUIPMENT",
-      "whatIs": "What are Items?",
-      "whatIsDescription": "INDUSTRIA 2 item modules focused on weapon roles, encounter fit, and dependable combat preparation.",
-      "why": "Why check item guides?",
+    "guide": {
+      "title": "INDUSTRIA 2 Guide",
+      "description": "Use the INDUSTRIA 2 Guide hub for beginner routing, chapter flow, and practical combat progression.",
+      "metaTitle": "INDUSTRIA 2 Guide - Beginner Routing and Progression Tips",
+      "metaDescription": "Read INDUSTRIA 2 guide coverage for first-run planning, core systems understanding, and efficient chapter progression.",
+      "categoryLabel": "GAME GUIDE",
+      "whatIs": "What is the Guide category?",
+      "whatIsDescription": "INDUSTRIA 2 Guide content focuses on first-run readiness, gameplay rhythm, route planning, and decision points that matter during full-campaign progression.",
+      "why": "Why read the guide first?",
       "whySteps": {
-        "step1Title": "Understand INDUSTRIA 2 Weapon Roles",
-        "step1Description": "Choose the right tools for short-range pressure and ranged control",
-        "step2Title": "Improve INDUSTRIA 2 Loadouts",
-        "step2Description": "Balance ammo, utility, and fallback options by chapter risk",
-        "step3Title": "Stabilize INDUSTRIA 2 Combat",
-        "step3Description": "Use upgrade priorities that improve consistency in boss and wave fights"
+        "step1Title": "Learn INDUSTRIA 2 Core Loop",
+        "step1Description": "Understand exploration tempo, resource discipline, and pressure handling before high-risk chapters.",
+        "step2Title": "Improve INDUSTRIA 2 Route Quality",
+        "step2Description": "Use structured chapter guidance to reduce detours, missed pickups, and repeated encounters.",
+        "step3Title": "Finish INDUSTRIA 2 More Smoothly",
+        "step3Description": "Apply practical tactics and pacing rules that keep runs stable from opening to ending routes."
       },
       "featured": "Featured & Essential",
-      "all": "All Items"
+      "all": "All Guide Articles"
     },
-    "biomes": {
-      "title": "INDUSTRIA 2 Levels and Environments",
-      "description": "Explore INDUSTRIA 2 level flow, environmental pressure, and route planning by campaign segment.",
-      "metaTitle": "INDUSTRIA 2 Levels - Route Planning and Environment Guide",
-      "metaDescription": "INDUSTRIA 2 environment guides covering level progression, encounter pressure points, and exploration routes.",
-      "categoryLabel": "WORLD REGIONS",
-      "whatIs": "What are Biomes?",
-      "whatIsDescription": "Campaign environment coverage for INDUSTRIA 2, including progression flow and tactical room management.",
-      "why": "Why explore biomes?",
+    "trailers": {
+      "title": "INDUSTRIA 2 Trailers",
+      "description": "Watch INDUSTRIA 2 trailers with context for release messaging, story tone, and gameplay pacing.",
+      "metaTitle": "INDUSTRIA 2 Trailers - Launch, Story, and Gameplay Videos",
+      "metaDescription": "Browse INDUSTRIA 2 official trailers with concise context for launch highlights, narrative setup, and combat presentation.",
+      "categoryLabel": "OFFICIAL TRAILERS",
+      "whatIs": "What are Trailers?",
+      "whatIsDescription": "INDUSTRIA 2 Trailers coverage organizes official videos by purpose so you can quickly separate launch overview, narrative previews, and gameplay demonstrations.",
+      "why": "Why review trailers by category?",
       "whySteps": {
-        "step1Title": "Read INDUSTRIA 2 Level Layouts",
-        "step1Description": "Identify objective flow and high-risk rooms before committing resources",
-        "step2Title": "Avoid INDUSTRIA 2 Route Mistakes",
-        "step2Description": "Use cleaner progression lines to reduce unnecessary loopbacks",
-        "step3Title": "Plan INDUSTRIA 2 Chapter Pace",
-        "step3Description": "Control momentum across exploration, combat spikes, and boss setups"
+        "step1Title": "Decode INDUSTRIA 2 Marketing Signals",
+        "step1Description": "Identify what each trailer emphasizes, from atmosphere and story to combat direction.",
+        "step2Title": "Set INDUSTRIA 2 Play Expectations",
+        "step2Description": "Use gameplay footage to estimate pacing, encounter density, and overall campaign tone.",
+        "step3Title": "Track INDUSTRIA 2 Video Timeline",
+        "step3Description": "Follow trailer release order to understand how launch communication evolved over time."
       },
       "featured": "Featured & Essential",
-      "all": "All Biomes"
+      "all": "All Trailer Articles"
     },
-    "building": {
-      "title": "INDUSTRIA 2 Story and Walkthrough",
-      "description": "Follow INDUSTRIA 2 story structure and walkthrough priorities from first mission to ending branches.",
-      "metaTitle": "INDUSTRIA 2 Story - Lore and Walkthrough Structure",
-      "metaDescription": "INDUSTRIA 2 story and walkthrough hub covering Nora, ATLAS, campaign progression, and ending paths.",
-      "categoryLabel": "BUILDING & BASES",
-      "whatIs": "What is Building?",
-      "whatIsDescription": "Guides focused on INDUSTRIA 2 narrative context, campaign pacing, and chapter-by-chapter completion routes.",
-      "why": "Why build bases?",
+    "performance": {
+      "title": "INDUSTRIA 2 Performance",
+      "description": "Optimize INDUSTRIA 2 with hardware targets, graphics tuning, and stability-focused settings guidance.",
+      "metaTitle": "INDUSTRIA 2 Performance - Requirements, Graphics, and Stability",
+      "metaDescription": "Get INDUSTRIA 2 performance guidance for system requirements, Steam Deck behavior, DirectX mode choice, and practical graphics tuning.",
+      "categoryLabel": "PERFORMANCE TUNING",
+      "whatIs": "What is Performance coverage?",
+      "whatIsDescription": "INDUSTRIA 2 Performance coverage focuses on frame pacing, crash reduction, and hardware-aligned settings so gameplay remains consistent in demanding scenes.",
+      "why": "Why tune performance early?",
       "whySteps": {
-        "step1Title": "Track INDUSTRIA 2 Narrative Stakes",
-        "step1Description": "Understand how story context influences route and objective decisions",
-        "step2Title": "Complete INDUSTRIA 2 Chapters Cleanly",
-        "step2Description": "Use walkthrough checkpoints to maintain progress without confusion",
-        "step3Title": "Prepare INDUSTRIA 2 Endings",
-        "step3Description": "Plan decision points and save structure for ending comparison"
+        "step1Title": "Match INDUSTRIA 2 to Your Hardware",
+        "step1Description": "Use requirement baselines and API guidance to start from stable system-compatible settings.",
+        "step2Title": "Stabilize INDUSTRIA 2 Frame Pacing",
+        "step2Description": "Adjust key graphics options in a controlled order to reduce stutter and sudden drops.",
+        "step3Title": "Troubleshoot INDUSTRIA 2 Efficiently",
+        "step3Description": "Apply repeatable diagnostics for crashes, visual artifacts, and platform-specific issues."
       },
       "featured": "Featured & Essential",
-      "all": "All Building Guides"
+      "all": "All Performance Articles"
     },
-    "support": {
-      "title": "INDUSTRIA 2 Support",
-      "description": "Technical help for INDUSTRIA 2 performance, compatibility, bug triage, and update tracking.",
-      "metaTitle": "INDUSTRIA 2 Support - Performance, Bugs, and Fixes",
-      "metaDescription": "Get INDUSTRIA 2 technical support tips for Steam Deck behavior, PC settings, crash logging, and patch tracking.",
-      "categoryLabel": "TECHNICAL SUPPORT",
-      "whatIs": "What is Support?",
-      "whatIsDescription": "Support modules for INDUSTRIA 2 performance tuning, known issue triage, and practical troubleshooting workflow.",
-      "why": "Why check support?",
+    "reviews": {
+      "title": "INDUSTRIA 2 Reviews",
+      "description": "Read INDUSTRIA 2 review summaries, player feedback themes, and issue-tracking priorities.",
+      "metaTitle": "INDUSTRIA 2 Reviews - Player Feedback, Bugs, and Patch Tracking",
+      "metaDescription": "Monitor INDUSTRIA 2 reviews, known issues, and patch-response trends to understand current player sentiment quickly.",
+      "categoryLabel": "REVIEWS & FEEDBACK",
+      "whatIs": "What is Reviews coverage?",
+      "whatIsDescription": "INDUSTRIA 2 Reviews coverage aggregates review direction, common complaint clusters, and fix-progress checkpoints for clearer quality tracking.",
+      "why": "Why monitor review signals?",
       "whySteps": {
-        "step1Title": "Fix INDUSTRIA 2 Technical Issues",
-        "step1Description": "Diagnose crashes and instability with reproducible testing steps",
-        "step2Title": "Optimize INDUSTRIA 2 Performance",
-        "step2Description": "Tune settings by hardware limits instead of one-size presets",
-        "step3Title": "Track INDUSTRIA 2 Updates",
-        "step3Description": "Re-test after patches and keep issue reports current with verified outcomes"
+        "step1Title": "Read INDUSTRIA 2 Sentiment Fast",
+        "step1Description": "Identify recurring praise and pain points without scanning every individual thread.",
+        "step2Title": "Prioritize INDUSTRIA 2 Known Issues",
+        "step2Description": "Use grouped bug patterns to focus troubleshooting on the most impactful problems first.",
+        "step3Title": "Track INDUSTRIA 2 Patch Impact",
+        "step3Description": "Compare pre-patch and post-patch feedback to verify whether fixes solved real player issues."
       },
       "featured": "Featured & Essential",
-      "all": "All Support Articles"
+      "all": "All Reviews Articles"
+    },
+    "story": {
+      "title": "INDUSTRIA 2 Story",
+      "description": "Explore INDUSTRIA 2 story context, character arcs, lore structure, and ending interpretation routes.",
+      "metaTitle": "INDUSTRIA 2 Story - Lore, Characters, and Ending Paths",
+      "metaDescription": "Use INDUSTRIA 2 story guides to understand Nora, ATLAS, campaign context, and spoiler-managed ending routes.",
+      "categoryLabel": "STORY & LORE",
+      "whatIs": "What is Story coverage?",
+      "whatIsDescription": "INDUSTRIA 2 Story coverage explains narrative foundations, world-building signals, and ending branches with clear separation between spoiler-light and deep-dive sections.",
+      "why": "Why use story guides?",
+      "whySteps": {
+        "step1Title": "Understand INDUSTRIA 2 Narrative Stakes",
+        "step1Description": "Follow character motivations and world context that shape key decision moments.",
+        "step2Title": "Connect INDUSTRIA 2 Lore Threads",
+        "step2Description": "Map recurring symbols, locations, and system lore to keep story interpretation consistent.",
+        "step3Title": "Prepare INDUSTRIA 2 Ending Routes",
+        "step3Description": "Use spoiler-layered structure to compare ending outcomes without losing plot clarity."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Story Articles"
     }
   }
 }

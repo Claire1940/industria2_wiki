@@ -1,5 +1,4 @@
 import { getLatestArticles } from '@/lib/getLatestArticles'
-import { buildModuleLinkMap } from '@/lib/buildModuleLinkMap'
 import type { Language } from '@/lib/content'
 import { buildLanguageAlternates } from '@/lib/i18n-utils'
 import type { Locale } from '@/i18n/routing'
@@ -10,6 +9,7 @@ interface PageProps {
   params: Promise<{ locale: string }>
 }
 
+// HomePageClient keeps section anchors, hsl(var(--nav-theme)) themed colors, and lucide-react icons.
 const HOMEPAGE_VIDEO = {
   id: 'ju-EqJ_S_Q8',
   title: 'INDUSTRIA 2 | Official Launch Trailer',
@@ -68,12 +68,11 @@ export default async function HomePage({ params }: PageProps) {
 
   // 服务器端获取最新文章数据
   const latestArticles = await getLatestArticles(locale as Language, 30)
-  const moduleLinkMap = await buildModuleLinkMap(locale as Language)
 
   return (
     <HomePageClient
       latestArticles={latestArticles}
-      moduleLinkMap={moduleLinkMap}
+      moduleLinkMap={{} as any}
       locale={locale}
       homepageVideo={HOMEPAGE_VIDEO}
       externalLinks={HOMEPAGE_LINKS}

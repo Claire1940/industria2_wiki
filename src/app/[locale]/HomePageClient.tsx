@@ -73,11 +73,32 @@ interface HomePageClientProps {
   latestArticles: ContentItemWithType[]
   moduleLinkMap: ModuleLinkMap
   locale: string
+  homepageVideo: {
+    id: string
+    title: string
+  }
+  externalLinks: {
+    officialSite: string
+    developerSite: string
+    steamStore: string
+    steamCommunity: string
+    steamDiscussions: string
+    discord: string
+    x: string
+    youtube: string
+  }
 }
 
-export default function HomePageClient({ latestArticles, moduleLinkMap, locale }: HomePageClientProps) {
+export default function HomePageClient({
+  latestArticles,
+  moduleLinkMap,
+  locale,
+  homepageVideo,
+  externalLinks,
+}: HomePageClientProps) {
   const t = useMessages() as any
-  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.lucidblocks.wiki'
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.industria2.wiki'
+  const officialLinks = externalLinks
 
   // Structured data
   const structuredData = {
@@ -87,14 +108,14 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
         '@type': 'WebSite',
         '@id': `${siteUrl}/#website`,
         url: siteUrl,
-        name: "Lucid Blocks Wiki",
-        description: "Complete Lucid Blocks Wiki covering crafting, biomes, creatures, items, achievements, lore, and survival tips for the surreal voxel sandbox on Steam.",
+        name: "INDUSTRIA 2 Wiki",
+        description: "Complete INDUSTRIA 2 Wiki covering release date, trailer, story, walkthroughs, weapons, enemies, achievements, and support resources.",
         image: {
           '@type': 'ImageObject',
           url: `${siteUrl}/images/hero.webp`,
           width: 1920,
           height: 1080,
-          caption: "Lucid Blocks - Surreal Voxel Survival Sandbox",
+          caption: "INDUSTRIA 2 Official Launch Artwork",
         },
         potentialAction: {
           '@type': 'SearchAction',
@@ -105,10 +126,10 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
       {
         '@type': 'Organization',
         '@id': `${siteUrl}/#organization`,
-        name: "Lucid Blocks Wiki",
-        alternateName: "Lucid Blocks",
+        name: "INDUSTRIA 2 Wiki",
+        alternateName: "INDUSTRIA 2",
         url: siteUrl,
-        description: "Complete Lucid Blocks Wiki resource hub for crafting, biomes, creatures, items, achievements, and survival guides",
+        description: "Fan-made INDUSTRIA 2 resource hub for release information, guides, walkthroughs, and community links.",
         logo: {
           '@type': 'ImageObject',
           url: `${siteUrl}/android-chrome-512x512.png`,
@@ -120,21 +141,24 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
           url: `${siteUrl}/images/hero.webp`,
           width: 1920,
           height: 1080,
-          caption: "Lucid Blocks Wiki - Surreal Voxel Survival Sandbox",
+          caption: "INDUSTRIA 2 Official Launch Artwork",
         },
         sameAs: [
-          'https://store.steampowered.com/app/3495730/Lucid_Blocks/',
-          'https://discord.com/invite/lucidblocks',
-          'https://www.reddit.com/r/LucidBlocks/',
-          'https://www.youtube.com/@lucy_b_locks',
+          officialLinks.officialSite,
+          officialLinks.developerSite,
+          officialLinks.steamStore,
+          officialLinks.steamCommunity,
+          officialLinks.discord,
+          officialLinks.x,
+          officialLinks.youtube,
         ],
       },
       {
         '@type': 'VideoGame',
-        name: "Lucid Blocks",
+        name: "INDUSTRIA 2",
         gamePlatform: ['PC', 'Steam'],
         applicationCategory: 'Game',
-        genre: ['Survival', 'Sandbox', 'Adventure', 'Psychedelic'],
+        genre: ['Narrative FPS', 'Sci-Fi', 'Single-player', 'Horror'],
         numberOfPlayers: {
           minValue: 1,
           maxValue: 1,
@@ -143,7 +167,7 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
           '@type': 'Offer',
           priceCurrency: 'USD',
           availability: 'https://schema.org/InStock',
-          url: 'https://store.steampowered.com/app/3495730/Lucid_Blocks/',
+          url: officialLinks.steamStore,
         },
       },
     ],
@@ -236,7 +260,7 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
                 {t.hero.getFreeCodesCTA}
               </button>
               <a
-                href="https://store.steampowered.com/app/3495730/Lucid_Blocks/"
+                href={officialLinks.steamStore}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 px-8 py-4
@@ -264,8 +288,8 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
         <div className="scroll-reveal container mx-auto max-w-4xl">
           <div className="relative rounded-2xl overflow-hidden">
             <VideoFeature
-              videoId="7C7fybRM_No"
-              title="LUCID BLOCKS | AVAILABLE NOW"
+              videoId={homepageVideo.id}
+              title={homepageVideo.title}
               posterImage="/images/hero.webp"
             />
           </div>
@@ -832,11 +856,11 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
                 <h3 className="font-bold text-yellow-400 mb-2">Still having issues?</h3>
                 <p className="text-sm text-muted-foreground mb-3">Report bugs with your logs through the official channels:</p>
                 <div className="flex flex-wrap gap-3">
-                  <a href="https://discord.com/invite/lucidblocks" target="_blank" rel="noopener noreferrer"
+                  <a href={officialLinks.discord} target="_blank" rel="noopener noreferrer"
                     className="inline-flex items-center gap-2 px-4 py-2 rounded-lg bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-sm hover:bg-[hsl(var(--nav-theme)/0.2)] transition-colors">
                     <MessageCircle className="w-4 h-4" /> Discord <ExternalLink className="w-3 h-3" />
                   </a>
-                  <a href="https://store.steampowered.com/app/3495730/Lucid_Blocks/" target="_blank" rel="noopener noreferrer"
+                  <a href={officialLinks.steamDiscussions} target="_blank" rel="noopener noreferrer"
                     className="inline-flex items-center gap-2 px-4 py-2 rounded-lg bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-sm hover:bg-[hsl(var(--nav-theme)/0.2)] transition-colors">
                     Steam Community <ExternalLink className="w-3 h-3" />
                   </a>
@@ -888,7 +912,7 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
               <ul className="space-y-2 text-sm">
                 <li>
                   <a
-                    href="https://discord.com/invite/lucidblocks"
+                    href={officialLinks.discord}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-muted-foreground hover:text-[hsl(var(--nav-theme-light))] transition"
@@ -898,7 +922,7 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
                 </li>
                 <li>
                   <a
-                    href="https://x.com/lucidblocks"
+                    href={officialLinks.x}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-muted-foreground hover:text-[hsl(var(--nav-theme-light))] transition"
@@ -908,7 +932,7 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
                 </li>
                 <li>
                   <a
-                    href="https://steamcommunity.com/app/3495730"
+                    href={officialLinks.steamCommunity}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-muted-foreground hover:text-[hsl(var(--nav-theme-light))] transition"
@@ -918,7 +942,7 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
                 </li>
                 <li>
                   <a
-                    href="https://store.steampowered.com/app/3495730/Lucid_Blocks/"
+                    href={officialLinks.steamStore}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-muted-foreground hover:text-[hsl(var(--nav-theme-light))] transition"

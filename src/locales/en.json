@@ -122,23 +122,23 @@
       },
       {
         "icon": "Gamepad2",
-        "title": "INDUSTRIA 2 Collectibles",
-        "description": "Notes, collectables, crafting recipes, and tracking"
+        "title": "INDUSTRIA 2 Collectibles and Notes",
+        "description": "28 notes, 13 collectables, 10 crafting recipes, and completion route planning"
       },
       {
         "icon": "Settings",
-        "title": "INDUSTRIA 2 Achievements",
-        "description": "Steam achievement groups and completion roadmap"
+        "title": "INDUSTRIA 2 Achievements Guide",
+        "description": "All 30 Steam achievements across story, weapons, combat, collections, and endings"
       },
       {
         "icon": "Clock",
-        "title": "INDUSTRIA 2 Performance",
-        "description": "Steam Deck status, settings, and optimization notes"
+        "title": "INDUSTRIA 2 Steam Deck and Performance",
+        "description": "Steam Deck status, DX11 vs DX12 choices, and practical graphics optimization steps"
       },
       {
         "icon": "Check",
-        "title": "INDUSTRIA 2 Reviews and Bugs",
-        "description": "Player feedback trends, common issues, and fixes"
+        "title": "INDUSTRIA 2 Reviews, Bugs, and Patch Notes",
+        "description": "Launch review snapshot, known issue tracking, and priority patch-watch checklist"
       }
     ]
   },
@@ -568,105 +568,142 @@
       ]
     },
     "lucidBlocksSteamDeckAndController": {
-      "title": "INDUSTRIA 2 Collectibles and Notes",
+      "title": "INDUSTRIA 2 Collectibles, Notes, Recipes, and Completion Achievements",
       "displayType": "accordion",
-      "intro": "This module helps players track INDUSTRIA 2 notes, collectibles, and recipe-related pickups without missing key progression records.",
+      "intro": "Track the main completion targets in INDUSTRIA 2 with a clear route for notes, collectables, crafting recipes, and the linked Steam achievements.",
       "faqs": [
         {
-          "question": "How should I track INDUSTRIA 2 notes during a normal run?",
-          "answer": "Use chapter-based checklists and clear each major room cluster before advancing objectives."
+          "question": "How many total completion pickups should I track in INDUSTRIA 2?",
+          "answer": "Use a 51-pickup completion baseline: 28 notes, 13 collectables, and 10 crafting recipe targets across the full campaign."
         },
         {
-          "question": "How many INDUSTRIA 2 collectible categories should I monitor?",
-          "answer": "Track notes, major collectibles, and crafting-relevant pickups as separate progress groups."
+          "question": "How does INDUSTRIA 2 Notes progress connect to achievements?",
+          "answer": "The Notes route is tied to Bookworm. For INDUSTRIA 2 note completion, sweep readable logs, letters, and environmental documents before each chapter objective advances."
         },
         {
-          "question": "Can I collect all INDUSTRIA 2 notes in one playthrough?",
-          "answer": "A complete pass is possible with careful route discipline, but backup saves reduce miss risk significantly."
+          "question": "How does INDUSTRIA 2 Collectables progress connect to achievements?",
+          "answer": "Collectables are tied to Hoarder. Focus on optional rooms, side corridors, shelves, workshop zones, and tucked-away spaces before leaving each major level."
         },
         {
-          "question": "What is the safest INDUSTRIA 2 collectible route style?",
-          "answer": "Use slow room clearing and backtracking checkpoints rather than speed-running objective-only routes."
+          "question": "How do INDUSTRIA 2 crafting recipes fit completion planning?",
+          "answer": "Crafting progression is represented by Be Creative. Gather recipes and materials early so crafted tools and supplies are ready for harder encounter blocks."
         },
         {
-          "question": "When should I switch to an INDUSTRIA 2 cleanup run?",
-          "answer": "After story completion, run a focused cleanup pass with a written checklist for remaining notes and items."
+          "question": "What is the safest INDUSTRIA 2 full-collection route style?",
+          "answer": "Use a chapter-by-chapter sweep: explore first, clear collectibles before objective triggers, craft once materials are available, and run a written checklist after story completion."
+        },
+        {
+          "question": "Should INDUSTRIA 2 completionists split first run and cleanup run?",
+          "answer": "Yes. Keep your first run focused on steady progression with broad pickup coverage, then run a targeted cleanup route for any missed notes, collectables, and recipe progress."
         }
       ]
     },
     "lucidBlocksSettingsAndAccessibility": {
-      "title": "INDUSTRIA 2 Achievements Guide",
+      "title": "INDUSTRIA 2 Achievements Guide: All 30 Steam Achievements",
       "displayType": "settingCards",
-      "intro": "Use this INDUSTRIA 2 achievement module to organize completion work by category and reduce backtracking during full completion attempts.",
+      "intro": "Use this INDUSTRIA 2 achievement checklist to plan a 100% route across story milestones, weapon pickups, combat actions, collectibles, crafting, and ending choices.",
       "settings": [
         {
-          "name": "INDUSTRIA 2 Story Achievements",
-          "type": "Campaign Progress",
-          "description": "Complete core chapters while preserving resource stability for major encounter gates."
+          "name": "INDUSTRIA 2 Story and Progress Achievements",
+          "type": "Story Milestones",
+          "description": "Track chapter progress achievements from early-game setup through endgame sequences, including route checkpoints such as Stranded Together, Back Together, and Almost Home."
         },
         {
-          "name": "INDUSTRIA 2 Combat Achievements",
-          "type": "Encounter Execution",
-          "description": "Plan weapon and ammo usage around specific kill-condition goals instead of raw clear speed."
+          "name": "INDUSTRIA 2 Weapon Discovery Achievements",
+          "type": "Weapon Unlocks",
+          "description": "Plan pickups for Axe, Shotgun, Rifle, SMG, and Revolver achievements while matching each weapon unlock to the chapter where it first appears."
         },
         {
-          "name": "INDUSTRIA 2 Collection Achievements",
-          "type": "Tracking Discipline",
-          "description": "Pair note and collectible tracking with chapter checkpoints to avoid replaying large sections."
+          "name": "INDUSTRIA 2 Combat and Tool Achievements",
+          "type": "Execution Goals",
+          "description": "Schedule specific action achievements such as Unforeseen Consequences, It's a Trap!, and Wallhack so they are completed during normal combat flow instead of isolated farming."
         },
         {
-          "name": "INDUSTRIA 2 Cleanup Strategy",
-          "type": "Final Completion",
-          "description": "Use post-story targeted runs to finish missing achievements with low-risk route planning."
+          "name": "INDUSTRIA 2 Collectibles and Crafting Achievements",
+          "type": "Completion Tracking",
+          "description": "Combine Bookworm, Hoarder, and Be Creative with a chapter checklist so note, collectable, and crafting progress stays aligned with your main route."
+        },
+        {
+          "name": "INDUSTRIA 2 Ending Choice Achievements",
+          "type": "Endgame Branches",
+          "description": "Prepare separate saves before final choice points so Stay and Leave can be completed cleanly without replaying the entire campaign."
+        },
+        {
+          "name": "INDUSTRIA 2 100 Percent Route Order",
+          "type": "Run Planning",
+          "description": "Use a practical order: clear story and weapon unlocks first, stack combat and tool actions mid-run, then finish collectibles and ending branches in controlled cleanup passes."
         }
       ]
     },
     "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "INDUSTRIA 2 Steam Deck and Performance Settings",
+      "title": "INDUSTRIA 2 Steam Deck, DX11, DX12, and Graphics Settings",
       "displayType": "timeline",
-      "intro": "This INDUSTRIA 2 module summarizes practical settings and compatibility checks for Steam Deck and general PC performance tuning.",
+      "intro": "Check the current INDUSTRIA 2 Steam Deck situation, DirectX mode behavior, PC baseline targets, and practical graphics settings for smoother image quality and frame pacing.",
       "entries": [
         {
-          "title": "INDUSTRIA 2 Steam Deck Compatibility Snapshot",
-          "type": "Compatibility",
-          "description": "Steam Deck support can vary by update, so verify current user reports before long sessions."
+          "title": "INDUSTRIA 2 Steam Deck Status at Launch",
+          "type": "Deck Compatibility",
+          "description": "Steam Deck is playable but not yet optimized for a clean first-run experience, so treat Deck play as experimental until optimization patches mature."
         },
         {
-          "title": "INDUSTRIA 2 DX11 and DX12 Behavior",
+          "title": "INDUSTRIA 2 Steam Deck Launch and FPS Behavior",
+          "type": "Launch Stability",
+          "description": "Early Deck reports describe launch crashes without swap-space workarounds and unstable low-FPS outdoor performance, which makes handheld presets high-risk for consistent play."
+        },
+        {
+          "title": "INDUSTRIA 2 DX11 vs DX12 Decision Path",
           "type": "Graphics API",
-          "description": "If stutter appears, compare API behavior and keep the more stable profile for your hardware."
+          "description": "Use DX11 as the safer troubleshooting baseline for crash-prone or lower-end systems, then move to DX12 on stronger hardware targeting higher-end visual features."
         },
         {
-          "title": "INDUSTRIA 2 Performance Baseline Pass",
-          "type": "Optimization",
-          "description": "Set a stable baseline first, then tune shadows and post-processing for smoother frame pacing."
+          "title": "INDUSTRIA 2 Recommended PC Baseline",
+          "type": "Hardware Targets",
+          "description": "Use 16 GB RAM, RTX 3080-class GPU, DirectX 12, and SSD-backed storage as the practical quality target, while minimum specs should be treated as launch-only thresholds."
+        },
+        {
+          "title": "INDUSTRIA 2 Blur and Upscaling Tuning",
+          "type": "Image Clarity",
+          "description": "For cleaner visuals, test Sharpening at 0%, FXAA, Image Upscaling disabled, and Render Resolution near 95%, then tune render scale around your FPS floor."
+        },
+        {
+          "title": "INDUSTRIA 2 Camera Distortion Cleanup",
+          "type": "Artifact Fix",
+          "description": "If movement lines or visual distortion appear during camera motion, set Camera Distortion to 0% first, then retune shadows and effects after image stability improves."
         }
       ]
     },
     "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "INDUSTRIA 2 Reviews, Bugs, and Updates",
+      "title": "INDUSTRIA 2 Reviews, Bugs, Patch Notes, and Player Feedback",
       "displayType": "steps",
-      "intro": "This module tracks INDUSTRIA 2 user feedback patterns, common bug reports, and practical reporting flow for fast issue triage.",
+      "intro": "Track INDUSTRIA 2 launch-day review signals, bug categories, and update priorities so issue reporting and patch verification stay consistent and actionable.",
       "steps": [
         {
-          "title": "Read INDUSTRIA 2 Recent User Reviews",
-          "description": "Scan current review trends to separate consistent issues from isolated hardware-specific reports."
+          "title": "Review INDUSTRIA 2 Steam User Sentiment Snapshot",
+          "description": "Start with current Steam review direction to separate broad launch trends from isolated system-specific complaints before triaging any single report."
         },
         {
-          "title": "Check INDUSTRIA 2 Known Bug Threads",
-          "description": "Use active discussion hubs to verify whether your issue already has a workaround or patch note response."
+          "title": "Check INDUSTRIA 2 Developer Bug Report Threads",
+          "description": "Use the official pinned reporting thread as the first stop to confirm whether your issue is already tracked, acknowledged, or linked to workaround notes."
         },
         {
-          "title": "Reproduce INDUSTRIA 2 Issue Clearly",
-          "description": "Capture repeatable steps, location context, and settings state before submitting a bug report."
+          "title": "Validate INDUSTRIA 2 Control and Keybind Behavior",
+          "description": "Re-test keybind remaps, bottle-throw interactions, and post-save movement states with repeatable steps so control bugs can be reproduced reliably."
         },
         {
-          "title": "Submit INDUSTRIA 2 Logs and Specs",
-          "description": "Include hardware profile and crash logs to help maintainers identify root causes faster."
+          "title": "Compare INDUSTRIA 2 DX11 and DX12 Stability",
+          "description": "When crashes appear, compare both DirectX paths in the same chapter context and record whether the issue reproduces only on DX12 or across both modes."
         },
         {
-          "title": "Track INDUSTRIA 2 Follow-Up Updates",
-          "description": "Re-test after patch updates and update your report thread with validated post-patch behavior."
+          "title": "Audit INDUSTRIA 2 Display and Graphics Artifacts",
+          "description": "Check blur, darkness, movement-line artifacts, and settings persistence after relaunch so graphics complaints are logged with clear before-and-after evidence."
+        },
+        {
+          "title": "Track INDUSTRIA 2 Steam Deck Priority Fixes",
+          "description": "For handheld reporting, include launch behavior, frame-pacing notes, and current optimization gaps so Deck feedback stays aligned with active patch priorities."
+        },
+        {
+          "title": "Maintain INDUSTRIA 2 Patch-Watch Checklist",
+          "description": "Keep a rolling checklist for keybind fixes, DX12 stability, Deck optimization, display-save consistency, companion behavior, and inventory-related bug regressions."
         }
       ]
     }

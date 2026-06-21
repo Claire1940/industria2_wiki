@@ -1,0 +1,1010 @@
+{
+  "de": {
+    "guide": [
+      {
+        "slug": "Industria-2-before-you-buy",
+        "file": "Industria-2-before-you-buy"
+      },
+      {
+        "slug": "Industria-2-beginner-guide",
+        "file": "Industria-2-beginner-guide"
+      },
+      {
+        "slug": "Industria-2-chapter-1",
+        "file": "Industria-2-chapter-1"
+      },
+      {
+        "slug": "Industria-2-first-hour",
+        "file": "Industria-2-first-hour"
+      },
+      {
+        "slug": "Industria-2-how-to-play",
+        "file": "Industria-2-how-to-play"
+      },
+      {
+        "slug": "Industria-2-walkthrough",
+        "file": "Industria-2-walkthrough"
+      },
+      {
+        "slug": "industria-2-achievements",
+        "file": "industria-2-achievements"
+      },
+      {
+        "slug": "industria-2-chapters",
+        "file": "industria-2-chapters"
+      },
+      {
+        "slug": "industria-2-how-long-to-beat",
+        "file": "industria-2-how-long-to-beat"
+      },
+      {
+        "slug": "industria-2-puzzles",
+        "file": "industria-2-puzzles"
+      },
+      {
+        "slug": "industria-2-save-system",
+        "file": "industria-2-save-system"
+      },
+      {
+        "slug": "industria-2-secrets",
+        "file": "industria-2-secrets"
+      },
+      {
+        "slug": "industria-2-storage-code",
+        "file": "industria-2-storage-code"
+      }
+    ],
+    "performance": [
+      {
+        "slug": "Industria-2-game-engine",
+        "file": "Industria-2-game-engine"
+      },
+      {
+        "slug": "Industria-2-rtx-5090",
+        "file": "Industria-2-rtx-5090"
+      },
+      {
+        "slug": "Industria-2-system-requirements",
+        "file": "Industria-2-system-requirements"
+      },
+      {
+        "slug": "Industria-2-unreal-engine-5",
+        "file": "Industria-2-unreal-engine-5"
+      }
+    ],
+    "platforms": [
+      {
+        "slug": "Industria-2-co-op",
+        "file": "Industria-2-co-op"
+      },
+      {
+        "slug": "Industria-2-demo",
+        "file": "Industria-2-demo"
+      },
+      {
+        "slug": "Industria-2-download",
+        "file": "Industria-2-download"
+      },
+      {
+        "slug": "Industria-2-gog",
+        "file": "Industria-2-gog"
+      },
+      {
+        "slug": "Industria-2-platforms",
+        "file": "Industria-2-platforms"
+      },
+      {
+        "slug": "Industria-2-ps5",
+        "file": "Industria-2-ps5"
+      },
+      {
+        "slug": "Industria-2-steam",
+        "file": "Industria-2-steam"
+      },
+      {
+        "slug": "Industria-2-vr",
+        "file": "Industria-2-vr"
+      },
+      {
+        "slug": "Industria-2-xbox",
+        "file": "Industria-2-xbox"
+      }
+    ],
+    "release": [
+      {
+        "slug": "Industria-2-date",
+        "file": "Industria-2-date"
+      },
+      {
+        "slug": "Industria-2-delayed",
+        "file": "Industria-2-delayed"
+      },
+      {
+        "slug": "Industria-2-launch-date",
+        "file": "Industria-2-launch-date"
+      },
+      {
+        "slug": "Industria-2-ps5-release-date",
+        "file": "Industria-2-ps5-release-date"
+      },
+      {
+        "slug": "Industria-2-release-date",
+        "file": "Industria-2-release-date"
+      },
+      {
+        "slug": "Industria-2-release",
+        "file": "Industria-2-release"
+      },
+      {
+        "slug": "Industria-2-when-is-coming-out",
+        "file": "Industria-2-when-is-coming-out"
+      },
+      {
+        "slug": "Industria-2-xbox-release-date",
+        "file": "Industria-2-xbox-release-date"
+      },
+      {
+        "slug": "industria-2-patch-notes",
+        "file": "industria-2-patch-notes"
+      }
+    ],
+    "reviews": [
+      {
+        "slug": "Industria-2-demo-reddit",
+        "file": "Industria-2-demo-reddit"
+      },
+      {
+        "slug": "Industria-2-is-it-good",
+        "file": "Industria-2-is-it-good"
+      },
+      {
+        "slug": "Industria-2-metacritic",
+        "file": "Industria-2-metacritic"
+      },
+      {
+        "slug": "Industria-2-price",
+        "file": "Industria-2-price"
+      },
+      {
+        "slug": "Industria-2-reddit",
+        "file": "Industria-2-reddit"
+      },
+      {
+        "slug": "Industria-2-review",
+        "file": "Industria-2-review"
+      },
+      {
+        "slug": "Industria-2-steam-review",
+        "file": "Industria-2-steam-review"
+      }
+    ],
+    "story": [
+      {
+        "slug": "Industria-2-cast",
+        "file": "Industria-2-cast"
+      },
+      {
+        "slug": "Industria-2-developer",
+        "file": "Industria-2-developer"
+      },
+      {
+        "slug": "Industria-2-enemies",
+        "file": "Industria-2-enemies"
+      },
+      {
+        "slug": "Industria-2-story",
+        "file": "Industria-2-story"
+      },
+      {
+        "slug": "Industria-2-voice-actors",
+        "file": "Industria-2-voice-actors"
+      },
+      {
+        "slug": "Industria-2-weapons",
+        "file": "Industria-2-weapons"
+      },
+      {
+        "slug": "industria-2-all-endings",
+        "file": "industria-2-all-endings"
+      },
+      {
+        "slug": "industria-2-ending-explained",
+        "file": "industria-2-ending-explained"
+      },
+      {
+        "slug": "industria-2-lore",
+        "file": "industria-2-lore"
+      }
+    ],
+    "trailers": [
+      {
+        "slug": "Industria-2-gameplay-trailer",
+        "file": "Industria-2-gameplay-trailer"
+      },
+      {
+        "slug": "Industria-2-launch-trailer",
+        "file": "Industria-2-launch-trailer"
+      },
+      {
+        "slug": "Industria-2-official-trailer",
+        "file": "Industria-2-official-trailer"
+      },
+      {
+        "slug": "Industria-2-release-date-trailer",
+        "file": "Industria-2-release-date-trailer"
+      },
+      {
+        "slug": "Industria-2-story-trailer",
+        "file": "Industria-2-story-trailer"
+      },
+      {
+        "slug": "Industria-2-trailer-song",
+        "file": "Industria-2-trailer-song"
+      },
+      {
+        "slug": "Industria-2-trailer",
+        "file": "Industria-2-trailer"
+      },
+      {
+        "slug": "Industria-2-youtube",
+        "file": "Industria-2-youtube"
+      }
+    ]
+  },
+  "en": {
+    "guide": [
+      {
+        "slug": "Industria-2-before-you-buy",
+        "file": "Industria-2-before-you-buy"
+      },
+      {
+        "slug": "Industria-2-beginner-guide",
+        "file": "Industria-2-beginner-guide"
+      },
+      {
+        "slug": "Industria-2-chapter-1",
+        "file": "Industria-2-chapter-1"
+      },
+      {
+        "slug": "Industria-2-first-hour",
+        "file": "Industria-2-first-hour"
+      },
+      {
+        "slug": "Industria-2-how-to-play",
+        "file": "Industria-2-how-to-play"
+      },
+      {
+        "slug": "Industria-2-walkthrough",
+        "file": "Industria-2-walkthrough"
+      },
+      {
+        "slug": "industria-2-achievements",
+        "file": "industria-2-achievements"
+      },
+      {
+        "slug": "industria-2-chapters",
+        "file": "industria-2-chapters"
+      },
+      {
+        "slug": "industria-2-how-long-to-beat",
+        "file": "industria-2-how-long-to-beat"
+      },
+      {
+        "slug": "industria-2-puzzles",
+        "file": "industria-2-puzzles"
+      },
+      {
+        "slug": "industria-2-save-system",
+        "file": "industria-2-save-system"
+      },
+      {
+        "slug": "industria-2-secrets",
+        "file": "industria-2-secrets"
+      },
+      {
+        "slug": "industria-2-storage-code",
+        "file": "industria-2-storage-code"
+      }
+    ],
+    "performance": [
+      {
+        "slug": "Industria-2-game-engine",
+        "file": "Industria-2-game-engine"
+      },
+      {
+        "slug": "Industria-2-rtx-5090",
+        "file": "Industria-2-rtx-5090"
+      },
+      {
+        "slug": "Industria-2-system-requirements",
+        "file": "Industria-2-system-requirements"
+      },
+      {
+        "slug": "Industria-2-unreal-engine-5",
+        "file": "Industria-2-unreal-engine-5"
+      }
+    ],
+    "platforms": [
+      {
+        "slug": "Industria-2-co-op",
+        "file": "Industria-2-co-op"
+      },
+      {
+        "slug": "Industria-2-demo",
+        "file": "Industria-2-demo"
+      },
+      {
+        "slug": "Industria-2-download",
+        "file": "Industria-2-download"
+      },
+      {
+        "slug": "Industria-2-gog",
+        "file": "Industria-2-gog"
+      },
+      {
+        "slug": "Industria-2-platforms",
+        "file": "Industria-2-platforms"
+      },
+      {
+        "slug": "Industria-2-ps5",
+        "file": "Industria-2-ps5"
+      },
+      {
+        "slug": "Industria-2-steam",
+        "file": "Industria-2-steam"
+      },
+      {
+        "slug": "Industria-2-vr",
+        "file": "Industria-2-vr"
+      },
+      {
+        "slug": "Industria-2-xbox",
+        "file": "Industria-2-xbox"
+      }
+    ],
+    "release": [
+      {
+        "slug": "Industria-2-date",
+        "file": "Industria-2-date"
+      },
+      {
+        "slug": "Industria-2-delayed",
+        "file": "Industria-2-delayed"
+      },
+      {
+        "slug": "Industria-2-launch-date",
+        "file": "Industria-2-launch-date"
+      },
+      {
+        "slug": "Industria-2-ps5-release-date",
+        "file": "Industria-2-ps5-release-date"
+      },
+      {
+        "slug": "Industria-2-release-date",
+        "file": "Industria-2-release-date"
+      },
+      {
+        "slug": "Industria-2-release",
+        "file": "Industria-2-release"
+      },
+      {
+        "slug": "Industria-2-when-is-coming-out",
+        "file": "Industria-2-when-is-coming-out"
+      },
+      {
+        "slug": "Industria-2-xbox-release-date",
+        "file": "Industria-2-xbox-release-date"
+      },
+      {
+        "slug": "industria-2-patch-notes",
+        "file": "industria-2-patch-notes"
+      }
+    ],
+    "reviews": [
+      {
+        "slug": "Industria-2-demo-reddit",
+        "file": "Industria-2-demo-reddit"
+      },
+      {
+        "slug": "Industria-2-is-it-good",
+        "file": "Industria-2-is-it-good"
+      },
+      {
+        "slug": "Industria-2-metacritic",
+        "file": "Industria-2-metacritic"
+      },
+      {
+        "slug": "Industria-2-price",
+        "file": "Industria-2-price"
+      },
+      {
+        "slug": "Industria-2-reddit",
+        "file": "Industria-2-reddit"
+      },
+      {
+        "slug": "Industria-2-review",
+        "file": "Industria-2-review"
+      },
+      {
+        "slug": "Industria-2-steam-review",
+        "file": "Industria-2-steam-review"
+      }
+    ],
+    "story": [
+      {
+        "slug": "Industria-2-cast",
+        "file": "Industria-2-cast"
+      },
+      {
+        "slug": "Industria-2-developer",
+        "file": "Industria-2-developer"
+      },
+      {
+        "slug": "Industria-2-enemies",
+        "file": "Industria-2-enemies"
+      },
+      {
+        "slug": "Industria-2-story",
+        "file": "Industria-2-story"
+      },
+      {
+        "slug": "Industria-2-voice-actors",
+        "file": "Industria-2-voice-actors"
+      },
+      {
+        "slug": "Industria-2-weapons",
+        "file": "Industria-2-weapons"
+      },
+      {
+        "slug": "industria-2-all-endings",
+        "file": "industria-2-all-endings"
+      },
+      {
+        "slug": "industria-2-ending-explained",
+        "file": "industria-2-ending-explained"
+      },
+      {
+        "slug": "industria-2-lore",
+        "file": "industria-2-lore"
+      }
+    ],
+    "trailers": [
+      {
+        "slug": "Industria-2-gameplay-trailer",
+        "file": "Industria-2-gameplay-trailer"
+      },
+      {
+        "slug": "Industria-2-launch-trailer",
+        "file": "Industria-2-launch-trailer"
+      },
+      {
+        "slug": "Industria-2-official-trailer",
+        "file": "Industria-2-official-trailer"
+      },
+      {
+        "slug": "Industria-2-release-date-trailer",
+        "file": "Industria-2-release-date-trailer"
+      },
+      {
+        "slug": "Industria-2-story-trailer",
+        "file": "Industria-2-story-trailer"
+      },
+      {
+        "slug": "Industria-2-trailer-song",
+        "file": "Industria-2-trailer-song"
+      },
+      {
+        "slug": "Industria-2-trailer",
+        "file": "Industria-2-trailer"
+      },
+      {
+        "slug": "Industria-2-youtube",
+        "file": "Industria-2-youtube"
+      }
+    ]
+  },
+  "ja": {
+    "guide": [
+      {
+        "slug": "Industria-2-before-you-buy",
+        "file": "Industria-2-before-you-buy"
+      },
+      {
+        "slug": "Industria-2-beginner-guide",
+        "file": "Industria-2-beginner-guide"
+      },
+      {
+        "slug": "Industria-2-chapter-1",
+        "file": "Industria-2-chapter-1"
+      },
+      {
+        "slug": "Industria-2-first-hour",
+        "file": "Industria-2-first-hour"
+      },
+      {
+        "slug": "Industria-2-how-to-play",
+        "file": "Industria-2-how-to-play"
+      },
+      {
+        "slug": "Industria-2-walkthrough",
+        "file": "Industria-2-walkthrough"
+      },
+      {
+        "slug": "industria-2-achievements",
+        "file": "industria-2-achievements"
+      },
+      {
+        "slug": "industria-2-chapters",
+        "file": "industria-2-chapters"
+      },
+      {
+        "slug": "industria-2-how-long-to-beat",
+        "file": "industria-2-how-long-to-beat"
+      },
+      {
+        "slug": "industria-2-puzzles",
+        "file": "industria-2-puzzles"
+      },
+      {
+        "slug": "industria-2-save-system",
+        "file": "industria-2-save-system"
+      },
+      {
+        "slug": "industria-2-secrets",
+        "file": "industria-2-secrets"
+      },
+      {
+        "slug": "industria-2-storage-code",
+        "file": "industria-2-storage-code"
+      }
+    ],
+    "performance": [
+      {
+        "slug": "Industria-2-game-engine",
+        "file": "Industria-2-game-engine"
+      },
+      {
+        "slug": "Industria-2-rtx-5090",
+        "file": "Industria-2-rtx-5090"
+      },
+      {
+        "slug": "Industria-2-system-requirements",
+        "file": "Industria-2-system-requirements"
+      },
+      {
+        "slug": "Industria-2-unreal-engine-5",
+        "file": "Industria-2-unreal-engine-5"
+      }
+    ],
+    "platforms": [
+      {
+        "slug": "Industria-2-co-op",
+        "file": "Industria-2-co-op"
+      },
+      {
+        "slug": "Industria-2-demo",
+        "file": "Industria-2-demo"
+      },
+      {
+        "slug": "Industria-2-download",
+        "file": "Industria-2-download"
+      },
+      {
+        "slug": "Industria-2-gog",
+        "file": "Industria-2-gog"
+      },
+      {
+        "slug": "Industria-2-platforms",
+        "file": "Industria-2-platforms"
+      },
+      {
+        "slug": "Industria-2-ps5",
+        "file": "Industria-2-ps5"
+      },
+      {
+        "slug": "Industria-2-steam",
+        "file": "Industria-2-steam"
+      },
+      {
+        "slug": "Industria-2-vr",
+        "file": "Industria-2-vr"
+      },
+      {
+        "slug": "Industria-2-xbox",
+        "file": "Industria-2-xbox"
+      }
+    ],
+    "release": [
+      {
+        "slug": "Industria-2-date",
+        "file": "Industria-2-date"
+      },
+      {
+        "slug": "Industria-2-delayed",
+        "file": "Industria-2-delayed"
+      },
+      {
+        "slug": "Industria-2-launch-date",
+        "file": "Industria-2-launch-date"
+      },
+      {
+        "slug": "Industria-2-ps5-release-date",
+        "file": "Industria-2-ps5-release-date"
+      },
+      {
+        "slug": "Industria-2-release-date",
+        "file": "Industria-2-release-date"
+      },
+      {
+        "slug": "Industria-2-release",
+        "file": "Industria-2-release"
+      },
+      {
+        "slug": "Industria-2-when-is-coming-out",
+        "file": "Industria-2-when-is-coming-out"
+      },
+      {
+        "slug": "Industria-2-xbox-release-date",
+        "file": "Industria-2-xbox-release-date"
+      },
+      {
+        "slug": "industria-2-patch-notes",
+        "file": "industria-2-patch-notes"
+      }
+    ],
+    "reviews": [
+      {
+        "slug": "Industria-2-demo-reddit",
+        "file": "Industria-2-demo-reddit"
+      },
+      {
+        "slug": "Industria-2-is-it-good",
+        "file": "Industria-2-is-it-good"
+      },
+      {
+        "slug": "Industria-2-metacritic",
+        "file": "Industria-2-metacritic"
+      },
+      {
+        "slug": "Industria-2-price",
+        "file": "Industria-2-price"
+      },
+      {
+        "slug": "Industria-2-reddit",
+        "file": "Industria-2-reddit"
+      },
+      {
+        "slug": "Industria-2-review",
+        "file": "Industria-2-review"
+      },
+      {
+        "slug": "Industria-2-steam-review",
+        "file": "Industria-2-steam-review"
+      }
+    ],
+    "story": [
+      {
+        "slug": "Industria-2-cast",
+        "file": "Industria-2-cast"
+      },
+      {
+        "slug": "Industria-2-developer",
+        "file": "Industria-2-developer"
+      },
+      {
+        "slug": "Industria-2-enemies",
+        "file": "Industria-2-enemies"
+      },
+      {
+        "slug": "Industria-2-story",
+        "file": "Industria-2-story"
+      },
+      {
+        "slug": "Industria-2-voice-actors",
+        "file": "Industria-2-voice-actors"
+      },
+      {
+        "slug": "Industria-2-weapons",
+        "file": "Industria-2-weapons"
+      },
+      {
+        "slug": "industria-2-all-endings",
+        "file": "industria-2-all-endings"
+      },
+      {
+        "slug": "industria-2-ending-explained",
+        "file": "industria-2-ending-explained"
+      },
+      {
+        "slug": "industria-2-lore",
+        "file": "industria-2-lore"
+      }
+    ],
+    "trailers": [
+      {
+        "slug": "Industria-2-gameplay-trailer",
+        "file": "Industria-2-gameplay-trailer"
+      },
+      {
+        "slug": "Industria-2-launch-trailer",
+        "file": "Industria-2-launch-trailer"
+      },
+      {
+        "slug": "Industria-2-official-trailer",
+        "file": "Industria-2-official-trailer"
+      },
+      {
+        "slug": "Industria-2-release-date-trailer",
+        "file": "Industria-2-release-date-trailer"
+      },
+      {
+        "slug": "Industria-2-story-trailer",
+        "file": "Industria-2-story-trailer"
+      },
+      {
+        "slug": "Industria-2-trailer-song",
+        "file": "Industria-2-trailer-song"
+      },
+      {
+        "slug": "Industria-2-trailer",
+        "file": "Industria-2-trailer"
+      },
+      {
+        "slug": "Industria-2-youtube",
+        "file": "Industria-2-youtube"
+      }
+    ]
+  },
+  "ru": {
+    "guide": [
+      {
+        "slug": "Industria-2-before-you-buy",
+        "file": "Industria-2-before-you-buy"
+      },
+      {
+        "slug": "Industria-2-beginner-guide",
+        "file": "Industria-2-beginner-guide"
+      },
+      {
+        "slug": "Industria-2-chapter-1",
+        "file": "Industria-2-chapter-1"
+      },
+      {
+        "slug": "Industria-2-first-hour",
+        "file": "Industria-2-first-hour"
+      },
+      {
+        "slug": "Industria-2-how-to-play",
+        "file": "Industria-2-how-to-play"
+      },
+      {
+        "slug": "Industria-2-walkthrough",
+        "file": "Industria-2-walkthrough"
+      },
+      {
+        "slug": "industria-2-achievements",
+        "file": "industria-2-achievements"
+      },
+      {
+        "slug": "industria-2-chapters",
+        "file": "industria-2-chapters"
+      },
+      {
+        "slug": "industria-2-how-long-to-beat",
+        "file": "industria-2-how-long-to-beat"
+      },
+      {
+        "slug": "industria-2-puzzles",
+        "file": "industria-2-puzzles"
+      },
+      {
+        "slug": "industria-2-save-system",
+        "file": "industria-2-save-system"
+      },
+      {
+        "slug": "industria-2-secrets",
+        "file": "industria-2-secrets"
+      },
+      {
+        "slug": "industria-2-storage-code",
+        "file": "industria-2-storage-code"
+      }
+    ],
+    "performance": [
+      {
+        "slug": "Industria-2-game-engine",
+        "file": "Industria-2-game-engine"
+      },
+      {
+        "slug": "Industria-2-rtx-5090",
+        "file": "Industria-2-rtx-5090"
+      },
+      {
+        "slug": "Industria-2-system-requirements",
+        "file": "Industria-2-system-requirements"
+      },
+      {
+        "slug": "Industria-2-unreal-engine-5",
+        "file": "Industria-2-unreal-engine-5"
+      }
+    ],
+    "platforms": [
+      {
+        "slug": "Industria-2-co-op",
+        "file": "Industria-2-co-op"
+      },
+      {
+        "slug": "Industria-2-demo",
+        "file": "Industria-2-demo"
+      },
+      {
+        "slug": "Industria-2-download",
+        "file": "Industria-2-download"
+      },
+      {
+        "slug": "Industria-2-gog",
+        "file": "Industria-2-gog"
+      },
+      {
+        "slug": "Industria-2-platforms",
+        "file": "Industria-2-platforms"
+      },
+      {
+        "slug": "Industria-2-ps5",
+        "file": "Industria-2-ps5"
+      },
+      {
+        "slug": "Industria-2-steam",
+        "file": "Industria-2-steam"
+      },
+      {
+        "slug": "Industria-2-vr",
+        "file": "Industria-2-vr"
+      },
+      {
+        "slug": "Industria-2-xbox",
+        "file": "Industria-2-xbox"
+      }
+    ],
+    "release": [
+      {
+        "slug": "Industria-2-date",
+        "file": "Industria-2-date"
+      },
+      {
+        "slug": "Industria-2-delayed",
+        "file": "Industria-2-delayed"
+      },
+      {
+        "slug": "Industria-2-launch-date",
+        "file": "Industria-2-launch-date"
+      },
+      {
+        "slug": "Industria-2-ps5-release-date",
+        "file": "Industria-2-ps5-release-date"
+      },
+      {
+        "slug": "Industria-2-release-date",
+        "file": "Industria-2-release-date"
+      },
+      {
+        "slug": "Industria-2-release",
+        "file": "Industria-2-release"
+      },
+      {
+        "slug": "Industria-2-when-is-coming-out",
+        "file": "Industria-2-when-is-coming-out"
+      },
+      {
+        "slug": "Industria-2-xbox-release-date",
+        "file": "Industria-2-xbox-release-date"
+      },
+      {
+        "slug": "industria-2-patch-notes",
+        "file": "industria-2-patch-notes"
+      }
+    ],
+    "reviews": [
+      {
+        "slug": "Industria-2-demo-reddit",
+        "file": "Industria-2-demo-reddit"
+      },
+      {
+        "slug": "Industria-2-is-it-good",
+        "file": "Industria-2-is-it-good"
+      },
+      {
+        "slug": "Industria-2-metacritic",
+        "file": "Industria-2-metacritic"
+      },
+      {
+        "slug": "Industria-2-price",
+        "file": "Industria-2-price"
+      },
+      {
+        "slug": "Industria-2-reddit",
+        "file": "Industria-2-reddit"
+      },
+      {
+        "slug": "Industria-2-review",
+        "file": "Industria-2-review"
+      },
+      {
+        "slug": "Industria-2-steam-review",
+        "file": "Industria-2-steam-review"
+      }
+    ],
+    "story": [
+      {
+        "slug": "Industria-2-cast",
+        "file": "Industria-2-cast"
+      },
+      {
+        "slug": "Industria-2-developer",
+        "file": "Industria-2-developer"
+      },
+      {
+        "slug": "Industria-2-enemies",
+        "file": "Industria-2-enemies"
+      },
+      {
+        "slug": "Industria-2-story",
+        "file": "Industria-2-story"
+      },
+      {
+        "slug": "Industria-2-voice-actors",
+        "file": "Industria-2-voice-actors"
+      },
+      {
+        "slug": "Industria-2-weapons",
+        "file": "Industria-2-weapons"
+      },
+      {
+        "slug": "industria-2-all-endings",
+        "file": "industria-2-all-endings"
+      },
+      {
+        "slug": "industria-2-ending-explained",
+        "file": "industria-2-ending-explained"
+      },
+      {
+        "slug": "industria-2-lore",
+        "file": "industria-2-lore"
+      }
+    ],
+    "trailers": [
+      {
+        "slug": "Industria-2-gameplay-trailer",
+        "file": "Industria-2-gameplay-trailer"
+      },
+      {
+        "slug": "Industria-2-launch-trailer",
+        "file": "Industria-2-launch-trailer"
+      },
+      {
+        "slug": "Industria-2-official-trailer",
+        "file": "Industria-2-official-trailer"
+      },
+      {
+        "slug": "Industria-2-release-date-trailer",
+        "file": "Industria-2-release-date-trailer"
+      },
+      {
+        "slug": "Industria-2-story-trailer",
+        "file": "Industria-2-story-trailer"
+      },
+      {
+        "slug": "Industria-2-trailer-song",
+        "file": "Industria-2-trailer-song"
+      },
+      {
+        "slug": "Industria-2-trailer",
+        "file": "Industria-2-trailer"
+      },
+      {
+        "slug": "Industria-2-youtube",
+        "file": "Industria-2-youtube"
+      }
+    ]
+  }
+}

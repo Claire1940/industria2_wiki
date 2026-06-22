@@ -1,0 +1,716 @@
+Batch Codex dispatch
+   Tasks file: /root/.openclaw/skills/game-refactor/tasks/game-refactor-industria2-tasks.json
+   Workdir: /root/Documents/GameProjects/industria2_wiki
+   Feishu: oc_e4f98b748e58cdbd958e213960da26a4
+   Tmux session: industria2_wiki
+
+Total tasks: 10
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Task [1/10]: game-refactor-part1-basic-config-industria2
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Task metadata written: /root/.openclaw/workspace-code-dev/skills/codex-agent/data/sessions/industria2_wiki/task-meta.json
+   Task ID: game-refactor-part1-basic-config-industria2_20260430_024301_1287811
+   Task: game-refactor-part1-basic-config-industria2
+   Target: oc_e4f98b748e58cdbd958e213960da26a4
+   Prompt file: /root/.openclaw/workspace-code-dev/skills/codex-agent/data/prompts/game-refactor-part1-basic-config-industria2_20260430_024301_1287811.md
+Creating tmux session: industria2_wiki
+Auto-trusted directories in config.toml: ['/root/Documents/GameProjects/industria2_wiki']
+Started codex-agent in tmux session: industria2_wiki
+To monitor: tmux -S /tmp/clawdbot-tmux-sockets/codex-code.sock attach -t industria2_wiki
+
+Task sent to codex session: industria2_wiki
+To watch: tmux -S /tmp/clawdbot-tmux-sockets/codex-code.sock attach -t industria2_wiki
+│
+◇  Config warnings ────────────────────────────────────────────────────────╮
+│                                                                          │
+│  - plugins.entries.qqbot: plugin not found: qqbot (stale config entry    │
+│    ignored; remove it from plugins config)                               │
+│  - plugins.entries.ddingtalk: plugin not found: ddingtalk (stale config  │
+│    entry ignored; remove it from plugins config)                         │
+│  - plugins.entries.wecom: plugin not found: wecom (stale config entry    │
+│    ignored; remove it from plugins config)                               │
+│  - plugins.entries.adp-openclaw: plugin not found: adp-openclaw (stale   │
+│    config entry ignored; remove it from plugins config)                  │
+│                                                                          │
+├──────────────────────────────────────────────────────────────────────────╯
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[info]: [ 'client ready' ]
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+✅ Sent via Feishu. Message ID: om_x100b501852e74cb8c2bc3be79567a14
+   Task ID: game-refactor-part1-basic-config-industria2_20260430_024301_1287811
+Waiting for task: game-refactor-part1-basic-config-industria2_20260430_024301_1287811 (timeout: 7200s)
+   Still waiting... (60s / 7200s)
+   Still waiting... (120s / 7200s)
+   Still waiting... (180s / 7200s)
+   Still waiting... (240s / 7200s)
+   Still waiting... (300s / 7200s)
+   Still waiting... (360s / 7200s)
+   Still waiting... (420s / 7200s)
+   Still waiting... (480s / 7200s)
+   Still waiting... (540s / 7200s)
+   Still waiting... (600s / 7200s)
+Task completed: game-refactor-part1-basic-config-industria2_20260430_024301_1287811 (600s)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Task [2/10]: game-refactor-part2-metadata-seo-industria2
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Chaining from previous task (4041 chars)
+Task metadata written: /root/.openclaw/workspace-code-dev/skills/codex-agent/data/sessions/industria2_wiki/task-meta.json
+   Task ID: game-refactor-part2-metadata-seo-industria2_20260430_025315_1299858
+   Task: game-refactor-part2-metadata-seo-industria2
+   Target: oc_e4f98b748e58cdbd958e213960da26a4
+   Prompt file: /root/.openclaw/workspace-code-dev/skills/codex-agent/data/prompts/game-refactor-part2-metadata-seo-industria2_20260430_025315_1299858.md
+Creating tmux session: industria2_wiki
+Started codex-agent in tmux session: industria2_wiki
+To monitor: tmux -S /tmp/clawdbot-tmux-sockets/codex-code.sock attach -t industria2_wiki
+
+Task sent to codex session: industria2_wiki
+To watch: tmux -S /tmp/clawdbot-tmux-sockets/codex-code.sock attach -t industria2_wiki
+│
+◇  Config warnings ────────────────────────────────────────────────────────╮
+│                                                                          │
+│  - plugins.entries.qqbot: plugin not found: qqbot (stale config entry    │
+│    ignored; remove it from plugins config)                               │
+│  - plugins.entries.ddingtalk: plugin not found: ddingtalk (stale config  │
+│    entry ignored; remove it from plugins config)                         │
+│  - plugins.entries.wecom: plugin not found: wecom (stale config entry    │
+│    ignored; remove it from plugins config)                               │
+│  - plugins.entries.adp-openclaw: plugin not found: adp-openclaw (stale   │
+│    config entry ignored; remove it from plugins config)                  │
+│                                                                          │
+├──────────────────────────────────────────────────────────────────────────╯
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[info]: [ 'client ready' ]
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+✅ Sent via Feishu. Message ID: om_x100b50180ca547ecc4f9b3f50dba137
+   Task ID: game-refactor-part2-metadata-seo-industria2_20260430_025315_1299858
+Waiting for task: game-refactor-part2-metadata-seo-industria2_20260430_025315_1299858 (timeout: 7200s)
+   Still waiting... (60s / 7200s)
+   Still waiting... (120s / 7200s)
+   Still waiting... (180s / 7200s)
+   Still waiting... (240s / 7200s)
+   Still waiting... (300s / 7200s)
+   Still waiting... (360s / 7200s)
+   Still waiting... (420s / 7200s)
+   Still waiting... (480s / 7200s)
+   Still waiting... (540s / 7200s)
+   Still waiting... (600s / 7200s)
+   Still waiting... (660s / 7200s)
+   Still waiting... (720s / 7200s)
+   Still waiting... (780s / 7200s)
+   Still waiting... (840s / 7200s)
+   Still waiting... (900s / 7200s)
+Task completed: game-refactor-part2-metadata-seo-industria2_20260430_025315_1299858 (900s)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Task [3/10]: game-refactor-part3-multilang-nav-industria2
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Chaining from previous task (10487 chars)
+Task metadata written: /root/.openclaw/workspace-code-dev/skills/codex-agent/data/sessions/industria2_wiki/task-meta.json
+   Task ID: game-refactor-part3-multilang-nav-industria2_20260430_030827_1314254
+   Task: game-refactor-part3-multilang-nav-industria2
+   Target: oc_e4f98b748e58cdbd958e213960da26a4
+   Prompt file: /root/.openclaw/workspace-code-dev/skills/codex-agent/data/prompts/game-refactor-part3-multilang-nav-industria2_20260430_030827_1314254.md
+Creating tmux session: industria2_wiki
+Started codex-agent in tmux session: industria2_wiki
+To monitor: tmux -S /tmp/clawdbot-tmux-sockets/codex-code.sock attach -t industria2_wiki
+
+Task sent to codex session: industria2_wiki
+To watch: tmux -S /tmp/clawdbot-tmux-sockets/codex-code.sock attach -t industria2_wiki
+│
+◇  Config warnings ────────────────────────────────────────────────────────╮
+│                                                                          │
+│  - plugins.entries.qqbot: plugin not found: qqbot (stale config entry    │
+│    ignored; remove it from plugins config)                               │
+│  - plugins.entries.ddingtalk: plugin not found: ddingtalk (stale config  │
+│    entry ignored; remove it from plugins config)                         │
+│  - plugins.entries.wecom: plugin not found: wecom (stale config entry    │
+│    ignored; remove it from plugins config)                               │
+│  - plugins.entries.adp-openclaw: plugin not found: adp-openclaw (stale   │
+│    config entry ignored; remove it from plugins config)                  │
+│                                                                          │
+├──────────────────────────────────────────────────────────────────────────╯
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[info]: [ 'client ready' ]
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+✅ Sent via Feishu. Message ID: om_x100b501835aefca0c4a770d0c8be131
+   Task ID: game-refactor-part3-multilang-nav-industria2_20260430_030827_1314254
+Waiting for task: game-refactor-part3-multilang-nav-industria2_20260430_030827_1314254 (timeout: 7200s)
+   Still waiting... (60s / 7200s)
+   Still waiting... (120s / 7200s)
+   Still waiting... (180s / 7200s)
+   Still waiting... (240s / 7200s)
+   Still waiting... (300s / 7200s)
+   Still waiting... (360s / 7200s)
+   Still waiting... (420s / 7200s)
+   Still waiting... (480s / 7200s)
+   Still waiting... (540s / 7200s)
+Task completed: game-refactor-part3-multilang-nav-industria2_20260430_030827_1314254 (560s)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Task [4/10]: game-refactor-part4-homepage-1-industria2
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Chaining from previous task (6496 chars)
+Task metadata written: /root/.openclaw/workspace-code-dev/skills/codex-agent/data/sessions/industria2_wiki/task-meta.json
+   Task ID: game-refactor-part4-homepage-1-industria2_20260430_031759_1324227
+   Task: game-refactor-part4-homepage-1-industria2
+   Target: oc_e4f98b748e58cdbd958e213960da26a4
+   Prompt file: /root/.openclaw/workspace-code-dev/skills/codex-agent/data/prompts/game-refactor-part4-homepage-1-industria2_20260430_031759_1324227.md
+Creating tmux session: industria2_wiki
+Started codex-agent in tmux session: industria2_wiki
+To monitor: tmux -S /tmp/clawdbot-tmux-sockets/codex-code.sock attach -t industria2_wiki
+
+Task sent to codex session: industria2_wiki
+To watch: tmux -S /tmp/clawdbot-tmux-sockets/codex-code.sock attach -t industria2_wiki
+│
+◇  Config warnings ────────────────────────────────────────────────────────╮
+│                                                                          │
+│  - plugins.entries.qqbot: plugin not found: qqbot (stale config entry    │
+│    ignored; remove it from plugins config)                               │
+│  - plugins.entries.ddingtalk: plugin not found: ddingtalk (stale config  │
+│    entry ignored; remove it from plugins config)                         │
+│  - plugins.entries.wecom: plugin not found: wecom (stale config entry    │
+│    ignored; remove it from plugins config)                               │
+│  - plugins.entries.adp-openclaw: plugin not found: adp-openclaw (stale   │
+│    config entry ignored; remove it from plugins config)                  │
+│                                                                          │
+├──────────────────────────────────────────────────────────────────────────╯
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[info]: [ 'client ready' ]
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+✅ Sent via Feishu. Message ID: om_x100b5018d1e758b4c4c7447b4d011df
+   Task ID: game-refactor-part4-homepage-1-industria2_20260430_031759_1324227
+Waiting for task: game-refactor-part4-homepage-1-industria2_20260430_031759_1324227 (timeout: 7200s)
+   Still waiting... (60s / 7200s)
+   Still waiting... (120s / 7200s)
+   Still waiting... (180s / 7200s)
+   Still waiting... (240s / 7200s)
+   Still waiting... (300s / 7200s)
+   Still waiting... (360s / 7200s)
+   Still waiting... (420s / 7200s)
+   Still waiting... (480s / 7200s)
+   Still waiting... (540s / 7200s)
+   Still waiting... (600s / 7200s)
+   Still waiting... (660s / 7200s)
+   Still waiting... (720s / 7200s)
+   Still waiting... (780s / 7200s)
+Task completed: game-refactor-part4-homepage-1-industria2_20260430_031759_1324227 (800s)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Task [5/10]: game-refactor-part5-homepage-2-industria2
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Chaining from previous task (5527 chars)
+Task metadata written: /root/.openclaw/workspace-code-dev/skills/codex-agent/data/sessions/industria2_wiki/task-meta.json
+   Task ID: game-refactor-part5-homepage-2-industria2_20260430_033131_1340460
+   Task: game-refactor-part5-homepage-2-industria2
+   Target: oc_e4f98b748e58cdbd958e213960da26a4
+   Prompt file: /root/.openclaw/workspace-code-dev/skills/codex-agent/data/prompts/game-refactor-part5-homepage-2-industria2_20260430_033131_1340460.md
+Creating tmux session: industria2_wiki
+Started codex-agent in tmux session: industria2_wiki
+To monitor: tmux -S /tmp/clawdbot-tmux-sockets/codex-code.sock attach -t industria2_wiki
+
+Task sent to codex session: industria2_wiki
+To watch: tmux -S /tmp/clawdbot-tmux-sockets/codex-code.sock attach -t industria2_wiki
+│
+◇  Config warnings ────────────────────────────────────────────────────────╮
+│                                                                          │
+│  - plugins.entries.qqbot: plugin not found: qqbot (stale config entry    │
+│    ignored; remove it from plugins config)                               │
+│  - plugins.entries.ddingtalk: plugin not found: ddingtalk (stale config  │
+│    entry ignored; remove it from plugins config)                         │
+│  - plugins.entries.wecom: plugin not found: wecom (stale config entry    │
+│    ignored; remove it from plugins config)                               │
+│  - plugins.entries.adp-openclaw: plugin not found: adp-openclaw (stale   │
+│    config entry ignored; remove it from plugins config)                  │
+│                                                                          │
+├──────────────────────────────────────────────────────────────────────────╯
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[info]: [ 'client ready' ]
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+✅ Sent via Feishu. Message ID: om_x100b50189f289878c10818f16b071dc
+   Task ID: game-refactor-part5-homepage-2-industria2_20260430_033131_1340460
+Waiting for task: game-refactor-part5-homepage-2-industria2_20260430_033131_1340460 (timeout: 7200s)
+   Still waiting... (60s / 7200s)
+   Still waiting... (120s / 7200s)
+   Still waiting... (180s / 7200s)
+   Still waiting... (240s / 7200s)
+   Still waiting... (300s / 7200s)
+   Still waiting... (360s / 7200s)
+   Still waiting... (420s / 7200s)
+   Still waiting... (480s / 7200s)
+   Still waiting... (540s / 7200s)
+   Still waiting... (600s / 7200s)
+Task completed: game-refactor-part5-homepage-2-industria2_20260430_033131_1340460 (640s)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Task [6/10]: game-refactor-part6-homepage-3-industria2
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Chaining from previous task (5527 chars)
+Task metadata written: /root/.openclaw/workspace-code-dev/skills/codex-agent/data/sessions/industria2_wiki/task-meta.json
+   Task ID: game-refactor-part6-homepage-3-industria2_20260430_034223_1349774
+   Task: game-refactor-part6-homepage-3-industria2
+   Target: oc_e4f98b748e58cdbd958e213960da26a4
+   Prompt file: /root/.openclaw/workspace-code-dev/skills/codex-agent/data/prompts/game-refactor-part6-homepage-3-industria2_20260430_034223_1349774.md
+Creating tmux session: industria2_wiki
+Started codex-agent in tmux session: industria2_wiki
+To monitor: tmux -S /tmp/clawdbot-tmux-sockets/codex-code.sock attach -t industria2_wiki
+
+Task sent to codex session: industria2_wiki
+To watch: tmux -S /tmp/clawdbot-tmux-sockets/codex-code.sock attach -t industria2_wiki
+│
+◇  Config warnings ────────────────────────────────────────────────────────╮
+│                                                                          │
+│  - plugins.entries.qqbot: plugin not found: qqbot (stale config entry    │
+│    ignored; remove it from plugins config)                               │
+│  - plugins.entries.ddingtalk: plugin not found: ddingtalk (stale config  │
+│    entry ignored; remove it from plugins config)                         │
+│  - plugins.entries.wecom: plugin not found: wecom (stale config entry    │
+│    ignored; remove it from plugins config)                               │
+│  - plugins.entries.adp-openclaw: plugin not found: adp-openclaw (stale   │
+│    config entry ignored; remove it from plugins config)                  │
+│                                                                          │
+├──────────────────────────────────────────────────────────────────────────╯
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[info]: [ 'client ready' ]
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+✅ Sent via Feishu. Message ID: om_x100b5018b4630088c390c65bcb9647e
+   Task ID: game-refactor-part6-homepage-3-industria2_20260430_034223_1349774
+Waiting for task: game-refactor-part6-homepage-3-industria2_20260430_034223_1349774 (timeout: 7200s)
+   Still waiting... (60s / 7200s)
+   Still waiting... (120s / 7200s)
+   Still waiting... (180s / 7200s)
+   Still waiting... (240s / 7200s)
+   Still waiting... (300s / 7200s)
+   Still waiting... (360s / 7200s)
+   Still waiting... (420s / 7200s)
+   Still waiting... (480s / 7200s)
+   Still waiting... (540s / 7200s)
+   Still waiting... (600s / 7200s)
+Task completed: game-refactor-part6-homepage-3-industria2_20260430_034223_1349774 (600s)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Task [7/10]: game-refactor-part7-homepage-4-industria2
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Chaining from previous task (5527 chars)
+Task metadata written: /root/.openclaw/workspace-code-dev/skills/codex-agent/data/sessions/industria2_wiki/task-meta.json
+   Task ID: game-refactor-part7-homepage-4-industria2_20260430_035235_1358175
+   Task: game-refactor-part7-homepage-4-industria2
+   Target: oc_e4f98b748e58cdbd958e213960da26a4
+   Prompt file: /root/.openclaw/workspace-code-dev/skills/codex-agent/data/prompts/game-refactor-part7-homepage-4-industria2_20260430_035235_1358175.md
+Creating tmux session: industria2_wiki
+Started codex-agent in tmux session: industria2_wiki
+To monitor: tmux -S /tmp/clawdbot-tmux-sockets/codex-code.sock attach -t industria2_wiki
+
+Task sent to codex session: industria2_wiki
+To watch: tmux -S /tmp/clawdbot-tmux-sockets/codex-code.sock attach -t industria2_wiki
+│
+◇  Config warnings ────────────────────────────────────────────────────────╮
+│                                                                          │
+│  - plugins.entries.qqbot: plugin not found: qqbot (stale config entry    │
+│    ignored; remove it from plugins config)                               │
+│  - plugins.entries.ddingtalk: plugin not found: ddingtalk (stale config  │
+│    entry ignored; remove it from plugins config)                         │
+│  - plugins.entries.wecom: plugin not found: wecom (stale config entry    │
+│    ignored; remove it from plugins config)                               │
+│  - plugins.entries.adp-openclaw: plugin not found: adp-openclaw (stale   │
+│    config entry ignored; remove it from plugins config)                  │
+│                                                                          │
+├──────────────────────────────────────────────────────────────────────────╯
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[info]: [ 'client ready' ]
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+✅ Sent via Feishu. Message ID: om_x100b50196e2840b4c35393246aea6c9
+   Task ID: game-refactor-part7-homepage-4-industria2_20260430_035235_1358175
+Waiting for task: game-refactor-part7-homepage-4-industria2_20260430_035235_1358175 (timeout: 7200s)
+   Still waiting... (60s / 7200s)
+   Still waiting... (120s / 7200s)
+   Still waiting... (180s / 7200s)
+   Still waiting... (240s / 7200s)
+   Still waiting... (300s / 7200s)
+   Still waiting... (360s / 7200s)
+   Still waiting... (420s / 7200s)
+   Still waiting... (480s / 7200s)
+Task completed: game-refactor-part7-homepage-4-industria2_20260430_035235_1358175 (500s)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Task [8/10]: game-refactor-part8-articles-navigation-industria2
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Chaining from previous task (5526 chars)
+Task metadata written: /root/.openclaw/workspace-code-dev/skills/codex-agent/data/sessions/industria2_wiki/task-meta.json
+   Task ID: game-refactor-part8-articles-navigation-industria2_20260430_040107_1369295
+   Task: game-refactor-part8-articles-navigation-industria2
+   Target: oc_e4f98b748e58cdbd958e213960da26a4
+   Prompt file: /root/.openclaw/workspace-code-dev/skills/codex-agent/data/prompts/game-refactor-part8-articles-navigation-industria2_20260430_040107_1369295.md
+Creating tmux session: industria2_wiki
+Started codex-agent in tmux session: industria2_wiki
+To monitor: tmux -S /tmp/clawdbot-tmux-sockets/codex-code.sock attach -t industria2_wiki
+
+Task sent to codex session: industria2_wiki
+To watch: tmux -S /tmp/clawdbot-tmux-sockets/codex-code.sock attach -t industria2_wiki
+│
+◇  Config warnings ────────────────────────────────────────────────────────╮
+│                                                                          │
+│  - plugins.entries.qqbot: plugin not found: qqbot (stale config entry    │
+│    ignored; remove it from plugins config)                               │
+│  - plugins.entries.ddingtalk: plugin not found: ddingtalk (stale config  │
+│    entry ignored; remove it from plugins config)                         │
+│  - plugins.entries.wecom: plugin not found: wecom (stale config entry    │
+│    ignored; remove it from plugins config)                               │
+│  - plugins.entries.adp-openclaw: plugin not found: adp-openclaw (stale   │
+│    config entry ignored; remove it from plugins config)                  │
+│                                                                          │
+├──────────────────────────────────────────────────────────────────────────╯
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[info]: [ 'client ready' ]
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+✅ Sent via Feishu. Message ID: om_x100b50190fd81cbcc3ac5dce3a589d0
+   Task ID: game-refactor-part8-articles-navigation-industria2_20260430_040107_1369295
+Waiting for task: game-refactor-part8-articles-navigation-industria2_20260430_040107_1369295 (timeout: 7200s)
+   Still waiting... (60s / 7200s)
+   Still waiting... (120s / 7200s)
+   Still waiting... (180s / 7200s)
+   Still waiting... (240s / 7200s)
+   Still waiting... (300s / 7200s)
+   Still waiting... (360s / 7200s)
+   Still waiting... (420s / 7200s)
+   Still waiting... (480s / 7200s)
+   Still waiting... (540s / 7200s)
+   Still waiting... (600s / 7200s)
+   Still waiting... (660s / 7200s)
+Task completed: game-refactor-part8-articles-navigation-industria2_20260430_040107_1369295 (700s)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Task [9/10]: game-refactor-part9-linkmap-wikilinks-industria2
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Chaining from previous task (7143 chars)
+Task metadata written: /root/.openclaw/workspace-code-dev/skills/codex-agent/data/sessions/industria2_wiki/task-meta.json
+   Task ID: game-refactor-part9-linkmap-wikilinks-industria2_20260430_041302_1394498
+   Task: game-refactor-part9-linkmap-wikilinks-industria2
+   Target: oc_e4f98b748e58cdbd958e213960da26a4
+   Prompt file: /root/.openclaw/workspace-code-dev/skills/codex-agent/data/prompts/game-refactor-part9-linkmap-wikilinks-industria2_20260430_041302_1394498.md
+Creating tmux session: industria2_wiki
+Started codex-agent in tmux session: industria2_wiki
+To monitor: tmux -S /tmp/clawdbot-tmux-sockets/codex-code.sock attach -t industria2_wiki
+
+Task sent to codex session: industria2_wiki
+To watch: tmux -S /tmp/clawdbot-tmux-sockets/codex-code.sock attach -t industria2_wiki
+│
+◇  Config warnings ────────────────────────────────────────────────────────╮
+│                                                                          │
+│  - plugins.entries.qqbot: plugin not found: qqbot (stale config entry    │
+│    ignored; remove it from plugins config)                               │
+│  - plugins.entries.ddingtalk: plugin not found: ddingtalk (stale config  │
+│    entry ignored; remove it from plugins config)                         │
+│  - plugins.entries.wecom: plugin not found: wecom (stale config entry    │
+│    ignored; remove it from plugins config)                               │
+│  - plugins.entries.adp-openclaw: plugin not found: adp-openclaw (stale   │
+│    config entry ignored; remove it from plugins config)                  │
+│                                                                          │
+├──────────────────────────────────────────────────────────────────────────╯
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[info]: [ 'client ready' ]
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+✅ Sent via Feishu. Message ID: om_x100b50192354cc84c4fc503550ff6cf
+   Task ID: game-refactor-part9-linkmap-wikilinks-industria2_20260430_041302_1394498
+Waiting for task: game-refactor-part9-linkmap-wikilinks-industria2_20260430_041302_1394498 (timeout: 7200s)
+   Still waiting... (60s / 7200s)
+   Still waiting... (120s / 7200s)
+   Still waiting... (180s / 7200s)
+   Still waiting... (240s / 7200s)
+   Still waiting... (300s / 7200s)
+   Still waiting... (360s / 7200s)
+   Still waiting... (420s / 7200s)
+Task completed: game-refactor-part9-linkmap-wikilinks-industria2_20260430_041302_1394498 (460s)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Task [10/10]: game-refactor-part10-translation-industria2
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Chaining from previous task (3737 chars)
+Task metadata written: /root/.openclaw/workspace-code-dev/skills/codex-agent/data/sessions/industria2_wiki/task-meta.json
+   Task ID: game-refactor-part10-translation-industria2_20260430_042054_1401079
+   Task: game-refactor-part10-translation-industria2
+   Target: oc_e4f98b748e58cdbd958e213960da26a4
+   Prompt file: /root/.openclaw/workspace-code-dev/skills/codex-agent/data/prompts/game-refactor-part10-translation-industria2_20260430_042054_1401079.md
+Creating tmux session: industria2_wiki
+Started codex-agent in tmux session: industria2_wiki
+To monitor: tmux -S /tmp/clawdbot-tmux-sockets/codex-code.sock attach -t industria2_wiki
+
+Task sent to codex session: industria2_wiki
+To watch: tmux -S /tmp/clawdbot-tmux-sockets/codex-code.sock attach -t industria2_wiki
+│
+◇  Config warnings ────────────────────────────────────────────────────────╮
+│                                                                          │
+│  - plugins.entries.qqbot: plugin not found: qqbot (stale config entry    │
+│    ignored; remove it from plugins config)                               │
+│  - plugins.entries.ddingtalk: plugin not found: ddingtalk (stale config  │
+│    entry ignored; remove it from plugins config)                         │
+│  - plugins.entries.wecom: plugin not found: wecom (stale config entry    │
+│    ignored; remove it from plugins config)                               │
+│  - plugins.entries.adp-openclaw: plugin not found: adp-openclaw (stale   │
+│    config entry ignored; remove it from plugins config)                  │
+│                                                                          │
+├──────────────────────────────────────────────────────────────────────────╯
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[info]: [ 'client ready' ]
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+✅ Sent via Feishu. Message ID: om_x100b5019c5ed14a0c35de6e1ef00291
+   Task ID: game-refactor-part10-translation-industria2_20260430_042054_1401079
+Waiting for task: game-refactor-part10-translation-industria2_20260430_042054_1401079 (timeout: 7200s)
+   Still waiting... (60s / 7200s)
+   Still waiting... (120s / 7200s)
+   Still waiting... (180s / 7200s)
+   Still waiting... (240s / 7200s)
+   Still waiting... (300s / 7200s)
+   Still waiting... (360s / 7200s)
+   Still waiting... (420s / 7200s)
+   Still waiting... (480s / 7200s)
+   Still waiting... (540s / 7200s)
+   Still waiting... (600s / 7200s)
+   Still waiting... (660s / 7200s)
+   Still waiting... (720s / 7200s)
+   Still waiting... (780s / 7200s)
+   Still waiting... (840s / 7200s)
+   Still waiting... (900s / 7200s)
+   Still waiting... (960s / 7200s)
+   Still waiting... (1020s / 7200s)
+   Still waiting... (1080s / 7200s)
+   Still waiting... (1140s / 7200s)
+   Still waiting... (1200s / 7200s)
+   Still waiting... (1260s / 7200s)
+Task completed: game-refactor-part10-translation-industria2_20260430_042054_1401079 (1280s)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Summary: total=10 success=10 timeout=0 failed=0 time=7166s
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
